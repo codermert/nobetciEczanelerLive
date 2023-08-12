@@ -1,4 +1,6 @@
 # nobetciEczanelerLive
+Google Drive Link:
+https://drive.google.com/uc?export=download&id=11EhTazdRunv2AkpjHBVcBdS_QMWOSVue
 
 ![image](https://github.com/codermert/nobetciEczanelerLive/assets/53333294/c4869f1d-f997-48f4-b434-9bc411c40304)
 
