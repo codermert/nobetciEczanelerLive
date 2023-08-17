@@ -26,5 +26,6 @@ jobs:
         git add eczane_data.json
         git config --global user.email "codermert@bk.ru"
         git config --global user.name "codermert"
-        git commit -m "🎉 Nöbetçi Eczaneler verileri » @codermert"
+        current_time=$(date +"%T")
+        git commit -m "🎉 Nöbetçi Eczaneler verileri » @codermert | $current_time"
         git push
