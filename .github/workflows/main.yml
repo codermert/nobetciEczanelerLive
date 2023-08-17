@@ -24,5 +24,7 @@ jobs:
       run: |
         node eczane.js  # Script
         git add eczane_data.json
+        git config --global user.email "codermert@bk.ru"
+        git config --global user.name "codermert"
         git diff --cached --exit-code --quiet || git commit -m "🕰 Otomatik Nöbetçi Eczaneler » @codermert"
         git push
