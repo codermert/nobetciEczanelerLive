@@ -1,97 +1,32 @@
 [
   {
-    "isim": "Nokta Eczanesi",
-    "adres": "Dumlupınar Mahallesi, Cami yanı 3 No'lu Sağlık Ocağı karşısı Bismil / Diyarbakır",
-    "telefon": "0 (412) 415-13-17"
+    "isim": "Özgür Eczanesi",
+    "adres": "Özgürlük Bulvarı 1 Caddesi, Halk Bank yanı Adliye karşısı Bismil / Diyarbakır",
+    "telefon": "0 (412) 415-19-73"
   },
   {
-    "isim": "Halk Eczanesi",
-    "adres": "Hükümet Konağı yanı Çermik / Diyarbakır",
-    "telefon": "0 (412) 461-20-60"
+    "isim": "Burak Eczanesi",
+    "adres": "Devlet Hastanesi karşısı Çermik / Diyarbakır",
+    "telefon": "0 (412) 461-52-02"
   },
   {
-    "isim": "Şifa Eczanesi",
-    "adres": "Yeni Mahalle, Asmin Sokak No:1CA Çınar / Diyarbakır",
-    "telefon": "0 (412) 511-20-25"
+    "isim": "Lavanta Eczanesi",
+    "adres": "Fatih Mahallesi, Turgut Özal Bulvarı No:162 Çınar / Diyarbakır",
+    "telefon": "0 (536) 261-49-93"
   },
   {
-    "isim": "Yeni Dicle Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:125/A Dicle / Diyarbakır",
-    "telefon": "0 (412) 561-20-30"
+    "isim": "Atay Eczanesi",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:105/B Dicle / Diyarbakır",
+    "telefon": "0 (412) 561-25-61"
   },
   {
-    "isim": "Yaşar Eczanesi",
-    "adres": "Ali Gaffar Okan Lisesi karşısı (Bower Hastanesi çaprazı) Cumhuriyet Garajı yanı Sur / Diyarbakır",
-    "telefon": "0 (412) 223-55-15"
+    "isim": "Ünal Eczanesi",
+    "adres": "Yeni Devlet Hastanesi karşısı Ergani / Diyarbakır",
+    "telefon": "0 (507) 064-63-09"
   },
   {
-    "isim": "Ceylan Eczanesi",
-    "adres": "İstasyon Caddesi No:47 Urfa Kapı / Sur / Diyarbakır",
-    "telefon": "0 (412) 226-62-18"
-  },
-  {
-    "isim": "Yıldız Eczanesi",
-    "adres": "Mevlana Halit Mahallesi, Hatboyu Caddesi, Çarkanat 5 Apt. No:102 Bağlar / Diyarbakır",
-    "telefon": "0 (412) 236-01-52"
-  },
-  {
-    "isim": "Gökdere Eczanesi",
-    "adres": "Alipınar Mahallesi, Alipınar Caddesi, İkizler 9 Apt. No:1/A Bağlar / Diyarbakır",
-    "telefon": "0 (506) 632-00-45"
-  },
-  {
-    "isim": "Arzu Eczanesi",
-    "adres": "Bağcılar Mahallesi, Kamışlı Bulvarı No:2CC Bağlar / Diyarbakır",
-    "telefon": "0 (552) 502-73-71"
-  },
-  {
-    "isim": "Ali Eczanesi",
-    "adres": "Tesislerdeki Vakıfbank Binası arkası, Liv Otel arka Caddesi, ŞOK Market'in 50 metre ilerisi, Huzurevleri Caddesi Cami köşesinden girişte soldan ilk sokak Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 238-03-78"
-  },
-  {
-    "isim": "Anadolu Eczanesi",
-    "adres": "Peyas Mahallesi, 429. Sokak Pilda 2005 Apt. No:1/C Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 251-64-30"
-  },
-  {
-    "isim": "Arden Eczanesi",
-    "adres": "Fırat Mahallesi, 565.Sokak, Tigris Plaza altı No:5/C Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 504-70-04"
-  },
-  {
-    "isim": "Berçem Eczanesi",
-    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
-    "telefon": "0 (412) 233-12-25"
-  },
-  {
-    "isim": "Rozerin Eczanesi",
-    "adres": "İstasyon Yolu Üzeri Ergani / Diyarbakır",
-    "telefon": "0 (412) 611-89-56"
-  },
-  {
-    "isim": "Köksal Eczanesi",
-    "adres": "Merkez mahallesi, Salih Beg Caddesi No:4/A Hani / Diyarbakır",
-    "telefon": "0 (412) 651-21-58"
-  },
-  {
-    "isim": "Büşra Eczanesi",
-    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41/A Kocaköy / Diyarbakır",
-    "telefon": "0 (412) 811-22-33"
-  },
-  {
-    "isim": "Yeni Lokman Eczanesi",
-    "adres": "Turgut Özal Mahallesi, Cengiz Topel Caddesi No:7 Kulp / Diyarbakır",
-    "telefon": "0 (412) 831-20-35"
-  },
-  {
-    "isim": "Kılıç Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:142/C-D Lice / Diyarbakır",
-    "telefon": "0 (412) 861-22-57"
-  },
-  {
-    "isim": "Silvan Eczanesi",
-    "adres": "Feridun Mahallesi, Diyarbakır Caddesi, Tayfur 3 Apt. No:56/G Silvan / Diyarbakır",
-    "telefon": "0 (539) 678-71-47"
+    "isim": "Soylu Eczanesi",
+    "adres": "Cami Mahallesi, Selahattin Eyyubi Caddesi, Özel Şifa Tıp Merkezi Bitişiği Silvan / Diyarbakır",
+    "telefon": "0 (412) 711-32-50"
   }
 ]
