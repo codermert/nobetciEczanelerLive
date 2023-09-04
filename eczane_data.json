@@ -1,12 +1,12 @@
 [
   {
     "isim": "Fırat Eczanesi",
-    "adres": "Fırat Mahallesi Sağlık Ocağı Karşısı",
+    "adres": "Fırat Mahallesi Sağlık Ocağı Karşısı Bismil / Diyarbakır",
     "telefon": "0 (533) 145-24-25"
   },
   {
     "isim": "Şeyma Eczanesi",
-    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi, No: 61/a Bim Karşısı / Çarşı",
+    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi, No: 61/a Bim Karşısı / Çarşı Çermik / Diyarbakır",
     "telefon": "0 (553) 243-77-42"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "isim": "Neşe Eczanesi",
-    "adres": "Talaytepe Mahallesi Laleş Bulvarı Memur-Sen Toki Karşısı Çeysa Arium B Blok Altı 15 Temmuz Asm Yanı Balıkçı Hizası",
+    "adres": "Talaytepe Mahallesi Laleş Bulvarı Memur-Sen Toki Karşısı Çeysa Arium B Blok Altı 15 Temmuz Asm Yanı Balıkçı Hizası Merkez / Diyarbakır",
     "telefon": "0 (412) 236-47-37"
   },
   {
     "isim": "Arslan Eczanesi",
-    "adres": "Ceylan Avm Den Gazilere Giderken Sağdan 2. Sokak Tatlıcıoğlu Tatlıcısı Sokağında Gaziler Çeşme Durağı",
+    "adres": "Ceylan Avm Den Gazilere Giderken Sağdan 2. Sokak Tatlıcıoğlu Tatlıcısı Sokağında Gaziler Çeşme Durağı Merkez / Diyarbakır",
     "telefon": "0 (412) 251-82-79"
   },
   {
@@ -36,17 +36,17 @@
   },
   {
     "isim": "Diyar Eczanesi",
-    "adres": "Bağlar Bayındırlık'ta Ki Diş Hastanesi Karşısı Sigortacıların Olduğu Cadde Üzerinde.",
+    "adres": "Bağlar Bayındırlık'ta Ki Diş Hastanesi Karşısı Sigortacıların Olduğu Cadde Üzerinde. Merkez / Diyarbakır",
     "telefon": "0 (412) 234-34-36"
   },
   {
     "isim": "Barış Eczanesi",
-    "adres": "İskanevleri Kavşağı Yeniköy Mezarlığına Giden,cuma Pazarının Kurulduğu Cadde Diyar Düğün Salonu Yakını Yeniköy Asm Karşısı",
+    "adres": "İskanevleri Kavşağı Yeniköy Mezarlığına Giden,cuma Pazarının Kurulduğu Cadde Diyar Düğün Salonu Yakını Yeniköy Asm Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 235-00-26"
   },
   {
     "isim": "Ceren Eczanesi",
-    "adres": "Bağcılar Mahallesi Azadi Caddesi Başkent Sitesi 2 B Blok Altı",
+    "adres": "Bağcılar Mahallesi Azadi Caddesi Başkent Sitesi 2 B Blok Altı Merkez / Diyarbakır",
     "telefon": "0 (412) 503-53-30"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "isim": "Büşra Eczanesi",
-    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41A",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41/A Kocaköy / Diyarbakır",
     "telefon": "0 (412) 811-22-33"
   },
   {
@@ -86,11 +86,11 @@
   },
   {
     "isim": "Lice Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:202/A Lice / Diyarbakır",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:202/a Lice / Diyarbakır",
     "telefon": "0 (412) 861-25-23"
   },
   {
-    "isim": "Berfın Eczanesi",
+    "isim": "Berfin Eczanesi",
     "adres": "Mescit Mahallesi, Gazi Caddesi No:189/9 Silvan / Diyarbakır",
     "telefon": "0 (412) 711-26-23"
   }
