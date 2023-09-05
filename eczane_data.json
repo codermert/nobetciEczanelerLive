@@ -1,17 +1,17 @@
 [
   {
     "isim": "Vitamin Eczanesi",
-    "adres": "Akpınar Mahallesi, 15. Cadde No:77/CD Bismil / Diyarbakır",
+    "adres": "Akpınar Mahallesi 15. Cadde Vahdet Cami Yanı",
     "telefon": "0 (542) 427-82-63"
   },
   {
     "isim": "Gül Eczanesi",
-    "adres": "Tepe Mahallesi, Diyarbakır Caddesi No:66/B Çermik / Diyarbakır",
+    "adres": "Tepe Mahallesi, Diyarbakır Caddesi No:66/b",
     "telefon": "0 (537) 735-56-30"
   },
   {
     "isim": "Zencefil Eczanesi",
-    "adres": "Cumhuriyet Mahallesi, Atatürk Bulvarı No:38/A Çınar / Diyarbakır",
+    "adres": "Atatürk Bulvarı Cumhuriyet Mahallesi Iç Kapı No:38/a",
     "telefon": "0 (551) 593-80-80"
   },
   {
@@ -21,52 +21,52 @@
   },
   {
     "isim": "Okyanus Eczanesi",
-    "adres": "S.Eyyubi Bulvarı Yeni Yol Lukoil Petrol yukarısı, Kent Meydanı aşağısı, Sürücü Kursları yolu üzeri, Peyas Köyü karşısı, Elmas 9 Sitesi altı Kayapınar / Diyarbakır",
+    "adres": "S. Eyyubi Bulvarı Yeni Yol Lukoil Petrol Yukarısı,sürücü Kursları Yolu Üzeri Peyas Köyü Karşısı Elmas 9 Sitesi Altı Kayapınar Diyarbakır",
     "telefon": "0 (412) 257-58-97"
   },
   {
     "isim": "Ceyhun Eczanesi",
-    "adres": "Barış Mahallesi, Urfa Yolu Bulvarı, Farisoğlu Sitesi altı No:182/D Kayapınar / Diyarbakır",
+    "adres": "Urfa Yolu Üzeri Zana Düğün Salonu Çaprazı Çarmar Yanı Kayapınar",
     "telefon": "0 (412) 257-43-18"
   },
   {
     "isim": "Akalın Eczanesi",
-    "adres": "Fırat Mahallesi, Mezopotamya Bulvarı, Baba Tahir Caddesi, Karayıl Mezopotamya Park Sitesi G Blok altı No:1/GD\nKayapınar / Diyarbakır",
+    "adres": "Maya Ve Yedi Iklim Okulları Civarı, Alyans Düğün Salonu Çaprazı, Karayıl Sitesi Altı",
     "telefon": "0 (501) 318-20-77"
   },
   {
     "isim": "Bozan Eczanesi",
-    "adres": "Körhat Mahallesi, Alipınar Mezarlığı yanı, Meteoroloji Müdürlüğü bitişiği, Alay Komutanlığı karşısı Bağlar / Diyarbakır",
+    "adres": "Körhat Mahallesi, Alipınar Mezarlığı Yanı Meteoroloji Md. Bitişiği Alay Komutanlığı Karşısı",
     "telefon": "0 (412) 415-60-00"
   },
   {
     "isim": "Dinç Eczanesi",
-    "adres": "Mevlana Halit Mahallesi, Turgut Özal Bulvarı No:79 Bağlar / Diyarbakır",
+    "adres": "Bağlar Semt Polikliniği Ve Diş Hastanesi Karşısı Turgut Özal Bulvarı Bayındırlık Tesisler Civarı",
     "telefon": "0 (412) 236-72-81"
   },
   {
     "isim": "Hevi Eczanesi",
-    "adres": "Bağcılar Mahallesi, Nevroz Caddesi, Selenium Evleri No:11DE Bağlar / Diyarbakır",
+    "adres": "Bağcılar Mahallesi Nevroz Caddesi Selenium Evleri Nevroz Park Sahne Arkası No 11 De Bağlar Diyarbakır",
     "telefon": "0 (530) 786-43-84"
   },
   {
     "isim": "Baran Eczanesi",
-    "adres": "Ali Emiri 1 Sokak No:3/B Yenişehir / Diyarbakır",
+    "adres": "Ali Emiri 1 Sokak, No 3B Diyarlife Hastanesi Acil Yanı",
     "telefon": "0 (507) 707-33-17"
   },
   {
     "isim": "Ihlamur Eczanesi",
-    "adres": "Elazığ Yolu Üzeri, Araştırma Hastanesi Işıklardan Üçkuyular Tokiye girince 200 Metre ileride sağda, A101 ile Gökkuşağı Market Ortası, Sevgi Ucuzluk Merkezi bitişiği Yenişehir / Diyarbakır",
+    "adres": "Elazığ Yolu Üzeri Üçkuyu Kavşağı Işıklarından Üçkuyular Tokiye Girince 200 Metre Ileride Sağda A-101 Ile Gökkuşağı Market Ortası Sevgi Ucuzluk Merkezi Bitişiği",
     "telefon": "0 (412) 504-87-58"
   },
   {
-    "isim": "Berçem Eczanesi",
+    "isim": "Eğil Berçem",
     "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
     "telefon": "0 (412) 233-12-25"
   },
   {
     "isim": "Karanfil Eczanesi",
-    "adres": "Kemaliye Mahallesi, Gümüş Sokak No:15 Ergani / Diyarbakır",
+    "adres": "Kemaliye Mahallesi Gümüş Sokak No:15 Postane Sokağı. Turkcell Sokağı . Halk Bankası Üstü . Final Dershanesi Karşısı 0412 611 27 51",
     "telefon": "0 (534) 892-11-34"
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "isim": "Kadir Eczanesi",
-    "adres": "Lice / Diyarbakır",
+    "adres": "Lice",
     "telefon": "0 (554) 154-47-10"
   },
   {
     "isim": "Biçen Eczanesi",
-    "adres": "Yenişehir Mahallesi, Esenlik Caddesi No:9/D Silvan / Diyarbakır",
+    "adres": "Yenişehir Mahallesi Esenlik Caddesi No:9/d Silvan",
     "telefon": "0 (412) 711-81-00"
   }
 ]
