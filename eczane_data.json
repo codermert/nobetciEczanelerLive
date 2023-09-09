@@ -1,12 +1,12 @@
 [
   {
     "isim": "Serhat Eczanesi",
-    "adres": "Kurtuluş Mahallesi, Özgürlük Bulvarı No:89 Barış Plaza Şeker Optik Yanı Bismil / Diyarbakır",
+    "adres": "Kurtuluş Mahallesi, Özgürlük Bulvarı No:89 Bismil / Diyarbakır",
     "telefon": "0 (543) 133-52-27"
   },
   {
     "isim": "Şeyma Eczanesi",
-    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi, No: 61/a Bim Karşısı / Çarşı Çermik / Diyarbakır",
+    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi No:61/A Çermik / Diyarbakır",
     "telefon": "0 (553) 243-77-42"
   },
   {
@@ -16,22 +16,22 @@
   },
   {
     "isim": "Amed Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi, No 103 Amed Eczanesi Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:103 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-30-48"
   },
   {
     "isim": "Rohat Eczanesi",
-    "adres": "Batı Hastanesi Çaprazı, Diclekent Villaları Joly Joker Karşısı Kayapınar / Diyarbakır",
+    "adres": "Batı Hastanesi çaprazı, Diclekent Villaları Joly Joker karşısı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-37-54"
   },
   {
     "isim": "Zehra Eczanesi",
-    "adres": "Fırat Bulvarı Petrol Ofisi Karşısı Çarmar Yanı Gaziler Son Durak Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, Fırat Bulvarı No:146/D Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-51-61"
   },
   {
     "isim": "Atlas Eczanesi",
-    "adres": "Otogar Ile Sanayi Arası Yoldan Içeri Girişte 2. Kavşaktan Sola Dönünce Tezgel Kom Market Arasına Girdikten Sonra 200M Ileride Sol Tarafta Öncü Pietra Sitesi Karşısı Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Jiyan Caddesi, 580.Sokak Döker Life Sitesi B-Blok No:3/BB Kayapınar / Diyarbakır",
     "telefon": "0 (551) 960-78-76"
   },
   {
@@ -41,27 +41,27 @@
   },
   {
     "isim": "Diyar Eczanesi",
-    "adres": "Bağlar Bayındırlık'ta Ki Diş Hastanesi Karşısı Sigortacıların Olduğu Cadde Üzerinde. Merkez / Diyarbakır",
+    "adres": "Bağlar Bayındırlık'daki Diş Hastanesi karşısı Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-34-36"
   },
   {
     "isim": "Işık Eczanesi",
-    "adres": "Yenihal Caddesi, Toptancılar Sitesi Ilerisi Erbab 3 Sitesi D Blok Altı No:2 Gökkuşağı Düğün Salonu Kavşağı Ali Kuşçu Ortaokulu Karşısı Merkez / Diyarbakır",
+    "adres": "Yenihal Caddesi, Toptancılar Sitesi ilerisi Erbab 3 Sitesi D-Blok altı No:2 Bağlar / Diyarbakır",
     "telefon": "0 (412) 290-35-99"
   },
   {
     "isim": "Çiçek Eczanesi",
-    "adres": "Dr. Şeref Inalöz Caddesi, No:3/a Selahattin Eyyubi Devlet Hastanesi Karşısı Merkez / Diyarbakır",
+    "adres": "Dr. Şeref İnalöz Caddesi, No:3/A Sur / Diyarbakır",
     "telefon": "0 (412) 223-59-47"
   },
   {
     "isim": "Ihlamur Eczanesi",
-    "adres": "Elazığ Yolu Üzeri Üçkuyu Kavşağı Işıklarından Üçkuyular Tokiye Girince 200 Metre Ileride Sağda A-101 Ile Gökkuşağı Market Ortası Sevgi Ucuzluk Merkezi Bitişiği",
+    "adres": "Elazığ Yolu Üzeri, Araştırma Hastanesi Işıklardan Üçkuyular Tokiye girince 200 Metre ileride sağda, A101 ile Gökkuşağı Market Ortası, Sevgi Ucuzluk Merkezi bitişiği Yenişehir / Diyarbakır",
     "telefon": "0 (412) 504-87-58"
   },
   {
     "isim": "Kan Eczanesi",
-    "adres": "Kale Mahallesi, Bey Sokak No:8/b Eğil / Diyarbakır",
+    "adres": "Kale Mahallesi, Bey Sokak No:8/B Eğil / Diyarbakır",
     "telefon": "0 (531) 316-87-26"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "isim": "Nida Eczanesi",
-    "adres": "Merkez Mahallesi, Ilkokul Caddesi No:39/a Hani / Diyarbakır",
+    "adres": "Merkez Mahallesi, İlkokul Caddesi No:39/A Hani / Diyarbakır",
     "telefon": "0 (536) 991-83-80"
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "isim": "Aktaş Eczanesi",
-    "adres": "Turgut Özal Mahallesi, Diyarbakır Caddesi 246/z1 Kulp Diyarbakır",
+    "adres": "Turgut Özal Mahallesi, Diyarbakır Caddesi No:246/Z1 Kulp / Diyarbakır",
     "telefon": "0 (412) 831-23-01"
   },
   {
     "isim": "Lice Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:202/a Lice / Diyarbakır",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:202/A Lice / Diyarbakır",
     "telefon": "0 (412) 861-25-23"
   },
   {
