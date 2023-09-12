@@ -6,7 +6,7 @@
   },
   {
     "isim": "Hastane Eczanesi",
-    "adres": "Devlet Hastanesi Karşısı",
+    "adres": "Devlet Hastanesi Karşısı Çermik / Diyarbakır",
     "telefon": "0 (543) 461-88-23"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "isim": "Kalender Eczanesi",
-    "adres": "Medya Mahallesi, 172. Sokak, Hatipoğlu 2 Şelale Evleri A Blok No:9 Ibnisina Asm Yanı Metropol Sitesi 2 Arkası Kuçe Mahallesi, Girişi",
+    "adres": "Medya Mahallesi, 172. Sokak, Hatipoğlu 2 Şelale Evleri A Blok No:9 Ibnisina Asm Yanı Metropol Sitesi 2 Arkası Kuçe Mahallesi, Girişi Merkez / Diyarbakır",
     "telefon": "0 (412) 228-25-85"
   },
   {
@@ -31,32 +31,32 @@
   },
   {
     "isim": "Asuman Eczanesi",
-    "adres": "Tema Park Karşısı Tez Gel Market Yanı Fırat Mahallesi Nazım Hikmet Caddesi Çarkanat Mer Sitesi D Blok Altı No:23/da",
+    "adres": "Tema Park Karşısı Tez Gel Market Yanı Fırat Mahallesi Nazım Hikmet Caddesi Çarkanat Mer Sitesi D Blok Altı No:23/da Merkez / Diyarbakır",
     "telefon": "0 (412) 999-44-60"
   },
   {
     "isim": "Ayşin Eczanesi",
-    "adres": "Nükhet Coskun Caddesi Bağlar Hastanesi Karşısı Dörtyol Bağlar",
+    "adres": "Nükhet Coskun Caddesi Bağlar Hastanesi Karşısı Dörtyol Bağlar Merkez / Diyarbakır",
     "telefon": "0 (412) 581-20-10"
   },
   {
     "isim": "Emek Eczanesi",
-    "adres": "Bağlar Emek Caddesi, 85/b1 Eski Polis Okulu Karşısı",
+    "adres": "Bağlar Emek Caddesi, 85/b1 Eski Polis Okulu Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 234-15-55"
   },
   {
     "isim": "Poyraz Eczanesi",
-    "adres": "Dağkapı Meydanı Dolmuş Durağı Karşısı Şafak Kahvaltı Salonu Yanı Star Otel Altı",
+    "adres": "Dağkapı Meydanı Dolmuş Durağı Karşısı Şafak Kahvaltı Salonu Yanı Star Otel Altı Merkez / Diyarbakır",
     "telefon": "0 (412) 223-00-03"
   },
   {
     "isim": "Zelal Eczanesi",
-    "adres": "Şehitlik Mahallesi, Eski Ticaret Lisesi Yanı Yaradanakul Caddesi, Demir Apt. Altı No:19/a",
+    "adres": "Şehitlik Mahallesi, Eski Ticaret Lisesi Yanı Yaradanakul Caddesi, Demir Apt. Altı No:19/a Merkez / Diyarbakır",
     "telefon": "0 (412) 226-33-33"
   },
   {
     "isim": "Faruk Eczanesi",
-    "adres": "Hamravat Evleri Arkası Araç Muayene Istasyon Karşı Caddesi Karakuş Yapı-Mimoza Cty Altı Hamravat Asm Yanı",
+    "adres": "Hamravat Evleri Arkası Araç Muayene Istasyon Karşı Caddesi Karakuş Yapı-Mimoza Cty Altı Hamravat Asm Yanı Merkez / Diyarbakır",
     "telefon": "0 (412) 251-51-14"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "isim": "Makam Eczanesi",
-    "adres": "14 Nolu Asm Karşısı Yeşil Vadi Sokağı Divan Kafe Arkası Adnan Menderes Mahallesi Orhan Doğan Caddesi 7.sokak No:4Ca",
+    "adres": "14 Nolu Asm Karşısı Yeşil Vadi Sokağı Divan Kafe Arkası Adnan Menderes Mahallesi Orhan Doğan Caddesi 7.sokak No:4Ca Ergani / Diyarbakır",
     "telefon": "0 (536) 612-62-21"
   },
   {
@@ -76,8 +76,13 @@
   },
   {
     "isim": "Büşra Eczanesi",
-    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41A",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41/A Kocaköy / Diyarbakır",
     "telefon": "0 (412) 811-22-33"
+  },
+  {
+    "isim": "Merkez Eczanesi",
+    "adres": "Turgut Özal Mahallesi, Diyarbakır Caddesi, Kulp / Diyarbakır",
+    "telefon": "0 (412) 831-22-83"
   },
   {
     "isim": "Kılıç Eczanesi",
