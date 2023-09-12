@@ -1,97 +1,92 @@
 [
   {
-    "isim": "Akdağ Eczanesi",
-    "adres": "Dumlupınar Mahallesi, Diyar Caddesi Bismil / Diyarbakır",
-    "telefon": "0 (412) 415-11-22"
+    "isim": "Sanat Eczanesi",
+    "adres": "Sanat Sokağı Kaptan Iş Merkezi Karşısı Merkez Camii Yanı Altıok Mahallesi, 3. Caddesi, No:10/b Bismil / Diyarbakır",
+    "telefon": "0 (412) 415-08-09"
   },
   {
-    "isim": "Burak Eczanesi",
-    "adres": "Devlet Hastanesi karşısı Çermik / Diyarbakır",
-    "telefon": "0 (412) 461-52-02"
+    "isim": "Hastane Eczanesi",
+    "adres": "Devlet Hastanesi Karşısı",
+    "telefon": "0 (543) 461-88-23"
   },
   {
-    "isim": "Babur Eczanesi",
-    "adres": "Gazi Mahallesi, 19 Mayıs Caddesi No:116/C Çınar / Diyarbakır",
-    "telefon": "0 (412) 511-21-21"
+    "isim": "Gülfem Eczanesi",
+    "adres": "Adres Atatürk Bulvarı Gazi Mahallesi No 12A Çınar Diyarbakır",
+    "telefon": "0 (412) 511-33-21"
   },
   {
-    "isim": "Barış Eczanesi",
-    "adres": "27 Mayıs Mahallesi, Ergani Caddesi No:190/4 Dicle / Diyarbakır",
-    "telefon": "0 (412) 561-26-26"
+    "isim": "Piran Eczanesi",
+    "adres": "15 Temmuz Mahallesi Ergani Yolu Caddesi, Dicle Devlet Hastanesi Karşısı Dicle / Diyarbakır",
+    "telefon": "0 (412) 561-23-43"
   },
   {
-    "isim": "Gülandem Eczanesi",
-    "adres": "Talaytepe Mahallesi, 4001. Sokak, Sosyal Konutlar Toki İş Merkezi No:4/B Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 503-83-83"
+    "isim": "Kalender Eczanesi",
+    "adres": "Medya Mahallesi, 172. Sokak, Hatipoğlu 2 Şelale Evleri A Blok No:9 Ibnisina Asm Yanı Metropol Sitesi 2 Arkası Kuçe Mahallesi, Girişi",
+    "telefon": "0 (412) 228-25-85"
   },
   {
-    "isim": "Güleken Eczanesi",
-    "adres": "Mezopotamya Mahallesi, Ayşe Zarakoğlu Caddesi, Pınar Apt. No:31/A Kayapınar / Diyarbakır",
-    "telefon": "0 (537) 502-05-99"
+    "isim": "Ceylan Karavil Park Eczanesi",
+    "adres": "Yenihal Kavşağı Ceylan Karavil Park Alış Veriş Merkezi Giriş Katı",
+    "telefon": "0 (412) 251-32-32"
   },
   {
-    "isim": "Vina Eczanesi",
-    "adres": "Mezopotamya Bulvarı, 50 metrelik Yol Üzeri, Seferoğlu İç Kale Sitesi altı, E Blok No:28/2-A Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 502-73-00"
+    "isim": "Asuman Eczanesi",
+    "adres": "Tema Park Karşısı Tez Gel Market Yanı Fırat Mahallesi Nazım Hikmet Caddesi Çarkanat Mer Sitesi D Blok Altı No:23/da",
+    "telefon": "0 (412) 999-44-60"
   },
   {
-    "isim": "Dilan Eczanesi",
-    "adres": "Kaynartepe Mahallesi, Nükhet Coşkun Caddesi, Özel Bağlar Hastanesi Karşısı Bağlar / Diyarbakır",
-    "telefon": "0 (412) 236-05-08"
+    "isim": "Ayşin Eczanesi",
+    "adres": "Nükhet Coskun Caddesi Bağlar Hastanesi Karşısı Dörtyol Bağlar",
+    "telefon": "0 (412) 581-20-10"
   },
   {
-    "isim": "Pınar Eczanesi",
-    "adres": "Bağcılar Mahallesi, Kamışlo Bulvarı, Çarkanat Sitesi No:31 Bağlar / Diyarbakır",
-    "telefon": "0 (412) 234-11-55"
+    "isim": "Emek Eczanesi",
+    "adres": "Bağlar Emek Caddesi, 85/b1 Eski Polis Okulu Karşısı",
+    "telefon": "0 (412) 234-15-55"
   },
   {
-    "isim": "Uysal Eczanesi",
-    "adres": "Aliemiri 1. Sokak, No:6/2-A Dağkapı Yenişehir / Diyarbakır",
-    "telefon": "0 (412) 228-58-58"
+    "isim": "Poyraz Eczanesi",
+    "adres": "Dağkapı Meydanı Dolmuş Durağı Karşısı Şafak Kahvaltı Salonu Yanı Star Otel Altı",
+    "telefon": "0 (412) 223-00-03"
   },
   {
-    "isim": "Ufuk Can Eczanesi",
-    "adres": "Üçkuyu Mahallesi, Hilar Caddesi, Öz Fırat Sitesi B Blok No:1/BA Yenişehir / Diyarbakır",
-    "telefon": "0 (412) 502-70-90"
+    "isim": "Zelal Eczanesi",
+    "adres": "Şehitlik Mahallesi, Eski Ticaret Lisesi Yanı Yaradanakul Caddesi, Demir Apt. Altı No:19/a",
+    "telefon": "0 (412) 226-33-33"
   },
   {
-    "isim": "Reyhan Eczanesi",
-    "adres": "Selahattin Eyyubi Mahallesi, Aydın Arslan Bulvarı No:21/C Bağlar / Diyarbakır",
-    "telefon": "0 (533) 373-41-21"
+    "isim": "Faruk Eczanesi",
+    "adres": "Hamravat Evleri Arkası Araç Muayene Istasyon Karşı Caddesi Karakuş Yapı-Mimoza Cty Altı Hamravat Asm Yanı",
+    "telefon": "0 (412) 251-51-14"
   },
   {
-    "isim": "Berçem Eczanesi",
-    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
-    "telefon": "0 (412) 233-12-25"
+    "isim": "Kan Eczanesi",
+    "adres": "Kale Mahallesi, Bey Sokak No:8/B Eğil / Diyarbakır",
+    "telefon": "0 (531) 316-87-26"
   },
   {
-    "isim": "Solmaz Eczanesi",
-    "adres": "Sanayi Mahallesi, 2 Nolu Sağlık Ocağı ve Eski Diş Hastanesi karşısı Ergani / Diyarbakır",
-    "telefon": "0 (412) 611-27-57"
+    "isim": "Makam Eczanesi",
+    "adres": "14 Nolu Asm Karşısı Yeşil Vadi Sokağı Divan Kafe Arkası Adnan Menderes Mahallesi Orhan Doğan Caddesi 7.sokak No:4Ca",
+    "telefon": "0 (536) 612-62-21"
   },
   {
-    "isim": "Aslan Eczanesi",
-    "adres": "Merkez Mahallesi, Nergiz 3.Sokak No:24/A Hani / Diyarbakır",
-    "telefon": "0 (412) 651-22-00"
+    "isim": "Kiziroğlu Eczanesi",
+    "adres": "Merkez Mahallesi, Nergiz 2 Sokak No:15 Hani / Diyarbakır",
+    "telefon": "0 (412) 651-21-17"
   },
   {
-    "isim": "Karaz Eczanesi",
-    "adres": "Kokulupınar Caddesi, Kocaköy / Diyarbakır",
-    "telefon": "0 (412) 224-00-38"
+    "isim": "Büşra Eczanesi",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41A",
+    "telefon": "0 (412) 811-22-33"
   },
   {
-    "isim": "Sidar Eczanesi",
-    "adres": "Yeni Mahallesi, Turgut Özal Bulvarı No:5/C Kulp / Diyarbakır",
-    "telefon": "0 (412) 831-23-24"
+    "isim": "Kılıç Eczanesi",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:142/C-D Lice / Diyarbakır",
+    "telefon": "0 (412) 861-22-57"
   },
   {
-    "isim": "Kadir Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/C Lice / Diyarbakır",
-    "telefon": "0 (554) 154-47-10"
-  },
-  {
-    "isim": "Ertaş Eczanesi",
-    "adres": "Bağlar Mahallesi, Fırat Simpil Caddesi, Medine Apt. No:2/B Silvan / Diyarbakır",
-    "telefon": "0 (542) 159-34-48"
+    "isim": "Fırat Eczanesi",
+    "adres": "Silvan Yeni Devlet Hastanesi Karşısı",
+    "telefon": "0 (412) 711-47-23"
   }
 ]
