@@ -1,12 +1,12 @@
 [
   {
     "isim": "Yusuf Eczanesi",
-    "adres": "Altıok Mahallesi Aydınlık Caddesi No:32/a Ilçe Tarım Çaprazı Bülent Börek Yanı",
+    "adres": "Altıok Mahallesi Aydınlık Caddesi No:32/a Ilçe Tarım Çaprazı Bülent Börek Yanı Bismil / Diyarbakır",
     "telefon": "0 (538) 722-95-91"
   },
   {
     "isim": "Bahar Eczanesi",
-    "adres": "İlçe Tarım Karşısı 2 Nolu Sağlık Ocağı Yanı",
+    "adres": "İlçe Tarım Karşısı 2 Nolu Sağlık Ocağı Yanı Çermik / Diyarbakır",
     "telefon": "0 (412) 461-21-22"
   },
   {
@@ -15,43 +15,48 @@
     "telefon": "0 (412) 511-25-11"
   },
   {
+    "isim": "Bayram Eczanesi",
+    "adres": "Hastane Caddesi, Dicle 1 Nolu Aile Sağlığı Merkezi civarı Dicle / Diyarbakır",
+    "telefon": "0 (412) 561-27-01"
+  },
+  {
     "isim": "Batı Eczanesi",
-    "adres": "Diclekent Ava Düğün Salonu Yanı Batı Hastanesi Karşısı",
+    "adres": "Diclekent Ava Düğün Salonu Yanı Batı Hastanesi Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 236-40-04"
   },
   {
     "isim": "Zehra Eczanesi",
-    "adres": "Fırat Bulvarı Petrol Ofisi Karşısı Çarmar Yanı Gaziler Son Durak",
+    "adres": "Fırat Bulvarı Petrol Ofisi Karşısı Çarmar Yanı Gaziler Son Durak Merkez / Diyarbakır",
     "telefon": "0 (412) 251-51-61"
   },
   {
     "isim": "Dicle Eczanesi",
-    "adres": "75. Yol Go Petrol'ün Karşısındaki Nazım Hikmet Caddesi Tema Parkı Ve Aslan Market Arası Sol Taraftayız",
+    "adres": "75. Yol Go Petrol'ün Karşısındaki Nazım Hikmet Caddesi Tema Parkı Ve Aslan Market Arası Sol Taraftayız Merkez / Diyarbakır",
     "telefon": "0 (412) 611-80-56"
   },
   {
     "isim": "Serçem Eczanesi",
-    "adres": "S. Eyubi Mahallesi, Bayındırlık Ninova Arkası Güneydoğu Taksi Durağı Arkası",
+    "adres": "S. Eyubi Mahallesi, Bayındırlık Ninova Arkası Güneydoğu Taksi Durağı Arkası Merkez / Diyarbakır",
     "telefon": "0 (412) 237-19-88"
   },
   {
     "isim": "Zilan Eczanesi",
-    "adres": "5 Nisan Mahallesi, 744. Sokak, Mehmet Cansız Ortaokulu Arkası. Bingöllüler Yas Evi Civarı. Bağlar Sağlık Ocağı Karşısı .",
+    "adres": "5 Nisan Mahallesi, 744. Sokak, Mehmet Cansız Ortaokulu Arkası. Bingöllüler Yas Evi Civarı. Bağlar Sağlık Ocağı Karşısı . Merkez / Diyarbakır",
     "telefon": "0 (412) 235-97-04"
   },
   {
     "isim": "Işık Eczanesi",
-    "adres": "Yenihal Caddesi, Toptancılar Sitesi Ilerisi Erbab 3 Sitesi D Blok Altı No:2 Gökkuşağı Düğün Salonu Kavşağı Ali Kuşçu Ortaokulu Karşısı",
+    "adres": "Yenihal Caddesi, Toptancılar Sitesi Ilerisi Erbab 3 Sitesi D Blok Altı No:2 Gökkuşağı Düğün Salonu Kavşağı Ali Kuşçu Ortaokulu Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 290-35-99"
   },
   {
     "isim": "Yağmur Eczanesi",
-    "adres": "Büyük Şehir Belediyesi Karşısı Lise Caddesinde Çamlıca Taksi Durağı Bitişiği , Çarmar Market Karşısı Yenişehir",
+    "adres": "Büyük Şehir Belediyesi karşısı Lise Caddesinde Çamlıca Taksi Durağı Bitişiği, Çarmar Market karşısı Yenişehir / Diyarbakır",
     "telefon": "0 (412) 228-04-04"
   },
   {
     "isim": "Şilbe Yolaltı Eczanesi",
-    "adres": "Elazığ Caddesi 2. Sanayi Karşısı, Tapu Kadatro Sonrası, Ilk Sağ, Şilbe Caddesi",
+    "adres": "Elazığ Caddesi 2. Sanayi Karşısı, Tapu Kadatro Sonrası, Ilk Sağ, Şilbe Caddesi Merkez / Diyarbakır",
     "telefon": "0 (412) 262-12-12"
   },
   {
@@ -63,6 +68,11 @@
     "isim": "Şilan Eczanesi",
     "adres": "Yeni Ergani Devlet Hastanesi Karşısı",
     "telefon": "0 (533) 731-85-96"
+  },
+  {
+    "isim": "Şifa Eczanesi",
+    "adres": "Merkez Mahallesi, Nergiz 2 Sokak No:14, Hani / Diyarbakır",
+    "telefon": "0 (538) 744-43-08"
   },
   {
     "isim": "Karaz Eczanesi",
@@ -81,7 +91,7 @@
   },
   {
     "isim": "Hayat Eczanesi",
-    "adres": "Bahçeli Evler Mahallesi Eski Devlet Hastanesi Karşısı",
+    "adres": "Bahçeli Evler Mahallesi Eski Devlet Hastanesi Karşısı Silvan / Diyarbakır",
     "telefon": "0 (412) 711-34-56"
   }
 ]
