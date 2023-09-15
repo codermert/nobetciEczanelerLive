@@ -1,17 +1,17 @@
 [
   {
     "isim": "Sema Eczanesi",
-    "adres": "Altıok Mahallesi, Örnek Caddesi, 2/g Halkbank Karşısı",
+    "adres": "Altıok Mahallesi, Örnek Caddesi, 2/g Halkbank Karşısı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-09-10"
   },
   {
     "isim": "Hamravat Eczanesi",
-    "adres": "Devlet Hastanesi Karşısı",
+    "adres": "Devlet Hastanesi Karşısı Çermik / Diyarbakır",
     "telefon": "0 (537) 520-52-84"
   },
   {
     "isim": "Şifa Eczanesi",
-    "adres": "Yeni Mahalle Asmin Sokak 1C A Çınar",
+    "adres": "Yeni Mahalle, Asmin Sokak No:1CA Çınar / Diyarbakır",
     "telefon": "0 (412) 511-20-25"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "isim": "Huzurevleri Eczanesi",
-    "adres": "Huzurevleri Mahallesi, Dr. Sıtkı Göral Caddesi, Yıldem Apt. Altı No:24/a Kelebek Fırın Karşısı",
+    "adres": "Huzurevleri Mahallesi, Dr. Sıtkı Göral Caddesi, Yıldem Apt. Altı No:24/a Kelebek Fırın Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 238-16-58"
   },
   {
     "isim": "Pilatin Eczanesi",
-    "adres": "Yeniyol Son Durak . Diclekent Nasır Usta Hizasinda. Roboski Parkı Karşısı .. Diclekent Go Petrol Ile Opet Petrol Ortasında",
+    "adres": "Yeniyol Son Durak . Diclekent Nasır Usta Hizasinda. Roboski Parkı Karşısı .. Diclekent Go Petrol Ile Opet Petrol Ortasında Merkez / Diyarbakır",
     "telefon": "0 (412) 257-05-30"
   },
   {
@@ -36,27 +36,27 @@
   },
   {
     "isim": "Canan Eczanesi",
-    "adres": "Körhat Mahallesi, Cemiloğlu Bulvarı Körhat Sağlık Ocağı Karşısı Meteroloji Il Müd. Yanı",
+    "adres": "Körhat Mahallesi, Cemiloğlu Bulvarı Körhat Sağlık Ocağı Karşısı Meteroloji Il Müd. Yanı Merkez / Diyarbakır",
     "telefon": "0 (412) 223-68-93"
   },
   {
     "isim": "Liman Eczanesi",
-    "adres": "Bağcılar Mahallesi Kamışlo Bulvarı Fidan Tunç Sitesi B Blok No:39/ba Big Gross Çapraz Karşısı Newroz Parktan Havalimanına Giden Yol Üzerinde",
+    "adres": "Bağcılar Mahallesi Kamışlo Bulvarı Fidan Tunç Sitesi B Blok No:39/ba Big Gross Çapraz Karşısı Newroz Parktan Havalimanına Giden Yol Üzerinde Merkez / Diyarbakır",
     "telefon": "0 (412) 503-82-21"
   },
   {
     "isim": "Çiçek Eczanesi",
-    "adres": "Dr. Şeref Inalöz Caddesi, No:3/a Selahattin Eyyubi Devlet Hastanesi Karşısı",
+    "adres": "Dr. Şeref Inalöz Caddesi, No:3/a Selahattin Eyyubi Devlet Hastanesi Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 223-59-47"
   },
   {
     "isim": "Nehir Eczanesi",
-    "adres": "Şehitlik Mahallesi Yaradanakul Caddesi, Karataş Apt. Eskihal Yolu",
+    "adres": "Şehitlik Mahallesi Yaradanakul Caddesi, Karataş Apt. Eskihal Yolu Yenişehir / Diyarbakır",
     "telefon": "0 (412) 226-17-01"
   },
   {
     "isim": "Bilge Eczanesi",
-    "adres": "Selahattin Eyyubi Mahallesi, Aydın Arslan Bulvarı Aydın Sitesi Şelale Evleri 8C1 No:26/a Bağlar Sultan Hastanesi Karşısı",
+    "adres": "Selahattin Eyyubi Mahallesi, Aydın Arslan Bulvarı Aydın Sitesi Şelale Evleri 8C1 No:26/a Bağlar Sultan Hastanesi Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 237-18-62"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "isim": "Erol Eczanesi",
-    "adres": "Dicle Caddesi Namık Kemal Mahallesi 14/a Emek Kırtasiye Bitişiği",
+    "adres": "Dicle Caddesi Namık Kemal Mahallesi 14/a Emek Kırtasiye Bitişiği Ergani / Diyarbakır",
     "telefon": "0 (545) 745-74-65"
   },
   {
@@ -86,11 +86,11 @@
   },
   {
     "isim": "Kadir Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/C Lice / Diyarbakır",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/c Lice / Diyarbakır",
     "telefon": "0 (554) 154-47-10"
   },
   {
-    "isim": "Mem U Zin",
+    "isim": "MemuZin Eczanesi",
     "adres": "Devlet Hastanesi yakını, Silvan / Diyarbakır",
     "telefon": "0 (412) 711-57-57"
   }
