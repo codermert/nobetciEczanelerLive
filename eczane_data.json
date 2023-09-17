@@ -1,72 +1,72 @@
 [
   {
     "isim": "Aysel Eczanesi",
-    "adres": "Fırat Mahallesi Sağlık Ocağı Yanı",
+    "adres": "Fırat Mahallesi, 221.Sokak No:16/A Bismil / Diyarbakır",
     "telefon": "0 (412) 415-19-22"
   },
   {
     "isim": "Halk Eczanesi",
-    "adres": "Hükümet Konağı Yanı",
+    "adres": "Hükümet Konağı yanı Çermik / Diyarbakır",
     "telefon": "0 (412) 461-20-60"
   },
   {
     "isim": "Ademhan Eczanesi",
-    "adres": "Gazi Mahallesi, 19.mayıs Caddesi Kayıkçı 4 Apt. No:116 Çınar",
+    "adres": "Gazi Mahallesi, 19 Mayıs Caddesi, Kayıkçı 4 Apt. No:116 Çınar / Diyarbakır",
     "telefon": "0 (412) 511-21-20"
   },
   {
     "isim": "Atay Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi, No: 105/b Dicle Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:105/B Dicle / Diyarbakır",
     "telefon": "0 (412) 561-25-61"
   },
   {
     "isim": "İnci Eczanesi",
-    "adres": "Ava Düğün Salonu Sokağından 200 Mt Ilerleyince Bediüzzaman Camii Arkası",
+    "adres": "Diclekent Mahallesi, 265.Sokak, Çeysa 6 Sitesi A-Blok altı No:5/A Kayapınar / Diyarbakır",
     "telefon": "0 (533) 360-12-24"
   },
   {
     "isim": "Nora Eczanesi",
-    "adres": "Fırat Mahallesi Urfa Yolu Özel Dicle Memorial Hastanesi Yanı Çeysa Serhat Plaza Altı",
+    "adres": "Fırat Mahallesi, Urfa Yolu Özel Dicle Memorial Hastanesi yanı Çeysa Serhat Plaza Altı Kayapınar / Diyarbakır",
     "telefon": "0 (539) 775-33-50"
   },
   {
     "isim": "Mazlum Doğan Eczanesi",
-    "adres": "Urfa Yolu Üzeri Otogar Arkası Tanlar Şehri Teras Altı",
+    "adres": "Urfa Yolu Üzeri Otogar Arkası Tanlar Şehri Teras Altı Merkez / Diyarbakır",
     "telefon": "0 (531) 247-08-08"
   },
   {
     "isim": "Çevre Eczanesi",
-    "adres": "Hatboyu Caddesi, Güneydoğu Yapı Koop.1.kısım No:1 Çarşamba Pazarının Başı Hatboyu Hacı Baba Pastanesi Karşısı Bağlar",
+    "adres": "Hatboyu Caddesi, Güneydoğu Yapı Kooperatifi 1.Kısım No:1 Bağlar / Diyarbakır",
     "telefon": "0 (412) 236-88-07"
   },
   {
     "isim": "Mesut Eczanesi",
-    "adres": "Sento Caddesi, Hacı Süleyman Aydın Sit. Altı C Blok No:83/b Kuruçeşme Ziraat Bankası Bitişiği Bağlar",
+    "adres": "Sento Caddesi, Hacı Süleyman Aydın Sitesi altı C-Blok No:83/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 251-03-07"
   },
   {
     "isim": "Bağcılar Eczanesi",
-    "adres": "Kadın Doğum Hastanesi Arkası Bağcılar Mahallesi, Avea Caddesi Best Fırın Yanı",
+    "adres": "Kadın Doğum Hastanesi Arkası Bağcılar Mahallesi, Avea Caddesi Best Fırın yanı Bağlar / Diyarbakır",
     "telefon": "0 (412) 502-24-25"
   },
   {
     "isim": "Büşra Eczanesi",
-    "adres": "Dağkapı Çocuk Hastanesi Yanı Özel Akdemi Kbb Bitişiği Levent Lojmanları Karşısı No:7/e",
+    "adres": "Levent Lojmanları karşısı No:7/E Yenişehir / Diyarbakır",
     "telefon": "0 (412) 228-70-27"
   },
   {
     "isim": "Erbatur Eczanesi",
-    "adres": "Araştırma Hastanesi Çıkışı Tren Yolu Geçidinin Yanı Üçkuyu Mahallesi Elazığ/10 Sokak, No:6/c",
+    "adres": "Üçkuyu Mahallesi, Elazığ/10 Sokak No:6/C Yenişehir / Diyarbakır",
     "telefon": "0 (531) 243-77-15"
   },
   {
-    "isim": "Eğil Berçem",
-    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
+    "isim": "Berçem Eczanesi",
+    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/a Eğil / Diyarbakır",
     "telefon": "0 (412) 233-12-25"
   },
   {
-    "isim": "Subası Eczanesi",
-    "adres": "Ziyagökalp Caddesi, No:172",
+    "isim": "Subaşı Eczanesi",
+    "adres": "Aziziye Mahallesi, Ziyagökalp Caddesi No:172 Ergani / Diyarbakır",
     "telefon": "0 (412) 611-87-07"
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "isim": "Kadir Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/C Lice / Diyarbakır",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/c Lice / Diyarbakır",
     "telefon": "0 (554) 154-47-10"
   },
   {
     "isim": "Biçen Eczanesi",
-    "adres": "Yenişehir Mahallesi Esenlik Caddesi No:9/d Silvan",
+    "adres": "Yenişehir Mahallesi, Esenlik Caddesi No:9/D Silvan / Diyarbakır",
     "telefon": "0 (412) 711-81-00"
   }
 ]
