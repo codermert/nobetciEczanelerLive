@@ -1,97 +1,97 @@
 [
   {
-    "isim": "Rüzgar Eczanesi",
-    "adres": "Altıok Mahallesi, Ziraat Caddesi No:36/A Bismil / Diyarbakır",
-    "telefon": "0 (412) 415-64-78"
+    "isim": "Girişenler Eczanesi",
+    "adres": "Akpınar Mahallesi Özgürlük Bulvarı No 12 D. Bismil Girişi Migrosun 50 Metre Gerisinde Sağda",
+    "telefon": "0 (543) 585-19-21"
   },
   {
-    "isim": "Şeyma Eczanesi",
-    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi No:61/A Çermik / Diyarbakır",
-    "telefon": "0 (553) 243-77-42"
+    "isim": "Gül Eczanesi",
+    "adres": "Tepe Mahallesi, Diyarbakır Caddesi No:66/b",
+    "telefon": "0 (537) 735-56-30"
   },
   {
-    "isim": "Lotus Eczanesi",
-    "adres": "İlçe Devlet Hastanesi karşısı Çınar / Diyarbakır",
-    "telefon": "0 (412) 511-35-69"
+    "isim": "Damla Eczanesi",
+    "adres": "Gazi Mahallesi, Atatürk Bulvarı, Çınar / Diyarbakır",
+    "telefon": "0 (412) 511-22-50"
   },
   {
-    "isim": "Bayram Eczanesi",
-    "adres": "Hastane Caddesi, Dicle 1 Nolu Aile Sağlığı Merkezi civarı Dicle / Diyarbakır",
-    "telefon": "0 (412) 561-27-01"
+    "isim": "Yeni Dicle Eczanesi",
+    "adres": "15.temmuz Mahallesi, Ergani Caddesi, 125/a Dicle",
+    "telefon": "0 (412) 561-20-30"
   },
   {
-    "isim": "Dünya Eczanesi",
-    "adres": "Huzurevleri Mahallesi, Ş.Urfa Yolu 1.Km Özel Genesis Hastanesi yanı Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 237-20-67"
+    "isim": "Selamet Eczanesi",
+    "adres": "Seyrantepe Şanlıurfa Yolı 1.km Huzurevleri Mahallesi, 3. Sokak 13/a Genesis Hospital Arkası Acil Karşısı",
+    "telefon": "0 (412) 238-08-07"
   },
   {
-    "isim": "Ayçiçeği Eczanesi",
-    "adres": "Talaytepe Mahallesi, 4007.Sokak, Kule City Evleri D-Blok altı Kayapınar / Diyarbakır",
-    "telefon": "0 (546) 540-46-21"
+    "isim": "Gaziler Eczanesi",
+    "adres": "Gaziler Çeşme Durağı Karşısı",
+    "telefon": "0 (412) 252-21-23"
   },
   {
-    "isim": "Rohat Eczanesi",
-    "adres": "Batı Hastanesi çaprazı, Diclekent Villaları Joly Joker karşısı Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 257-37-54"
-  },
-  {
-    "isim": "Çevre Eczanesi",
-    "adres": "Hatboyu Caddesi, Güneydoğu Yapı Kooperatifi 1.Kısım No:1 Bağlar / Diyarbakır",
-    "telefon": "0 (412) 236-88-07"
-  },
-  {
-    "isim": "Ulusoy Eczanesi",
-    "adres": "Bağlar Sento Caddesi, Kuruçeşme No:79 Bağlar / Diyarbakır",
-    "telefon": "0 (412) 233-77-46"
-  },
-  {
-    "isim": "Hakan Eczanesi",
-    "adres": "Bağcılar Mahallesi, Yenihal 2.Caddesi (Avea Caddesi) Bağlar / Diyarbakır",
-    "telefon": "0 (505) 918-33-92"
-  },
-  {
-    "isim": "Dağkapı Eczanesi",
-    "adres": "Doktor Yusuf Azizoğlu Caddesi No:1/F Yenişehir / Diyarbakır",
-    "telefon": "0 (412) 228-84-33"
-  },
-  {
-    "isim": "Melih Eczanesi",
-    "adres": "Kooparatifler Mahallesi, Akkoyunlu Caddesi No:36/B Yenişehir / Diyarbakır",
-    "telefon": "0 (412) 229-32-88"
-  },
-  {
-    "isim": "Kan Eczanesi",
-    "adres": "Kale Mahallesi, Bey Sokak No:8/B Eğil / Diyarbakır",
-    "telefon": "0 (531) 316-87-26"
-  },
-  {
-    "isim": "Habibe Eczanesi",
-    "adres": "Kıralan Dink Mevkii-Adnan Menderes Mahallesi No:12/B Ergani / Diyarbakır",
-    "telefon": "0 (412) 611-11-00"
-  },
-  {
-    "isim": "Nida Eczanesi",
-    "adres": "Merkez Mahallesi, İlkokul Caddesi No:39/A Hani / Diyarbakır",
-    "telefon": "0 (536) 991-83-80"
-  },
-  {
-    "isim": "Nergis Eczanesi",
-    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:39/B Kocaköy / Diyarbakır",
-    "telefon": "0 (412) 811-21-21"
-  },
-  {
-    "isim": "Sidar Eczanesi",
-    "adres": "Yeni Mahallesi, Turgut Özal Bulvarı No:5/C Kulp / Diyarbakır",
-    "telefon": "0 (412) 831-23-24"
-  },
-  {
-    "isim": "Kadir Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/C Lice / Diyarbakır",
-    "telefon": "0 (554) 154-47-10"
+    "isim": "Tuba Eczanesi",
+    "adres": "Lunapark Caddesi Yeni Stadyum Yolu Migros Kavşağı Hacıbaba Pastaneleri Yanı Mezopotamya Mahallesi, Fırat Bulvarı Elbey Grup Ikra Sitesi B Blok No:138Bb",
+    "telefon": "0 (552) 590-76-09"
   },
   {
     "isim": "Nur Eczanesi",
-    "adres": "Kale Mahallesi, Karabehlülbey Caddesi, No:1/9 Silvan / Diyarbakır",
-    "telefon": "0 (412) 711-59-85"
+    "adres": "Cezaevinden Migrosa Giden Yol Üzeri Cezaevi Üst Köşe Buhara 1 Apt. Altı Pazar Pazarı Yanı",
+    "telefon": "0 (412) 252-07-76"
+  },
+  {
+    "isim": "Çağla Eczanesi",
+    "adres": "Emek Caddesi, Özlem 2000 Lokantası Civarı Badıka Yas Evi Yanı Emek Banyo Sokağı/ Bağlar Diyarbakır",
+    "telefon": "0 (412) 235-12-35"
+  },
+  {
+    "isim": "Yenihal Eczanesi",
+    "adres": "Bağcılar Mahallesi. Yenihal Kavşağı 1163. Sokak. Tabier Lahmacun Yan Sokağının Sonunda Star Düğün Salonu Karşısında",
+    "telefon": "0 (412) 252-32-25"
+  },
+  {
+    "isim": "Vadi Eczanesi",
+    "adres": "Veni Vidi Hastanesi Acil Karşısı Yenişehir Mahallesi, Aliemiri 1. Sokak, No:4/d",
+    "telefon": "0 (412) 228-05-05"
+  },
+  {
+    "isim": "Yenisinem Eczanesi",
+    "adres": "Şehitlik Mahallesi, Yaradanakul Caddesi, No:24/d Şehitlik Lisesi Karşısı",
+    "telefon": "0 (412) 226-44-39"
+  },
+  {
+    "isim": "Akarsu Eczanesi",
+    "adres": "Diyarbakır Ili Eğil Ilçesi Yenişehir Mahallesi, Saglık Ocagı Sokak, No:33",
+    "telefon": "0 (412) 581-21-23"
+  },
+  {
+    "isim": "İsranur Eczanesi",
+    "adres": "Adnan Menderes Mahallesi Kıralan Dink Mevkisi Sokak No:2 De Hastane Karşısı",
+    "telefon": "0 (533) 284-78-95"
+  },
+  {
+    "isim": "Zehra Eczanesi",
+    "adres": "Merkez Mahallesi, Nergiz 3 Sokak, Hani / Diyarbakır",
+    "telefon": "0 (412) 651-30-52"
+  },
+  {
+    "isim": "Büşra Eczanesi",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41A",
+    "telefon": "0 (412) 811-22-33"
+  },
+  {
+    "isim": "Merkez Eczanesi",
+    "adres": "Turgut Özal Mahallesi, Diyarbakır Caddesi, Kulp / Diyarbakır",
+    "telefon": "0 (412) 831-22-83"
+  },
+  {
+    "isim": "Kılıç Eczanesi",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:142/C-D Lice / Diyarbakır",
+    "telefon": "0 (412) 861-22-57"
+  },
+  {
+    "isim": "Silvan Eczanesi",
+    "adres": "Feridun Mahallesi Diyarbakır Caddesi Tayfur 3 Apt No:56G",
+    "telefon": "0 (539) 678-71-47"
   }
 ]
