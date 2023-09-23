@@ -1,88 +1,33 @@
 [
   {
-    "isim": "Girişenler Eczanesi",
-    "adres": "Akpınar Mahallesi, Özgürlük Bulvarı No:12/D Bismil / Diyarbakır",
-    "telefon": "0 (543) 585-19-21"
+    "isim": "Aysel Eczanesi",
+    "adres": "Fırat Mahallesi, 221.Sokak No:16/A Bismil / Diyarbakır",
+    "telefon": "0 (412) 415-19-22"
   },
   {
-    "isim": "Gül Eczanesi",
-    "adres": "Tepe Mahallesi, Diyarbakır Caddesi No:66/B Çermik / Diyarbakır",
-    "telefon": "0 (537) 735-56-30"
+    "isim": "Sümer Eczanesi",
+    "adres": "Çukur Mahallesi, Katip Mehmet Caddesi No:4/C Çermik / Diyarbakır",
+    "telefon": "0 (533) 659-83-40"
   },
   {
-    "isim": "Damla Eczanesi",
-    "adres": "Gazi Mahallesi, Atatürk Bulvarı, Çınar / Diyarbakır",
-    "telefon": "0 (412) 511-22-50"
+    "isim": "Lavanta Eczanesi",
+    "adres": "Fatih Mahallesi, Turgut Özal Bulvarı No:162 Çınar / Diyarbakır",
+    "telefon": "0 (536) 261-49-93"
   },
   {
-    "isim": "Yeni Dicle Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:125/A Dicle / Diyarbakır",
-    "telefon": "0 (412) 561-20-30"
+    "isim": "Berçem Eczanesi",
+    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
+    "telefon": "0 (412) 233-12-25"
   },
   {
-    "isim": "Selamet Eczanesi",
-    "adres": "Seyrantepe Şanlıurfa Yolı 1.Km Huzurevleri Mahallesi, 3. Sokak No:13/A Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 238-08-07"
+    "isim": "Vildan Eczanesi",
+    "adres": "Kemertaş Mahallesi, Hastane Caddesi No:7/A Ergani / Diyarbakır",
+    "telefon": "0 (554) 508-55-44"
   },
   {
-    "isim": "Gaziler Eczanesi",
-    "adres": "Gaziler Çeşme Durağı karşısı Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 252-21-23"
-  },
-  {
-    "isim": "Tuba Eczanesi",
-    "adres": "Mezopotamya Mahallesi, Fırat Bulvarı, Elbey Grup İkra Sitesi B-Blok No:138BB Kayapınar / Diyarbakır",
-    "telefon": "0 (552) 590-76-09"
-  },
-  {
-    "isim": "Nur Eczanesi",
-    "adres": "Cezaevinden Migrosa Giden Yol Üzeri Cezaevi Üst Köşe Buhara 1 Apt. Altı Pazar Pazarı yanı Bağlar / Diyarbakır",
-    "telefon": "0 (412) 252-07-76"
-  },
-  {
-    "isim": "Çağla Eczanesi",
-    "adres": "Emek Caddesi, Özlem 2000 Lokantası civarı, Badıka Yas Evi yanı, Emek Banyo Sokağı Bağlar / Diyarbakır",
-    "telefon": "0 (412) 235-12-35"
-  },
-  {
-    "isim": "Yeni Hal Eczanesi",
-    "adres": "Bağcılar Mahallesi, Yenihal Kavşağı 1163. Sokak Bağlar / Diyarbakır",
-    "telefon": "0 (412) 252-32-25"
-  },
-  {
-    "isim": "Vadi Eczanesi",
-    "adres": "Yenişehir Mahallesi, Aliemiri 1. Sokak No:4/D Yenişehir / Diyarbakır",
-    "telefon": "0 (412) 228-05-05"
-  },
-  {
-    "isim": "Yenisinem Eczanesi",
-    "adres": "Şehitlik Mahallesi, Yaradanakul Caddesi No:24/D Sur / Diyarbakır",
-    "telefon": "0 (412) 226-44-39"
-  },
-  {
-    "isim": "Akarsu Eczanesi",
-    "adres": "Yenişehir Mahallesi, Sağlık Ocağı Sokak No:33 Eğil / Diyarbakır",
-    "telefon": "0 (412) 581-21-23"
-  },
-  {
-    "isim": "İsranur Eczanesi",
-    "adres": "Adnan Menderes Mahallesi, Kıralan Dink Mevkisi Sokak No:2 Ergani / Diyarbakır",
-    "telefon": "0 (533) 284-78-95"
-  },
-  {
-    "isim": "Zehra Eczanesi",
-    "adres": "Merkez Mahallesi, Nergiz 3 Sokak, Hani / Diyarbakır",
-    "telefon": "0 (412) 651-30-52"
-  },
-  {
-    "isim": "Büşra Eczanesi",
-    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41/A Kocaköy / Diyarbakır",
-    "telefon": "0 (412) 811-22-33"
-  },
-  {
-    "isim": "Merkez Eczanesi",
-    "adres": "Turgut Özal Mahallesi, Diyarbakır Caddesi, Kulp / Diyarbakır",
-    "telefon": "0 (412) 831-22-83"
+    "isim": "Yeni Lokman Eczanesi",
+    "adres": "Turgut Özal Mahallesi, Cengiz Topel Caddesi No:7 Kulp / Diyarbakır",
+    "telefon": "0 (412) 831-20-35"
   },
   {
     "isim": "Kılıç Eczanesi",
@@ -90,8 +35,8 @@
     "telefon": "0 (412) 861-22-57"
   },
   {
-    "isim": "Silvan Eczanesi",
-    "adres": "Feridun Mahallesi, Diyarbakır Caddesi, Tayfur 3 Apt. No:56/G Silvan / Diyarbakır",
-    "telefon": "0 (539) 678-71-47"
+    "isim": "Elif Eczanesi",
+    "adres": "Gazi Caddesi, Ziraat Bankası yanı No:72 Silvan / Diyarbakır",
+    "telefon": "0 (412) 711-30-30"
   }
 ]
