@@ -1,18 +1,13 @@
 [
   {
-    "isim": "Çağdaş Eczanesi",
-    "adres": "Kurtuluş Mahallesi, Özgürlük Bulvarı Koton Giyim yanı Eski Biten Pasajı karşısı Bismil / Diyarbakır",
-    "telefon": "0 (412) 415-32-61"
+    "isim": "Yaşam Eczanesi",
+    "adres": "Altıok Mahallesi, Esnaf Caddesi No:20 Bismil / Diyarbakır",
+    "telefon": "0 (412) 415-69-66"
   },
   {
-    "isim": "Burak Eczanesi",
-    "adres": "Devlet Hastanesi karşısı Çermik / Diyarbakır",
-    "telefon": "0 (412) 461-52-02"
-  },
-  {
-    "isim": "Mesut Eczanesi",
-    "adres": "Cumhuriyet Mahallesi, Karşıyaka Sokak No:27, Çınar / Diyarbakır",
-    "telefon": "0 (412) 511-20-97"
+    "isim": "Zencefil Eczanesi",
+    "adres": "Cumhuriyet Mahallesi, Atatürk Bulvarı No:38/A Çınar / Diyarbakır",
+    "telefon": "0 (551) 593-80-80"
   },
   {
     "isim": "Piran Eczanesi",
@@ -20,78 +15,38 @@
     "telefon": "0 (412) 561-23-43"
   },
   {
-    "isim": "Park Orman Eczanesi",
-    "adres": "Peyas Mahallesi, Diclekent Bulvarı No:32/B Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 237-71-72"
+    "isim": "Berçem Eczanesi",
+    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
+    "telefon": "0 (412) 233-12-25"
   },
   {
-    "isim": "Lalem Eczanesi",
-    "adres": "Medya Mahallesi, Tekel Kavşağı, 75.Cadde üzeri Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 229-43-50"
+    "isim": "Subaşı Eczanesi",
+    "adres": "Aziziye Mahallesi, Ziyagökalp Caddesi No:172 Ergani / Diyarbakır",
+    "telefon": "0 (412) 611-87-07"
   },
   {
-    "isim": "Bağlar Eczanesi",
-    "adres": "5 Nisan Mahallesi, Lezgin Avcı Caddesi No:10/A Bağlar / Diyarbakır",
-    "telefon": "0 (412) 235-72-46"
+    "isim": "Aslan Eczanesi",
+    "adres": "Merkez Mahallesi, Nergiz 3.Sokak No:24/A Hani / Diyarbakır",
+    "telefon": "0 (412) 651-22-00"
   },
   {
-    "isim": "Zümrüt Eczanesi",
-    "adres": "Bağcılar Mahallesi, Mehmed Uzun Caddesi No:19/C Bağlar / Diyarbakır",
-    "telefon": "0 (412) 523-00-57"
+    "isim": "Nergis Eczanesi",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:39/B Kocaköy / Diyarbakır",
+    "telefon": "0 (412) 811-21-21"
   },
   {
-    "isim": "Leman Eczanesi",
-    "adres": "Yenişehir Mahallesi, Lise 4. Sokak, İpsan Apt. Altı No:7/A Yenişehir / Diyarbakır",
-    "telefon": "0 (412) 262-20-20"
+    "isim": "Aktaş Eczanesi",
+    "adres": "Turgut Özal Mahallesi, Diyarbakır Caddesi No:246/Z1 Kulp / Diyarbakır",
+    "telefon": "0 (412) 831-23-01"
   },
   {
-    "isim": "Kübra Eczanesi",
-    "adres": "Fırat Mahallesi, Mezopotamya Bulvarı, 596.Sokak, Star Plus G-Blok altı No:1GC Kayapınar / Diyarbakır",
-    "telefon": "0 (507) 405-56-30"
+    "isim": "Ferhan Eczanesi",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:151 Lice / Diyarbakır",
+    "telefon": "0 (536) 480-30-96"
   },
   {
-    "isim": "Dicle Fırat Eczanesi",
-    "adres": "Melikahmet Caddesi, No:82/B Sur / Diyarbakır",
-    "telefon": "0 (412) 229-00-81"
-  },
-  {
-    "isim": "Şifa Eczanesi",
-    "adres": "Şeyh Şamil Mahallesi, Barış Caddesi No:8/B Bağlar / Diyarbakır",
-    "telefon": "0 (412) 234-47-45"
-  },
-  {
-    "isim": "Akarsu Eczanesi",
-    "adres": "Yenişehir Mahallesi, Sağlık Ocağı Sokak No:33 Eğil / Diyarbakır",
-    "telefon": "0 (412) 581-21-23"
-  },
-  {
-    "isim": "Ronahi Eczanesi",
-    "adres": "İstasyon Mahallesi, İstasyon Caddesi 26.Sokak No:94/B Ergani / Diyarbakır",
-    "telefon": "0 (546) 611-52-48"
-  },
-  {
-    "isim": "Zehra Eczanesi",
-    "adres": "Merkez Mahallesi, Nergiz 3 Sokak, Hani / Diyarbakır",
-    "telefon": "0 (412) 651-30-52"
-  },
-  {
-    "isim": "Karaz Eczanesi",
-    "adres": "Kokulupınar Caddesi, Kocaköy / Diyarbakır",
-    "telefon": "0 (412) 224-00-38"
-  },
-  {
-    "isim": "Yeni Lokman Eczanesi",
-    "adres": "Turgut Özal Mahallesi, Cengiz Topel Caddesi No:7 Kulp / Diyarbakır",
-    "telefon": "0 (412) 831-20-35"
-  },
-  {
-    "isim": "Kılıç Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:142/C-D Lice / Diyarbakır",
-    "telefon": "0 (412) 861-22-57"
-  },
-  {
-    "isim": "Yaman Eczanesi",
-    "adres": "Yenişehir Mahallesi, Esenlik Caddesi No:10/C Silvan / Diyarbakır",
-    "telefon": "0 (412) 711-43-38"
+    "isim": "Yaşam Eczanesi",
+    "adres": "Selahattin Mahallesi, Gazi Caddesi, No:66 Silvan / Diyarbakır",
+    "telefon": "0 (412) 711-82-82"
   }
 ]
