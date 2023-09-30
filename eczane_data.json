@@ -1,7 +1,7 @@
 [
   {
     "isim": "Girişenler Eczanesi",
-    "adres": "Akpınar Mahallesi, Özgürlük Bulvarı No:12/D Bismil / Diyarbakır",
+    "adres": "Akpınar Mahallesi Özgürlük Bulvarı No 12 D. Bismil Girişi Migrosun 50 Metre Gerisinde Sağda",
     "telefon": "0 (543) 585-19-21"
   },
   {
@@ -11,13 +11,53 @@
   },
   {
     "isim": "Atlantis Eczanesi",
-    "adres": "Fatih Mahallesi, Turgut Özal Bulvarı No:122/C Çınar / Diyarbakır",
+    "adres": "Fatih Mahallesi Turgut Özal Bulvarı 122/c Çınar / Diyarbakır",
     "telefon": "0 (537) 201-31-38"
   },
   {
     "isim": "Piran Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:129 Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi Ergani Yolu Caddesi, Dicle Devlet Hastanesi Karşısı Dicle / Diyarbakır",
     "telefon": "0 (412) 561-23-43"
+  },
+  {
+    "isim": "Ela Eczanesi",
+    "adres": "Diclekent Vilları Karşısı, Bim' Den Sonra Diclekent Camii Alt Girişin Iki Arka Sokağında, Medya Mahallesi, 150 Sokak, Kayapınar 39 Nolu Asm Karşısı No 4/c Merkez / Diyarbakır",
+    "telefon": "0 (543) 447-84-83"
+  },
+  {
+    "isim": "Yeniyol Eczanesi",
+    "adres": "Kayapınar SGK Yanı, Saray Saç Tava Yanı, Kayapınar / Diyarbakır",
+    "telefon": "0 (412) 252-44-18"
+  },
+  {
+    "isim": "Roza Eczanesi",
+    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi 10/bb 100 Evler Köprüsünden 75 E Çıkan Cadde Üzerinde, Çeysa Plaza,altınşehir 1 Konutları, Triad Evleri Ve Çelebi Eser Camii Civarında) Merkez / Diyarbakır",
+    "telefon": "0 (412) 999-18-40"
+  },
+  {
+    "isim": "Yeni İstanbul Eczanesi",
+    "adres": "Şeyh Şamil Mahallesi, .emek Caddesi, Eski Polis Okulu Karşısı No:89/b Bağlar Merkez / Diyarbakır",
+    "telefon": "0 (412) 234-19-67"
+  },
+  {
+    "isim": "Sağlık Eczanesi",
+    "adres": "Kahveönü Durağı Ofis Tren Rayı Geçidi Bağlar Girişi Bağlar Kaynartepe Mahallesi, Cemiloğlu Cadddesi No:22/a Merkez / Diyarbakır",
+    "telefon": "0 (412) 235-70-50"
+  },
+  {
+    "isim": "Şeyma Eczanesi",
+    "adres": "Gökkuşağı Villaları Arkası A101 Ve Bim Marketler Arasındaki Heskif Caddesi Eski Siverek Yolu Yakını Selahattin Avşar Sitesi Altı 31 Nolu Sağlık Ocağı Yanı Bağcılar Mahallesi, Bağlar / Diyarbakır",
+    "telefon": "0 (552) 573-74-80"
+  },
+  {
+    "isim": "Vadi Eczanesi",
+    "adres": "Veni Vidi Hastanesi Acil Karşısı Yenişehir Mahallesi, Aliemiri 1. Sokak, No:4/d Merkez / Diyarbakır",
+    "telefon": "0 (412) 228-05-05"
+  },
+  {
+    "isim": "Nefes Eczanesi",
+    "adres": "Kooperatifler Mahallesi, Akkoyunlu Bulvarı Sema-1 Apt No:8/D Yenişehir / Diyarbakır",
+    "telefon": "0 (412) 228-94-56"
   },
   {
     "isim": "Kan Eczanesi",
@@ -48,5 +88,10 @@
     "isim": "Ferhan Eczanesi",
     "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:151 Lice / Diyarbakır",
     "telefon": "0 (536) 480-30-96"
+  },
+  {
+    "isim": "Ertaş Eczanesi",
+    "adres": "Migros Karşısı Boşat Yolu Üzeri Silvan / Diyarbakır",
+    "telefon": "0 (539) 547-01-48"
   }
 ]
