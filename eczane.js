@@ -12,13 +12,17 @@ const headers = {
 
 axios
   .get(url, { headers })
-  .then((response) => {
+  .then(async (response) => {
     const html = response.data;
     const $ = cheerio.load(html);
 
     const eczaneVerileri = [];
 
-    $('#nav-bugun .table tbody tr').each(async (index, element) => {
+    const pharmacyRows = $('#nav-bugun .table tbody tr');
+
+    for (let index = 0; index < pharmacyRows.length; index++) {
+      const element = pharmacyRows[index];
+
       const eczane = {
         isim: $(element).find('.isim').text(),
         adres: $(element).find('.col-lg-6').contents().first().text().trim(),
@@ -37,12 +41,12 @@ axios
       eczane.googleMapsUrl = googleMapsUrl;
       eczaneVerileri.push(eczane);
 
-      if (index === $('#nav-bugun .table tbody tr').length - 1) {
+      if (index === pharmacyRows.length - 1) {
         const jsonData = JSON.stringify(eczaneVerileri, null, 2);
         fs.writeFileSync('eczane_data.json', jsonData);
         console.log('Veriler başarıyla JSON dosyasına kaydedildi.');
       }
-    });
+    }
   })
   .catch((error) => {
     console.error('Hata oluştu:', error);
