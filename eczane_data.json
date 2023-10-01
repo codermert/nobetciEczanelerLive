@@ -1,13 +1,13 @@
 [
   {
     "isim": "Öztürk Eczanesi",
-    "adres": "Fırat Mahallesi, Özgürlük Bulvarı No:45/a Cumhuriyet Ilkokulu Karşısı Bismil / Diyarbakır",
+    "adres": "Fırat Mahallesi, Özgürlük Bulvarı No:45/A Bismil / Diyarbakır",
     "telefon": "0 (501) 056-83-51",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.846518,40.663347"
   },
   {
     "isim": "Hastane Eczanesi",
-    "adres": "Devlet Hastanesi Karşısı Çermik / Diyarbakır",
+    "adres": "Çukur Mahallesi, Kumludere Sokak No:12/A Çermik / Diyarbakır",
     "telefon": "0 (543) 461-88-23",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.128148,39.450236"
   },
@@ -25,7 +25,7 @@
   },
   {
     "isim": "Forum Beritan Eczanesi",
-    "adres": "Fabrika Mahallesi, Elazığ Bulvarı Forum Avm Zemin Kat 155/23 Caminin Yan Tarafı Merkez / Diyarbakır",
+    "adres": "Fabrika Mahallesi, Elazığ Bulvarı Forum AVM Zemin Kat No:155/23 Yenişehir / Diyarbakır",
     "telefon": "0 (412) 502-23-96",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.958686,40.183289"
   },
@@ -37,37 +37,37 @@
   },
   {
     "isim": "Ayşin Eczanesi",
-    "adres": "Nükhet Coskun Caddesi Bağlar Hastanesi Karşısı Dörtyol Bağlar Merkez / Diyarbakır",
+    "adres": "Kaynartepe Mahallesi, Nükhet Çoşkun Caddesi No:90/B Dörtyol / Bağlar / Diyarbakır",
     "telefon": "0 (412) 581-20-10",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917820,40.208480"
   },
   {
     "isim": "İdil Eczanesi",
-    "adres": "Ncıty Alışveriş Merkezi Altı Sultan Hastanesi Karşısı Bağlar",
+    "adres": "Selahattin Eyyübi Mahallesi, Aydın Arslan Bulvarı No:3 Bağlar / Diyarbakır",
     "telefon": "0 (412) 237-00-14",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.930089,40.205958"
   },
   {
     "isim": "Vizyon Eczanesi",
-    "adres": "Bağcılar Mahallesi, Molla Gürani Caddesi, Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Molla Gürani Caddesi (Eski Şengal Caddesi) No:5 Bağlar / Diyarbakır",
     "telefon": "0 (412) 502-25-64",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.912980,40.167808"
   },
   {
     "isim": "Selamet Eczanesi",
-    "adres": "Seyrantepe Şanlıurfa Yolı 1.km Huzurevleri Mahallesi, 3. Sokak 13/a Genesis Hospital Arkası Acil Karşısı Merkez / Diyarbakır",
+    "adres": "Seyrantepe Şanlıurfa Yolı 1.Km Huzurevleri Mahallesi, 3. Sokak No:13/A Kayapınar / Diyarbakır",
     "telefon": "0 (412) 238-08-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.936285,40.203198"
   },
   {
     "isim": "Nehir Eczanesi",
-    "adres": "Ava Düğün Salonu Arkası Yılmaz Güney Caddesi, Bediüzzaman Cami Karşısı Merkez / Diyarbakır",
+    "adres": "Diclekent Mahallesi, Yılmaz Güney Caddesi 278. Sokak No:1/A Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-28-61",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.947104,40.171496"
   },
   {
     "isim": "Nudem Eczanesi",
-    "adres": "Ceylan Avm Den Gazilere Giderken Sağdan 2. Sokak Tatlıcıoğlu Tatlıcısı Sokağında Gaziler Çeşme Durağı Peyas Mahallesi, 474 Sokak, H.eminogullari 3 Apt Altı 4/c Kayapinar Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, 474. Sokak No:4/C Hacı Eminoğulları 3 Apt. altı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 235-87-88",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.930217,40.172613"
   },
