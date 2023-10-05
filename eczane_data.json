@@ -1,7 +1,7 @@
 [
   {
     "isim": "Erdem Eczanesi",
-    "adres": "Ziraat Bankası karşısı Hacı Şeyhmus Pastane yanı Bismil / Diyarbakır",
+    "adres": "Ziraat Bankası Karşısı Hacı Şeyhmus Pastane Yanı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-51-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.847397,40.663329"
   },
@@ -13,7 +13,7 @@
   },
   {
     "isim": "Babur Eczanesi",
-    "adres": "Gazi Mahallesi, 19 Mayıs Caddesi No:116/C Çınar / Diyarbakır",
+    "adres": "Gazi Mahallesi, 19 Mayıs Caddesi No:116/c Çınar / Diyarbakır",
     "telefon": "0 (412) 511-21-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.721252,40.418643"
   },
@@ -73,7 +73,7 @@
   },
   {
     "isim": "Berçem Eczanesi",
-    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/a Eğil / Diyarbakır",
     "telefon": "0 (412) 233-12-25",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.258486,40.085644"
   },
@@ -91,13 +91,13 @@
   },
   {
     "isim": "Büşra Eczanesi",
-    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41/A Kocaköy / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41/a Kocaköy / Diyarbakır",
     "telefon": "0 (412) 811-22-33",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.285985,40.502963"
   },
   {
     "isim": "Zehra Eczanesi",
-    "adres": "Merkez Eski Mahalle, Cengiz Topel Caddesi No:53/A Kulp / Diyarbakır",
+    "adres": "Merkez Eski Mahalle, Cengiz Topel Caddesi No:53/a Kulp / Diyarbakır",
     "telefon": "0 (412) 831-22-86",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.499784,41.009656"
   },
