@@ -7,7 +7,7 @@
   },
   {
     "isim": "Şeyma Eczanesi",
-    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi, No: 61/a Bim Karşısı / Çarşı Çermik / Diyarbakır",
+    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi No:61/A Çermik / Diyarbakır",
     "telefon": "0 (553) 243-77-42",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.135286,39.455683"
   },
@@ -25,13 +25,13 @@
   },
   {
     "isim": "Berken Eczanesi",
-    "adres": "Ofis Kasaplar Durağı Kooperatifler Mahallesi, Kurtismail Paşa 1 Sokak, No:3/b Burgerking Yanı Akbank Karşısı Buğurlar Lokantası Yanı Merkez / Diyarbakır",
+    "adres": "Kasaplar Durağı Kooperatifler Mahallesi, Kurt İsmail Paşa 1.Sokak No:3/B Yenişehir / Diyarbakır",
     "telefon": "0 (412) 319-28-27",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917718,40.220831"
   },
   {
     "isim": "Surkent Eczanesi",
-    "adres": "Dr.yusuf Azizoğlu Caddesi, Bower Hastanesi Altı Dağkapı Merkez / Diyarbakır",
+    "adres": "Dr.Yusuf Azizoğlu Caddesi No:1/C Dağkapı / Sur / Diyarbakır",
     "telefon": "0 (412) 228-84-36",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916600,40.237000"
   },
@@ -43,7 +43,7 @@
   },
   {
     "isim": "Şenay Eczanesi",
-    "adres": "Bağlar Nükhet Coşkun Caddesi, Cihan Apt. Altı No:96 Bağlar Ptt Karşısı Merkez / Diyarbakır",
+    "adres": "Nükhet Coşkun Caddesi, Cihan Apt. altı No:96 Bağlar / Diyarbakır",
     "telefon": "0 (412) 236-79-44",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.918000,40.208500"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Asuman Eczanesi",
-    "adres": "Tema Park Karşısı Tez Gel Market Yanı Fırat Mahallesi Nazım Hikmet Caddesi Çarkanat Mer Sitesi D Blok Altı No:23/da Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi, Çarkanat Mer Sitesi D-Blok No:23DA Kayapınar / Diyarbakır",
     "telefon": "0 (412) 999-44-60",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.930947,40.144056"
   },
