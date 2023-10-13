@@ -1,7 +1,7 @@
 [
   {
     "isim": "Fırat Eczanesi",
-    "adres": "Fırat Mahallesi Sağlık Ocağı Karşısı Bismil / Diyarbakır",
+    "adres": "Fırat Mahallesi, 220.Sokak No:38/A Bismil / Diyarbakır",
     "telefon": "0 (533) 145-24-25",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.846772,40.659283"
   },
@@ -43,7 +43,7 @@
   },
   {
     "isim": "Reşitoğlu Eczanesi",
-    "adres": "Mansur Gross Market Sokağı Mehmet Cansız I.ö.o Arkası Bingöl Yas Evi Karşı Sokağı Bağlar Sakarya Sağlık Ocağı Karşısı Merkez / Diyarbakır",
+    "adres": "5 Nisan Mahallesi, 749. Sokak No:2 Bağlar / Diyarbakır",
     "telefon": "0 (412) 233-40-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.920988,40.207938"
   },
@@ -55,13 +55,13 @@
   },
   {
     "isim": "Arya Eczanesi",
-    "adres": "Park Orman Arkası Memorial Hatanesi Yanı Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, Fırat Bulvarı, 218. Sokak, Eyüp Adnan Konutları B Blok No:1 Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-80-95",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9361170,40.1883570"
   },
   {
     "isim": "İnci Eczanesi",
-    "adres": "Ava Düğün Salonu Sokağından 200 Mt Ilerleyince Bediüzzaman Camii Arkası Merkez / Diyarbakır",
+    "adres": "Diclekent Mahallesi, 265.Sokak, Çeysa 6 Sitesi A-Blok altı No:5/A Kayapınar / Diyarbakır",
     "telefon": "0 (533) 360-12-24",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9483795,40.1701736"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Hayat Eczanesi",
-    "adres": "Bahçeli Evler Mahallesi Eski Devlet Hastanesi Karşısı Silvan / Diyarbakır",
+    "adres": "Bahçelievler Mahallesi, Hastane Caddesi No:152 Silvan / Diyarbakır",
     "telefon": "0 (412) 711-34-56",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.150011,40.992759"
   }
