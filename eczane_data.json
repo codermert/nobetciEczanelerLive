@@ -1,13 +1,13 @@
 [
   {
     "isim": "Deniz Eczanesi",
-    "adres": "Ziraat Caddesi Ak Parti Yanı",
+    "adres": "Ziraat Caddesi Ak Parti Yanı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-44-31",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.842000,40.675800"
   },
   {
     "isim": "Burak Eczanesi",
-    "adres": "Devlet Hastanesi Karşısı",
+    "adres": "Devlet Hastanesi karşısı Çermik / Diyarbakır",
     "telefon": "0 (412) 461-52-02",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.128400,39.450900"
   },
@@ -25,19 +25,19 @@
   },
   {
     "isim": "Sur Eczanesi",
-    "adres": "İstasyon Caddesi, Eski Hal Yanı No:5",
+    "adres": "İstasyon Caddesi, Eski Hal yanı No:5 Sur / Diyarbakır",
     "telefon": "0 (412) 226-45-45",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.910907,40.226256"
   },
   {
     "isim": "Taha Eczanesi",
-    "adres": "Cami Nebi Mahallesi Inönü Caddesi No:4B Sur",
+    "adres": "Cami Nebi Mahallesi, İnönü Caddesi No:4/B Sur / Diyarbakır",
     "telefon": "0 (412) 228-99-44",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9149437,40.2360611"
   },
   {
     "isim": "Mesut Eczanesi",
-    "adres": "Sento Caddesi, Hacı Süleyman Aydın Sit. Altı C Blok No:83/b Kuruçeşme Ziraat Bankası Bitişiği Bağlar",
+    "adres": "Sento Caddesi, Hacı Süleyman Aydın Sit. Altı C Blok No:83/b Kuruçeşme Ziraat Bankası Bitişiği Bağlar Merkez / Diyarbakır",
     "telefon": "0 (412) 251-03-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917611,40.202002"
   },
@@ -49,25 +49,25 @@
   },
   {
     "isim": "Botanik Eczanesi",
-    "adres": "Bağcılar Mahallesi, Heskif Caddesi, Kent Market Aşağısı Ares Coffee Karşısı",
+    "adres": "Bağcılar Mahallesi, Heskif Caddesi, Kent Market Aşağısı Ares Coffee Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 505-21-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914569,40.137600"
   },
   {
     "isim": "Vitamin Eczanesi",
-    "adres": "Medya Mahallesi, Diclekent Bulvarı 144/ca Dünya Kavşağı Diclekent Diş Polikliniği Yanı Arçelik Bitişiği Azel Rezidance Altı Kayapınar",
+    "adres": "Medya Mahallesi, Diclekent Bulvarı 144/ca Dünya Kavşağı Diclekent Diş Polikliniği Yanı Arçelik Bitişiği Azel Rezidance Altı Kayapınar Merkez / Diyarbakır",
     "telefon": "0 (412) 257-68-68",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.951200,40.172600"
   },
   {
     "isim": "Emir Eczanesi",
-    "adres": "Fırat Mahallesi, Jiyan Caddesi, Metropol 5 Sitesi Altı Otogar Camiisini Geçtikten Sonra 2. Kavşaktan Kompleksia Sit. Sola Dönünce 300 M Ileri De Solda",
+    "adres": "Fırat Mahallesi, Jiyan Caddesi, Metropol 5 Sitesi Altı Otogar Camiisini Geçtikten Sonra 2. Kavşaktan Kompleksia Sit. Sola Dönünce 300 M Ileri De Solda Merkez / Diyarbakır",
     "telefon": "0 (412) 502-43-53",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.927238,40.128427"
   },
   {
     "isim": "Roza Eczanesi",
-    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi 10/bb 100 Evler Köprüsünden 75 E Çıkan Cadde Üzerinde, Çeysa Plaza,altınşehir 1 Konutları, Triad Evleri Ve Çelebi Eser Camii Civarında)",
+    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi 10/bb 100 Evler Köprüsünden 75 E Çıkan Cadde Üzerinde, Çeysa Plaza,altınşehir 1 Konutları, Triad Evleri Ve Çelebi Eser Camii Civarında) Merkez / Diyarbakır",
     "telefon": "0 (412) 999-18-40",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926994,40.156925"
   },
@@ -108,7 +108,7 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.454344,40.642122"
   },
   {
-    "isim": "Mem U Zin",
+    "isim": "MemuZin Eczanesi",
     "adres": "Devlet Hastanesi yakını, Silvan / Diyarbakır",
     "telefon": "0 (412) 711-57-57",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1549777,40.9686178"
