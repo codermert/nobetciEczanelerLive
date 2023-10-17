@@ -1,7 +1,7 @@
 [
   {
     "isim": "Deniz Eczanesi",
-    "adres": "Ziraat Caddesi Ak Parti Yanı Bismil / Diyarbakır",
+    "adres": "Ziraat Caddesi, Ak Parti yanı, Bir Demet Çiçek Evi bitişiği, Sağlık Ocağı karşısı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-44-31",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.842000,40.675800"
   },
@@ -37,19 +37,19 @@
   },
   {
     "isim": "Mesut Eczanesi",
-    "adres": "Sento Caddesi, Hacı Süleyman Aydın Sit. Altı C Blok No:83/b Kuruçeşme Ziraat Bankası Bitişiği Bağlar Merkez / Diyarbakır",
+    "adres": "Sento Caddesi, Hacı Süleyman Aydın Sitesi altı C-Blok No:83/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 251-03-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917611,40.202002"
   },
   {
     "isim": "Aras Eczanesi",
-    "adres": "Tesisler Kavşağı Fizyocenter Fizik Tedavi Merkezi Yanı Teb Bankası Karşısı",
+    "adres": "Tesisler Kavşağı Fizyocenter Fizik Tedavi Merkezi yanı Teb Bankası karşısı Bağlar / Diyarbakır",
     "telefon": "0 (412) 251-49-09",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.932793,40.196374"
   },
   {
     "isim": "Botanik Eczanesi",
-    "adres": "Bağcılar Mahallesi, Heskif Caddesi, Kent Market Aşağısı Ares Coffee Karşısı Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Heskif Caddesi, Kent Market aşağısı Ares Coffee karşısı Bağlar / Diyarbakır",
     "telefon": "0 (412) 505-21-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914569,40.137600"
   },
@@ -61,19 +61,19 @@
   },
   {
     "isim": "Emir Eczanesi",
-    "adres": "Fırat Mahallesi, Jiyan Caddesi, Metropol 5 Sitesi Altı Otogar Camiisini Geçtikten Sonra 2. Kavşaktan Kompleksia Sit. Sola Dönünce 300 M Ileri De Solda Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Jiyan Caddesi, Metropol 5 Sitesi Altı, Kayapınar / Diyarbakır",
     "telefon": "0 (412) 502-43-53",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.927238,40.128427"
   },
   {
     "isim": "Roza Eczanesi",
-    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi 10/bb 100 Evler Köprüsünden 75 E Çıkan Cadde Üzerinde, Çeysa Plaza,altınşehir 1 Konutları, Triad Evleri Ve Çelebi Eser Camii Civarında) Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi No:10BB Kayapınar / Diyarbakır",
     "telefon": "0 (412) 999-18-40",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926994,40.156925"
   },
   {
     "isim": "Berçem Eczanesi",
-    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/a Eğil / Diyarbakır",
     "telefon": "0 (412) 233-12-25",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.258486,40.085644"
   },
@@ -91,7 +91,7 @@
   },
   {
     "isim": "Nergis Eczanesi",
-    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:39/B Kocaköy / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:39/b Kocaköy / Diyarbakır",
     "telefon": "0 (412) 811-21-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.285734,40.503252"
   },
@@ -108,7 +108,7 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.454344,40.642122"
   },
   {
-    "isim": "MemuZin Eczanesi",
+    "isim": "Memuzin Eczanesi",
     "adres": "Devlet Hastanesi yakını, Silvan / Diyarbakır",
     "telefon": "0 (412) 711-57-57",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1549777,40.9686178"
