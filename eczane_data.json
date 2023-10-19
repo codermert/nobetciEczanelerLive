@@ -1,13 +1,13 @@
 [
   {
     "isim": "Derman Eczanesi",
-    "adres": "Yeni Devlet Hastanesi Yanı Köseli Mahallesi Köseli 1. Sokak No:47/4 E Bismil / Diyarbakır",
+    "adres": "Köseli Mahallesi, Köseli 1. Sokak No:47/4-E Bismil / Diyarbakır",
     "telefon": "0 (412) 446-42-77",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.8375741,40.6119908"
   },
   {
     "isim": "Bahar Eczanesi",
-    "adres": "İlçe Tarım Karşısı 2 Nolu Sağlık Ocağı Yanı Çermik / Diyarbakır",
+    "adres": "Tepe Mahallesi, Diyarbakır Caddesi, No:232 Çermik / Diyarbakır",
     "telefon": "0 (412) 461-21-22",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.137685,39.467918"
   },
@@ -19,7 +19,7 @@
   },
   {
     "isim": "Atay Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi, No: 105/b Dicle Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:105/B Dicle / Diyarbakır",
     "telefon": "0 (412) 561-25-61",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.360769,40.072392"
   },
@@ -31,7 +31,7 @@
   },
   {
     "isim": "Aslan Eczanesi",
-    "adres": "Kıbrıs Caddesi No:17/a Veni Vidi Hastanesi Karşısı Dağkapı Meydanı Aslan Otel Altı Merkez / Diyarbakır",
+    "adres": "Kıbrıs Caddesi No:17/A Yenişehir / Diyarbakır",
     "telefon": "0 (543) 746-21-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.915843,40.235458"
   },
@@ -43,13 +43,13 @@
   },
   {
     "isim": "Nurdan Eczanesi",
-    "adres": "Ninova Alışveriş Merkezinden Il Emniyete Giden Yol Üzerinde Silahçılar Bitişiği Bim Market Karşısı",
+    "adres": "Ninova Alışveriş Merkezi arkası, İl Emniyete giden yol üzerinde Silahçılar bitişiği, BİM Market karşısı Bağlar / Diyarbakır",
     "telefon": "0 (412) 237-12-33",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.933448,40.202249"
   },
   {
     "isim": "Bulak Eczanesi",
-    "adres": "Bağcılar Mahallesi, Qamişlo Bulvarı Kom. Nevroz Park Sitesi Altı No:45-E Nevroz Parkın 100 M Aşağısı Keyfi Diyar Lokantası Karşısı Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Qamişlo Bulvarı Kom. Nevroz Park Sitesi Altı No:45-E Bağlar / Diyarbakır",
     "telefon": "0 (533) 816-21-41",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914293,40.167678"
   },
@@ -61,7 +61,7 @@
   },
   {
     "isim": "Ekin Dila Eczanesi",
-    "adres": "Diclekent Memorial Hastanesi Yanı Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, 218. Sokak No:9/A Kayapınar / Diyarbakır",
     "telefon": "0 (412) 252-15-05",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.936596,40.188187"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Narin Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Kale Mahallesi, Gazi Caddesi No:17/A Silvan / Diyarbakır",
     "telefon": "0 (533) 406-67-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.142160,41.003758"
   }
