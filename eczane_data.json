@@ -1,13 +1,13 @@
 [
   {
     "isim": "Bismil Eczanesi",
-    "adres": "Özgürlük Bulvarı No 56 Deniz Bank Turkcel Karşısı Bismil / Diyarbakır",
+    "adres": "Özgürlük Bulvarı No:56 Bismil / Diyarbakır",
     "telefon": "0 (412) 415-10-75",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.848000,40.663500"
   },
   {
     "isim": "Hastane Eczanesi",
-    "adres": "Devlet Hastanesi Karşısı Çermik / Diyarbakır",
+    "adres": "Çukur Mahallesi, Kumludere Sokak No:12/A Çermik / Diyarbakır",
     "telefon": "0 (543) 461-88-23",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.128148,39.450236"
   },
@@ -25,31 +25,31 @@
   },
   {
     "isim": "Nujin Eczanesi",
-    "adres": "Şehitlik Mahallesi, 62. Sokak, Pacacı Metin Şaban Market Karşısı Merkez / Diyarbakır",
+    "adres": "Şehitlik Mahallesi, 62. Sokak No:2 Sur / Diyarbakır",
     "telefon": "0 (412) 226-71-63",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.907095,40.217000"
   },
   {
     "isim": "Baran Eczanesi",
-    "adres": "Ali Emiri 1 Sokak, No 3B Diyarlife Hastanesi Acil Yanı Merkez / Diyarbakır",
+    "adres": "Ali Emiri 1 Sokak No:3/B Yenişehir / Diyarbakır",
     "telefon": "0 (507) 707-33-17",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916802,40.233497"
   },
   {
     "isim": "Diyapoğlu Eczanesi",
-    "adres": "Medine Bul Namık Kemal Lisesi Ilerisi Eski Il Müftülük Karşısı Cuma Pazarı Girişi Merkez / Diyarbakır",
+    "adres": "Medine Bulvarı-İl Müftülüğü karşısı Çeltik Fabrikası bitişiği, Namık Kemal Lisesi ilerisi Bağlar / Diyarbakır",
     "telefon": "0 (412) 233-74-74",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9208370,40.2003101"
   },
   {
     "isim": "Dinç Eczanesi",
-    "adres": "Bağlar Semt Polikliniği Ve Diş Hastanesi Karşısı Turgut Özal Bulvarı Bayındırlık Tesisler Civarı Merkez / Diyarbakır",
+    "adres": "Mevlana Halit Mahallesi, Turgut Özal Bulvarı No:79 Bağlar / Diyarbakır",
     "telefon": "0 (412) 236-72-81",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.931434,40.199493"
   },
   {
     "isim": "Turkuaz Eczanesi",
-    "adres": "Bağcılar Mahallesi, Zümrütkent Caddesi, Kamışlo Bulvarı Havaalanı Kavşağı Big Gross Market, Altınpark Düğün Salonu Yanı Bulutbey Kuzey Plaza Altı No:35/d Bağlar / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Zümrütkent Caddesi, Bulutbey Kuzey Plaza Altı No:35/D Bağlar / Diyarbakır",
     "telefon": "0 (412) 503-89-35",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.913166,40.1715505"
   },
@@ -61,13 +61,13 @@
   },
   {
     "isim": "Nudem Eczanesi",
-    "adres": "Ceylan Avm Den Gazilere Giderken Sağdan 2. Sokak Tatlıcıoğlu Tatlıcısı Sokağında Gaziler Çeşme Durağı Peyas Mahallesi, 474 Sokak, H.eminogullari 3 Apt Altı 4/c Kayapinar Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, 474. Sokak No:4/C Hacı Eminoğulları 3 Apt. altı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 235-87-88",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.930217,40.172613"
   },
   {
     "isim": "Vina Eczanesi",
-    "adres": "Mezopotamya Bulvarı. 50 Metrelik Yol Üzeri; Seferoğlu Iç Kale Sitesi Altı. Star Plus Yapı Karşısı Istanbul Cafe Yanı. Kayapınar Merkez / Diyarbakır",
+    "adres": "Mezopotamya Bulvarı, 50 metrelik Yol Üzeri, Seferoğlu İç Kale Sitesi altı, E Blok No:28/2-A Kayapınar / Diyarbakır",
     "telefon": "0 (412) 502-73-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.935569,40.137461"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Hayat Eczanesi",
-    "adres": "Bahçeli Evler Mahallesi Eski Devlet Hastanesi Karşısı Silvan / Diyarbakır",
+    "adres": "Bahçelievler Mahallesi, Hastane Caddesi No:152 Silvan / Diyarbakır",
     "telefon": "0 (412) 711-34-56",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.150011,40.992759"
   }
