@@ -1,13 +1,13 @@
 [
   {
     "isim": "Gap Eczanesi",
-    "adres": "Özgürlük Bulvarı Deniz Bank Turkcel Karşısı",
+    "adres": "Özgürlük Bulvarı Deniz Bank Turkcell karşısı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-60-39",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.849000,40.663500"
   },
   {
     "isim": "Hamravat Eczanesi",
-    "adres": "Devlet Hastanesi Karşısı",
+    "adres": "Çukur Mahallesi, Kumludere Sokak No:12/C Çermik / Diyarbakır",
     "telefon": "0 (537) 520-52-84",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.128072,39.450051"
   },
@@ -25,49 +25,49 @@
   },
   {
     "isim": "Ihlamur Eczanesi",
-    "adres": "Elazığ Yolu Üzeri Üçkuyu Kavşağı Işıklarından Üçkuyular Tokiye Girince 200 Metre Ileride Sağda A-101 Ile Gökkuşağı Market Ortası Sevgi Ucuzluk Merkezi Bitişiği",
+    "adres": "Elazığ Yolu Üzeri, Araştırma Hastanesi Işıklardan Üçkuyular Tokiye girince 200 Metre ileride sağda, A101 ile Gökkuşağı Market Ortası, Sevgi Ucuzluk Merkezi bitişiği Yenişehir / Diyarbakır",
     "telefon": "0 (412) 504-87-58",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9902742,40.1458395"
   },
   {
     "isim": "Kardeşler Eczanesi",
-    "adres": "İnönü Caddesi, Büyük P.t.t Yanı Çiftkapı Karşısı No:63 Sur",
+    "adres": "İskenderpaşa Mahallesi, İnönü Caddesi No:63 Sur / Diyarbakır",
     "telefon": "0 (412) 223-98-55",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914076,40.230480"
   },
   {
     "isim": "Emek Eczanesi",
-    "adres": "Bağlar Emek Caddesi, 85/b1 Eski Polis Okulu Karşısı",
+    "adres": "Emek Caddesi No:85/B1 Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-15-55",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.924543,40.207183"
   },
   {
     "isim": "Sağlık Eczanesi",
-    "adres": "Kahveönü Durağı Ofis Tren Rayı Geçidi Bağlar Girişi Bağlar Kaynartepe Mahallesi, Cemiloğlu Cadddesi No:22/a",
+    "adres": "Kaynartepe Mahallesi, Cemiloğlu Caddesi No:22/A Bağlar / Diyarbakır",
     "telefon": "0 (412) 235-70-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9199328,40.2161632"
   },
   {
     "isim": "Doğan Eczanesi",
-    "adres": "Orhan Doğan Caddesi Yeniköyden Göletliye Giderken Opet Petrolü 150 Metre Geçtikten Sonra Sağda",
+    "adres": "Bağcılar Mahallesi, Orhan Doğan Caddesi, Hive Sitesi No:31BF Bağlar / Diyarbakır",
     "telefon": "0 (412) 651-21-22",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.918718,40.180891"
   },
   {
     "isim": "Kayapınar Eczanesi",
-    "adres": "Diclekent Mahallesi, Ava Düğün Salonunun Arkasındaki Bediüzzaman Cami Arkası 265. Sokak, No:16/a Çeysa 6 Sitesi Altı",
+    "adres": "Diclekent Mahallesi, 265. Sokak No:16/A Çeysa 6 Sitesi altı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-09-19",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9480303,40.1707232"
   },
   {
     "isim": "Menekşe Eczanesi",
-    "adres": "Diclekent Bulvarı Kayapınar Evlendirme Dairesinden Tesislere Doğru Giderken Sağ Tarafta Millet Ilkokulu Karşısı ..",
+    "adres": "Diclekent Bulvarı Kayapınar Evlendirme Dairesinden Tesislere Doğru Giderken Sağ Tarafta Millet Ilkokulu Karşısı .. Merkez / Diyarbakır",
     "telefon": "0 (412) 251-64-20",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.941315,40.186962"
   },
   {
     "isim": "İskan Mafrak Eczanesi",
-    "adres": "Gaziler Kaplan Citypark Düğün Salonu Işıklarındaki Jiberin Sokağında Akkoyunlu Ilköğretim Okulu Karşısı Lezgin 4 Evleri Altı",
+    "adres": "Fırat Mahallesi, Ayşenur Zarakoğlu Caddesi, Lezgin 4 Evleri No:13/AA Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-32-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9309035,40.1611623"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Marmara Eczanesi",
-    "adres": "Adnan Menderes Mahallesi Orhan Doğan 7. Sokak No:5Ca 14 Nolu Asm Yanı Yenişehir Gimart Market Karşındaki Cadde Divan Kafenin Yanındaki Sokak",
+    "adres": "Adnan Menderes Mahallesi, Orhan Doğan 7. Sokak No:5CA Ergani / Diyarbakır",
     "telefon": "0 (412) 503-91-59",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.249530,39.782459"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Korhan Eczanesi",
-    "adres": "Selahattin Mahallesi Diyarbakır Caddesi No:165 Bc Yeni Devlet Hastanesi Kavşağı A101 Yanı",
+    "adres": "Selahattin Mahallesi, Diyarbakır Caddesi No:165BC Silvan / Diyarbakır",
     "telefon": "0 (544) 514-97-63",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.154495,40.969070"
   }
