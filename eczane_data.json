@@ -1,116 +1,116 @@
 [
   {
-    "isim": "Yusuf Eczanesi",
-    "adres": "Altıok Mahallesi, Aydınlık Caddesi No:32/A Bismil / Diyarbakır",
-    "telefon": "0 (538) 722-95-91",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.850734,40.667858"
+    "isim": "Can Sağlık Eczanesi",
+    "adres": "Altıok Mahallesi, Halk Bankası Karşısı",
+    "telefon": "0 (412) 415-14-15",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.850900,40.666100"
   },
   {
-    "isim": "Yaşam Eczanesi",
-    "adres": "Çukur Mahallesi, Kumludere Sokak No:16 Çermik / Diyarbakır",
-    "telefon": "0 (533) 614-33-21",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=38.1283408,39.450484"
+    "isim": "Hacettepe Eczanesi",
+    "adres": "Çukur Mahallesi Kumludere Sokak No 8A Çermik Devlet Hastanesi Karşısı Çermik",
+    "telefon": "0 (412) 461-42-42",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.128297,39.450219"
   },
   {
-    "isim": "Mesut Eczanesi",
-    "adres": "Cumhuriyet Mahallesi, Karşıyaka Sokak No:27, Çınar / Diyarbakır",
-    "telefon": "0 (412) 511-20-97",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.730282,40.406692"
+    "isim": "Zencefil Eczanesi",
+    "adres": "Atatürk Bulvarı Cumhuriyet Mahallesi Iç Kapı No:38/a",
+    "telefon": "0 (551) 593-80-80",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.723133,40.412447"
   },
   {
-    "isim": "Piran Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:129 Dicle / Diyarbakır",
-    "telefon": "0 (412) 561-23-43",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=38.361201,40.072386"
+    "isim": "Bayram Eczanesi",
+    "adres": "Hastane Caddesi, Dicle 1 Nolu Aile Sağlığı Merkezi civarı Dicle / Diyarbakır",
+    "telefon": "0 (412) 561-27-01",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.371849,40.070283"
   },
   {
-    "isim": "Sevim Eczanesi",
-    "adres": "Ofis Gevran Caddesi No:35 Ofis / Yenişehir / Diyarbakır",
-    "telefon": "0 (412) 228-48-66",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.922200,40.219500"
+    "isim": "Nehir Eczanesi",
+    "adres": "Şehitlik Mahallesi Yaradanakul Caddesi, Karataş Apt. Eskihal Yolu",
+    "telefon": "0 (412) 226-17-01",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.908459,40.221742"
   },
   {
-    "isim": "Yenişehir Eczanesi",
-    "adres": "Ali Emiri Caddesi, Fizyopolitan Hastanesi yanı Tek Kapı karşısı(Eski SSK Yanı) Yenişehir / Diyarbakır",
-    "telefon": "0 (412) 228-00-08",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.915300,40.230500"
+    "isim": "Uysal Eczanesi",
+    "adres": "Aliemiri 1 Sokak, No:6/2A Özel Diyar Life Hastanesi Dağkapı",
+    "telefon": "0 (412) 228-58-58",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.917118,40.233273"
   },
   {
-    "isim": "Dilan Eczanesi",
-    "adres": "Kaynartepe Mahallesi, Nükhet Coşkun Caddesi, Özel Bağlar Hastanesi Karşısı Bağlar / Diyarbakır",
-    "telefon": "0 (412) 236-05-08",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.918237,40.208525"
+    "isim": "Nezahat Eczanesi",
+    "adres": "Nukhet Coşkun Caddesi, Oryıl Petrol Ile Özel Bağlar Hastanesi Arası Eski Sağlık Ocağı Bitişiği",
+    "telefon": "0 (412) 236-94-94",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.922446,40.209918"
   },
   {
-    "isim": "Mervenur Eczanesi",
-    "adres": "Ncity Alışveriş Merkezi Altı Sultan Hastanesi Karşısı Bağlar / Diyarbakır",
-    "telefon": "0 (412) 238-23-32",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.930837,40.205106"
+    "isim": "Ekin Gül Eczanesi",
+    "adres": "Otogar Karşısı Çarmar Girişi Köşedeki Kent Gross Market Çaprazı Cuma Kadınlar Pazarı Başı Bağcılar Mahallesi Heskif Caddesi No:3/ad",
+    "telefon": "0 (412) 505-32-22",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.914927,40.137839"
   },
   {
-    "isim": "İskanevleri Eczanesi",
-    "adres": "Sento Caddesi, Çelebi 1 Apt. altı No:151/E Bağlar / Diyarbakır",
-    "telefon": "0 (412) 251-38-86",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.922920,40.194042"
+    "isim": "Zin Eczanesi",
+    "adres": "Medya Mahallesi, Tekel Caddesi, Bedir Ranya Park Yapı Altı, Mevlana Ilköğrem Okulu Yanı,gümrük Müdürlüğü Arkası, No:62/a-D Kayapınar",
+    "telefon": "0 (412) 503-34-94",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.958725,40.166093"
   },
   {
-    "isim": "Defne Eczanesi",
-    "adres": "Diclekent Memorial Diyarbakır Hastanesi Arkası Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 251-30-45",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.936700,40.187900"
+    "isim": "Elif Eczanesi",
+    "adres": "Diclekent Mahallesi, Kayapınar Caddesi, No:82/a Ava Düğün Salonu Karşısı Batı Hastanesi Yanı",
+    "telefon": "0 (533) 068-90-07",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.946458,40.176800"
   },
   {
-    "isim": "Kartal Eczanesi",
-    "adres": "Medya Mahallesi, Eski Tekel arkası, Mastfroş Caddesi, Özay VIP Sitesi No:23/C C-Blok D:2 Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 415-40-40",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.960617,40.161140"
+    "isim": "Aslı Eczanesi",
+    "adres": "75 Metre Yolun Ilk Işıkları Go Petrol Kavşağındaki Ciğerci Muharrem Ustadan Temaparka Giderken 150 Metre Ileride Solda. Nazım Hikmet Caddesi, Kapitol Century 21 Sitesi Altı",
+    "telefon": "0 (552) 839-59-27",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.929742,40.147539"
   },
   {
-    "isim": "Ali Eren Eczanesi",
-    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi, 522. Sokak No:21 Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 252-05-09",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.927543,40.156632"
+    "isim": "Uzman Eczanesi",
+    "adres": "Sultan Hastanesi Bitişiği N -Cıty Alışveriş Merkezi Karşısı Aydın Arslan Bulvarı Bağlar",
+    "telefon": "0 (412) 237-52-28",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.931500,40.204600"
   },
   {
-    "isim": "Kan Eczanesi",
-    "adres": "Kale Mahallesi, Bey Sokak No:8/B Eğil / Diyarbakır",
-    "telefon": "0 (531) 316-87-26",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=38.257842,40.085518"
+    "isim": "Akarsu Eczanesi",
+    "adres": "Yenişehir Mahallesi, Sağlık Ocağı Sokak No:33 Eğil / Diyarbakır",
+    "telefon": "0 (412) 581-21-23",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.258618,40.085449"
   },
   {
-    "isim": "Üstün Eczanesi",
-    "adres": "Yeni Devlet Hastanesi karşısı Ergani / Diyarbakır",
-    "telefon": "0 (538) 646-42-18",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=38.262733,39.782685"
+    "isim": "Karanfil Eczanesi",
+    "adres": "Kemaliye Mahallesi Gümüş Sokak No:15 Postane Sokağı. Turkcell Sokağı . Halk Bankası Üstü . Final Dershanesi Karşısı 0412 611 27 51",
+    "telefon": "0 (534) 892-11-34",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.269367,39.763589"
   },
   {
-    "isim": "Şifa Eczanesi",
-    "adres": "Merkez Mahallesi, Nergiz 2 Sokak No:14, Hani / Diyarbakır",
-    "telefon": "0 (412) 651-22-22",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=38.406789,40.400809"
+    "isim": "Aslan Eczanesi",
+    "adres": "Merkez Mahallesi, Nergiz 3.Sokak No:24/A Hani / Diyarbakır",
+    "telefon": "0 (412) 651-22-00",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.406619,40.402112"
   },
   {
-    "isim": "Karaz Eczanesi",
-    "adres": "Kokulupınar Caddesi, Kocaköy / Diyarbakır",
-    "telefon": "0 (412) 224-00-38",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=38.285787,40.503197"
+    "isim": "Nergis Eczanesi",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:39/B Kocaköy / Diyarbakır",
+    "telefon": "0 (412) 811-21-21",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.285734,40.503252"
   },
   {
-    "isim": "Aktaş Eczanesi",
-    "adres": "Turgut Özal Mahallesi, Diyarbakır Caddesi No:246/Z1 Kulp / Diyarbakır",
-    "telefon": "0 (412) 831-23-01",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=38.494712,41.011841"
+    "isim": "Zehra Eczanesi",
+    "adres": "Merkez Eski Mahalle, Cengiz Topel Caddesi No:53/A Kulp / Diyarbakır",
+    "telefon": "0 (412) 831-22-86",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.499784,41.009656"
   },
   {
-    "isim": "Lice Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:202/A Lice / Diyarbakır",
-    "telefon": "0 (412) 861-25-23",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=38.462948,40.643376"
+    "isim": "Kadir Eczanesi",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/C Lice / Diyarbakır",
+    "telefon": "0 (554) 154-47-10",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.454319,40.642137"
   },
   {
-    "isim": "Özlem Eczanesi",
-    "adres": "Bahçelievler Mahallesi, Diyarbakır Caddesi No:85/B Silvan / Diyarbakır",
-    "telefon": "0 (554) 024-18-28",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=38.149499,40.997745"
+    "isim": "Silvan Eczanesi",
+    "adres": "Feridun Mahallesi Diyarbakır Caddesi Tayfur 3 Apt No:56G",
+    "telefon": "0 (539) 678-71-47",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.144648,41.009794"
   }
 ]
