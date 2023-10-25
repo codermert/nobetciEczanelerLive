@@ -42,6 +42,24 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914927,40.137839"
   },
   {
+    "isim": "Elif Eczanesi",
+    "adres": "Diclekent Mahallesi, Kayapınar Caddesi No:82/A Kayapınar / Diyarbakır",
+    "telefon": "0 (533) 068-90-07",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.946458,40.176800"
+  },
+  {
+    "isim": "Aslı Eczanesi",
+    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi, Kapitol Century 21 Sitesi altı Kayapınar / Diyarbakır",
+    "telefon": "0 (552) 839-59-27",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.929742,40.147539"
+  },
+  {
+    "isim": "Uzman Eczanesi",
+    "adres": "Sultan Hastanesi Bitişiği N -City Alışveriş Merkezi karşısı Aydın Arslan Bulvarı Bağlar / Diyarbakır",
+    "telefon": "0 (412) 237-52-28",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.931500,40.204600"
+  },
+  {
     "isim": "Nehir Eczanesi",
     "adres": "Şehitlik Mahallesi Yaradanakul Caddesi, Karataş Apt. Eskihal Yolu Yenişehir / Diyarbakır",
     "telefon": "0 (412) 226-17-01",
