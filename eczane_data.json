@@ -24,22 +24,34 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.371849,40.070283"
   },
   {
+    "isim": "Nehir Eczanesi",
+    "adres": "Şehitlik Mahallesi Yaradanakul Caddesi, Karataş Apt. Eskihal Yolu Yenişehir / Diyarbakır",
+    "telefon": "0 (412) 226-17-01",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.908459,40.221742"
+  },
+  {
+    "isim": "Uysal Eczanesi",
+    "adres": "Aliemiri 1. Sokak, No:6/2-A Dağkapı Yenişehir / Diyarbakır",
+    "telefon": "0 (412) 228-58-58",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.917118,40.233273"
+  },
+  {
     "isim": "Nezahat Eczanesi",
     "adres": "Nükhet Coşkun Caddesi, Oryıl Petrol ile Özel Bağlar Hastanesi arası, Eski Sağlık Ocağı bitişiği Bağlar / Diyarbakır",
     "telefon": "0 (412) 236-94-94",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.922446,40.209918"
   },
   {
-    "isim": "Zin Eczanesi",
-    "adres": "Medya Mahallesi, Tekel Caddesi No:62/A-D Kayapınar / Diyarbakır",
-    "telefon": "0 (412) 503-34-94",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.958725,40.166093"
-  },
-  {
     "isim": "Ekin Gül Eczanesi",
     "adres": "Bağcılar Mahallesi, Heskif Caddesi No:3/AD Bağlar / Diyarbakır",
     "telefon": "0 (412) 505-32-22",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914927,40.137839"
+  },
+  {
+    "isim": "Zin Eczanesi",
+    "adres": "Medya Mahallesi, Tekel Caddesi No:62/A-D Kayapınar / Diyarbakır",
+    "telefon": "0 (412) 503-34-94",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.958725,40.166093"
   },
   {
     "isim": "Elif Eczanesi",
@@ -58,18 +70,6 @@
     "adres": "Sultan Hastanesi Bitişiği N -City Alışveriş Merkezi karşısı Aydın Arslan Bulvarı Bağlar / Diyarbakır",
     "telefon": "0 (412) 237-52-28",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.931500,40.204600"
-  },
-  {
-    "isim": "Nehir Eczanesi",
-    "adres": "Şehitlik Mahallesi Yaradanakul Caddesi, Karataş Apt. Eskihal Yolu Yenişehir / Diyarbakır",
-    "telefon": "0 (412) 226-17-01",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.908459,40.221742"
-  },
-  {
-    "isim": "Uysal Eczanesi",
-    "adres": "Aliemiri 1. Sokak, No:6/2-A Dağkapı Yenişehir / Diyarbakır",
-    "telefon": "0 (412) 228-58-58",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.917118,40.233273"
   },
   {
     "isim": "Akarsu Eczanesi",
