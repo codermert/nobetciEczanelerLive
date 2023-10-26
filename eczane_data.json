@@ -1,7 +1,7 @@
 [
   {
     "isim": "Sema Eczanesi",
-    "adres": "Altıok Mahallesi, Örnek Caddesi, 2/g Halkbank Karşısı Bismil / Diyarbakır",
+    "adres": "Altıok Mahallesi, Örnek Caddesi No:2 Bismil / Diyarbakır",
     "telefon": "0 (412) 415-09-10",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.850737,40.664393"
   },
@@ -31,7 +31,7 @@
   },
   {
     "isim": "Poyraz Eczanesi",
-    "adres": "Dağkapı Meydanı Dolmuş Durağı Karşısı Şafak Kahvaltı Salonu Yanı Star Otel Altı Merkez / Diyarbakır",
+    "adres": "Dağkapı Meydanı, Dolmuş Durağı karşısı, Şafak Kahvaltı Salonu yanı, Star Otel altı Sur / Diyarbakır",
     "telefon": "0 (412) 223-00-03",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.915472,40.2345765"
   },
@@ -43,19 +43,19 @@
   },
   {
     "isim": "Zilan Eczanesi",
-    "adres": "5 Nisan Mahallesi, 744. Sokak, Mehmet Cansız Ortaokulu Arkası. Bingöllüler Yas Evi Civarı. Bağlar Sağlık Ocağı Karşısı . Merkez / Diyarbakır",
+    "adres": "5 Nisan Mahallesi, 744.Sokak No:5/A Bağlar / Diyarbakır",
     "telefon": "0 (412) 235-97-04",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9208,40.207995"
   },
   {
     "isim": "Sibel Eczanesi",
-    "adres": "Toptancılar Sitesi Arkası Gökkuşağı Düğün Salonu Yanı Vizyon Konutları Altı Merkez / Diyarbakır",
+    "adres": "Toptancılar Sitesi Arkası Gökkuşağı Düğün Salonu yanı Vizyon Konutları Altı Bağlar / Diyarbakır",
     "telefon": "0 (412) 290-26-04",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9233660,40.1806860"
   },
   {
     "isim": "Kiraz Çiçeği Eczanesi",
-    "adres": "Metropol 1 Sitesi Karşısındaki Tez Gel Market Ile Metro Fırın Arasındaki Sokaktan Dümdüz Ilerleyin Sokağın Sonunda Sol Tarafta Kalıyor---Medya Mahallesi 176. Sokak Zahiroğlu 3 Sitesi Altı No:10/a Kayapınar Merkez / Diyarbakır",
+    "adres": "Medya Mahallesi, 176.Sokak Zahiroğlu 3 Sitesi Altı No:10/A Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-21-20",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9541852,40.1796437"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Aslı Günel Eczanesi",
-    "adres": "Urfa Yolu Memorial Dicle Hastanesinin Acil Çıkışı Merkez / Diyarbakır",
+    "adres": "Urfa Yolu üzeri-Kadın Doğum Hastanesi karşısındaki Memorial Dicle Hastanesinin Acil Çıkışı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 502-28-78",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926393,40.163074"
   },
