@@ -1,13 +1,13 @@
 [
   {
     "isim": "Kapitol Eczanesi",
-    "adres": "Esentepe Mahallesi, 607 Sokak, Eski Cezaevi-Il Müftülüğü Yolu Üzeri 14 Nolu Esentepe Sağlık Ocağı Yanı Bismil / Diyarbakır",
+    "adres": "Esentepe Mahallesi, 607. Sokak Bismil / Diyarbakır",
     "telefon": "0 (533) 594-61-59",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.852527,40.675312"
   },
   {
     "isim": "Şeyma Eczanesi",
-    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi, No: 61/a Bim Karşısı / Çarşı Çermik / Diyarbakır",
+    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi No:61/A Çermik / Diyarbakır",
     "telefon": "0 (553) 243-77-42",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.135286,39.455683"
   },
@@ -19,13 +19,13 @@
   },
   {
     "isim": "Atay Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi, No: 105/b Dicle Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:105/B Dicle / Diyarbakır",
     "telefon": "0 (412) 561-25-61",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.360769,40.072392"
   },
   {
     "isim": "Şevin Eczanesi",
-    "adres": "Elazığ Bulvarı Çelikevler Mahallesi No:418/c Altındağ Düğün Salonunu Geçince Organizeye Varmadan Lezgin Otomotiv Yanı Merkez / Diyarbakır",
+    "adres": "Çelikevler Mahallesi, Elazığ Caddesi No:418/C Yenişehir / Diyarbakır",
     "telefon": "0 (552) 739-51-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.030247,40.092997"
   },
@@ -37,25 +37,25 @@
   },
   {
     "isim": "Emek Eczanesi",
-    "adres": "Bağlar Emek Caddesi, 85/b1 Eski Polis Okulu Karşısı Merkez / Diyarbakır",
+    "adres": "Emek Caddesi No:85/B1 Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-15-55",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.924543,40.207183"
   },
   {
     "isim": "Doğumevi Eczanesi",
-    "adres": "Diyarbakır Kadın Doğum Ve Çocuk Hastanesi Yanı Süleyman Bin Halid Yurdu Altı Urfa Bulvarı Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Urfa Bulvarı No:193/A Bağlar / Diyarbakır",
     "telefon": "0 (412) 502-74-74",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.922606,40.154293"
   },
   {
     "isim": "Bozan Eczanesi",
-    "adres": "Körhat Mahallesi, Alipınar Mezarlığı Yanı Meteoroloji Md. Bitişiği Alay Komutanlığı Karşısı Merkez / Diyarbakır",
+    "adres": "Körhat Mahallesi, Alipınar Mezarlığı yanı, Meteoroloji Müdürlüğü bitişiği, Alay Komutanlığı karşısı Bağlar / Diyarbakır",
     "telefon": "0 (412) 415-60-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.909022,40.211400"
   },
   {
     "isim": "Diclekent Eczanesi",
-    "adres": "Yılmaz Güney Caddesi, Bediüzzaman Camii Yanı Cizrelioğlu Ortaokulu Karşısı Merkez / Diyarbakır",
+    "adres": "Yılmaz Güney Caddesi, Bediüzzaman Camii yanı, Cizrelioğlu Ortaokulu karşısı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-20-91",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.946854,40.171573"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "İskan Mafrak Eczanesi",
-    "adres": "Gaziler Kaplan Citypark Düğün Salonu Işıklarındaki Jiberin Sokağında Akkoyunlu Ilköğretim Okulu Karşısı Lezgin 4 Evleri Altı Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Ayşenur Zarakoğlu Caddesi, Lezgin 4 Evleri No:13/AA Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-32-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9309035,40.1611623"
   },
