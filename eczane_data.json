@@ -1,7 +1,7 @@
 [
   {
     "isim": "Serhat Eczanesi",
-    "adres": "Kurtuluş Mahallesi, Özgürlük Bulvarı No:89 Barış Plaza Şeker Optik Yanı Bismil / Diyarbakır",
+    "adres": "Kurtuluş Mahallesi, Özgürlük Bulvarı No:89 Bismil / Diyarbakır",
     "telefon": "0 (544) 644-93-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.848636,40.663145"
   },
@@ -31,13 +31,13 @@
   },
   {
     "isim": "Kardeşler Eczanesi",
-    "adres": "İnönü Caddesi, Büyük P.t.t Yanı Çiftkapı Karşısı No:63 Sur Merkez / Diyarbakır",
+    "adres": "İskenderpaşa Mahallesi, İnönü Caddesi No:63 Sur / Diyarbakır",
     "telefon": "0 (412) 223-98-55",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914076,40.230480"
   },
   {
     "isim": "Ayşin Eczanesi",
-    "adres": "Nükhet Coskun Caddesi Bağlar Hastanesi Karşısı Dörtyol Bağlar Merkez / Diyarbakır",
+    "adres": "Kaynartepe Mahallesi, Nükhet Çoşkun Caddesi No:90/B Dörtyol / Bağlar / Diyarbakır",
     "telefon": "0 (412) 581-20-10",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917820,40.208480"
   },
@@ -49,25 +49,25 @@
   },
   {
     "isim": "Işık Eczanesi",
-    "adres": "Yenihal Caddesi, Toptancılar Sitesi Ilerisi Erbab 3 Sitesi D Blok Altı No:2 Gökkuşağı Düğün Salonu Kavşağı Ali Kuşçu Ortaokulu Karşısı Merkez / Diyarbakır",
+    "adres": "Yenihal Caddesi, Toptancılar Sitesi ilerisi Erbab 3 Sitesi D-Blok altı No:2 Bağlar / Diyarbakır",
     "telefon": "0 (412) 290-35-99",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.924130,40.178729"
   },
   {
     "isim": "Anadolu Eczanesi",
-    "adres": "Peyas Mahallesi Kayapınar Belediyesi Yanı Kaplan Çelik Kapı Arkası 429. Sokak Pilda 2005 Apt. Altı 1/c Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, 429. Sokak Pilda 2005 Apt. No:1/C Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-64-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9409326,40.1731118"
   },
   {
     "isim": "Araştırma Eczanesi",
-    "adres": "Talaytepe Mahallesi, Laleş Bulvari No 4 Gazi Yaşargil Eğitim Araştırma Hastanesi Karşısı Merkez / Diyarbakır",
+    "adres": "Talaytepe Mahallesi, Laleş Bulvarı No:4 Kayapınar / Diyarbakır",
     "telefon": "0 (412) 258-01-19",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9859422,40.139808"
   },
   {
     "isim": "Pera Eczanesi",
-    "adres": "Lunapark Caddesi Yeni Stadyum Yolu Migros Kavşağı Çapraz Karşısı Ataşlar Diyar Life Sit. Altı Merkez / Diyarbakır",
+    "adres": "Lunapark Caddesi-Yeni Stadyum Yolu Migros Kavşağı çapraz karşısı, Ataşlar Diyar Life Sitesi altı Kayapınar / Diyarbakır",
     "telefon": "0 (507) 604-67-56",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.937380,40.142914"
   },
