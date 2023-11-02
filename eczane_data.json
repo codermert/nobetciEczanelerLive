@@ -25,7 +25,7 @@
   },
   {
     "isim": "Gökhan Eczanesi",
-    "adres": "Ergani Yolu 1.km Volkswagen Dicle Otomotiv Karşısı Opet Petrolun Yanındaki Caddeden Girip Yol Bitince Sola Dönün Merkez / Diyarbakır",
+    "adres": "Ergani Yolu 1.Km Volkswagen Dicle Otomotiv karşısı Opet Petrol Arkasındaki Sitelerin içi Yenişehir / Diyarbakır",
     "telefon": "0 (412) 502-60-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.976531,40.175958"
   },
@@ -37,7 +37,7 @@
   },
   {
     "isim": "Ada Eczanesi",
-    "adres": "5 Nisan Mahallesi, Medine Bulvarı No:39 Bağlar Il Müf. 100 M Aşağı Namık Kemal Lisesi 200M Yukarısı Merkez / Diyarbakır",
+    "adres": "5 Nisan Mahallesi, Medine Bulvarı No:39/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 228-69-92",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.923788,40.201803"
   },
@@ -49,19 +49,19 @@
   },
   {
     "isim": "Liman Eczanesi",
-    "adres": "Bağcılar Mahallesi Kamışlo Bulvarı Fidan Tunç Sitesi B Blok No:39/ba Big Gross Çapraz Karşısı Newroz Parktan Havalimanına Giden Yol Üzerinde Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Kamışlo Bulvarı Fidan Tunç Sitesi B Blok No:39/A-B Bağlar / Diyarbakır",
     "telefon": "0 (412) 503-82-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.911891,40.173295"
   },
   {
     "isim": "Asaf Eczanesi",
-    "adres": "Lunapark Arkası Bigross Market Ara Sokağından 500 M Ileride Sağ Tarafta Oğur Yapı Altı Mezopotamya Mahallesi, 608 Sokak, Futurebuild Sitesi B Blok 10/ba Merkez / Diyarbakır",
+    "adres": "Mezopotamya Mahallesi, 608 Sokak, Futurebuild Sitesi B-Blok No:10/A-B Kayapınar / Diyarbakır",
     "telefon": "0 (412) 502-01-46",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.938817,40.150564"
   },
   {
     "isim": "Doz Eczanesi",
-    "adres": "Talaytepe Mahallesi, 4007. Sokak, 17/ba Merkez / Diyarbakır",
+    "adres": "Talaytepe Mahallesi, 4007.Sokak No:17/BA Kayapınar / Diyarbakır",
     "telefon": "0 (546) 619-87-60",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.978819,40.148037"
   },
@@ -85,7 +85,7 @@
   },
   {
     "isim": "Manolya Eczanesi",
-    "adres": "Eski Mezopotamya Koleji Yanı Selahattin Eyyubi Bulvarı Meliksoy Sitesi Altı Kayapınar Diyarbakır",
+    "adres": "Mezopotamya Mahallesi, Selahattin Eyyubi Bulvarı, Meliksoy Sitesi B-Blok No:73/BC Kayapınar / Diyarbakır",
     "telefon": "0 (541) 182-48-85",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.943449,40.171180"
   },
