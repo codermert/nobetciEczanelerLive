@@ -1,7 +1,7 @@
 [
   {
     "isim": "Yaşam Eczanesi",
-    "adres": "Bismil / Diyarbakır",
+    "adres": "Altıok Mahallesi, Esnaf Caddesi No:20 Bismil / Diyarbakır",
     "telefon": "0 (412) 415-69-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.849354,40.664032"
   },
@@ -43,13 +43,13 @@
   },
   {
     "isim": "Tepe Eczanesi",
-    "adres": "Emek Caddesi, Özlem 2000 Lokantası Karşısı Emek Banyo Sokağı Badıka Yas Evi Yanı Merkez / Diyarbakır",
+    "adres": "Mevlana Halit Mahallesi, 439. Sokak No:3/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 235-67-97",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.925619,40.206601"
   },
   {
     "isim": "Zümrüt Eczanesi",
-    "adres": "Mehmed Uzun Caddesi, Havaalanı Kavşağından Yeniköy Mezarlığına Doğru Petrol Ofisi Yanı Zümrütkent Sitesi Karşısı Bağcılar Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Mehmed Uzun Caddesi No:19/C Bağlar / Diyarbakır",
     "telefon": "0 (412) 523-00-57",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.912813,40.179811"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Arslan Eczanesi",
-    "adres": "Ceylan Avm Den Gazilere Giderken Sağdan 2. Sokak Tatlıcıoğlu Tatlıcısı Sokağında Gaziler Çeşme Durağı Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, 62 Sokak No:6/B Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-82-79",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.930101,40.172909"
   },
