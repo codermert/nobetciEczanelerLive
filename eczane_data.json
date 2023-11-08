@@ -13,25 +13,25 @@
   },
   {
     "isim": "Rengin Eczanesi",
-    "adres": "Cumhuriyet Mahallesi, Perverde Sokak. Kayıkçı Ap 7 Kapı No:8C Çınar / Diyarbakır",
+    "adres": "Cumhuriyet Mahallesi, Perverde Sokak No:8/C Çınar / Diyarbakır",
     "telefon": "0 (412) 511-20-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.729331,40.405071"
   },
   {
     "isim": "Amed Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi, No 103 Amed Eczanesi Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:103 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-30-48",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.361377,40.072506"
   },
   {
     "isim": "Yenisinem Eczanesi",
-    "adres": "Şehitlik Mahallesi, Yaradanakul Caddesi, No:24/d Şehitlik Lisesi Karşısı Merkez / Diyarbakır",
+    "adres": "Şehitlik Mahallesi, Yaradanakul Caddesi No:24/D Sur / Diyarbakır",
     "telefon": "0 (412) 226-44-39",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.908700,40.224600"
   },
   {
     "isim": "Med Eczanesi",
-    "adres": "Aliemiri 1 Sokak, 6/c Eski Venevidi Hastanesi Acil Karşısı Merkez / Diyarbakır",
+    "adres": "Aliemiri 1 Sokak No:6/C Yenişehir / Diyarbakır",
     "telefon": "0 (412) 224-73-73",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916700,40.233900"
   },
@@ -43,7 +43,7 @@
   },
   {
     "isim": "Havin Eczanesi",
-    "adres": "Sultan Hastanesi Karşısı Babil (Ncty) Alışveriş Merkezi Altı",
+    "adres": "Sultan Hastanesi karşısı Babil (Ncty) Alışveriş Merkezi Altı Bağlar / Diyarbakır",
     "telefon": "0 (412) 237-89-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9302270,40.2049386"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Üç Yol Eczanesi",
-    "adres": "Şirinevler Mahallesi Atatürk Ilköğretim Okulu Aşağısı Petrol Ofisi Karşısı Tedaş Yanı No:22/b Çermik Kavşağı Ergani / Diyarbakır",
+    "adres": "Şirinevler Mahallesi, İstasyon Caddesi No:22/B Ergani / Diyarbakır",
     "telefon": "0 (412) 611-73-75",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.263548,39.758079"
   },
