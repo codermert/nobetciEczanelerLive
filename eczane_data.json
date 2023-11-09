@@ -1,19 +1,19 @@
 [
   {
     "isim": "Bismil Eczanesi",
-    "adres": "Özgürlük Bulvarı No 56 Deniz Bank Turkcel Karşısı Bismil / Diyarbakır",
+    "adres": "Özgürlük Bulvarı No:56 Bismil / Diyarbakır",
     "telefon": "0 (412) 415-10-75",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.848000,40.663500"
   },
   {
     "isim": "Hamravat Eczanesi",
-    "adres": "Devlet Hastanesi Karşısı Çermik / Diyarbakır",
+    "adres": "Çukur Mahallesi, Kumludere Sokak No:12/C Çermik / Diyarbakır",
     "telefon": "0 (537) 520-52-84",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.128072,39.450051"
   },
   {
     "isim": "Nil Eczanesi",
-    "adres": "Yeşil Mahallesi, 19 Mayıs Caddesi, Bina No:83 Çınar / Diyarbakır",
+    "adres": "Yeşil Mahallesi, 19 Mayıs Caddesi No:83 Çınar / Diyarbakır",
     "telefon": "0 (536) 744-98-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.723428,40.417089"
   },
@@ -25,25 +25,25 @@
   },
   {
     "isim": "Ufuk Eczanesi",
-    "adres": "Valilik Arkası- Vilayet - Yenişehir Nüfus Müdürlüğü Civarı Yenişehir Sağlık Ocağı Karşısı Merkez / Diyarbakır",
+    "adres": "Valilik arkası, Yenişehir Nüfus Müdürlüğü civarı, Yenişehir Sağlık Ocağı karşısı Yenişehir / Diyarbakır",
     "telefon": "0 (412) 229-29-79",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914494,40.224572"
   },
   {
     "isim": "Doğu Eczanesi",
-    "adres": "Gazi Caddesi, Nebi Camisi Karşısı Kılıççı Pasajı Altı No:13/a Kadayıfçı Saim Usta Bitişiği Dağkapı Merkez / Diyarbakır",
+    "adres": "Gazi Caddesi, Kılıççı Pasajı altı No:13/A Dağkapı Sur / Diyarbakır",
     "telefon": "0 (412) 229-48-78",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914600,40.236900"
   },
   {
     "isim": "Derman Eczanesi",
-    "adres": "Karacadağ Caddesi, 134/a Ziraat Bankası Kuruçeşme Şubesi Çaprazı Bağlar Merkez / Diyarbakır",
+    "adres": "5 Nisan Mahallesi, Karacadağ Caddesi No:134/A Bağlar / Diyarbakır",
     "telefon": "0 (412) 236-00-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917516,40.202379"
   },
   {
     "isim": "Çevre Eczanesi",
-    "adres": "Hatboyu Caddesi, Güneydoğu Yapı Koop.1.kısım No:1 Çarşamba Pazarının Başı Hatboyu Hacı Baba Pastanesi Karşısı Bağlar Merkez / Diyarbakır",
+    "adres": "Hatboyu Caddesi, Güneydoğu Yapı Kooperatifi 1.Kısım No:1 Bağlar / Diyarbakır",
     "telefon": "0 (412) 236-88-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926500,40.209200"
   },
@@ -55,7 +55,7 @@
   },
   {
     "isim": "Okyanus Eczanesi",
-    "adres": "S. Eyyubi Bulvarı Yeni Yol Lukoil Petrol Yukarısı,sürücü Kursları Yolu Üzeri Peyas Köyü Karşısı Elmas 9 Sitesi Altı Kayapınar Diyarbakır",
+    "adres": "S.Eyyubi Bulvarı Yeni Yol Lukoil Petrol yukarısı, Kent Meydanı aşağısı, Sürücü Kursları yolu üzeri, Peyas Köyü karşısı, Elmas 9 Sitesi altı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-58-97",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.941357,40.178172"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Bengü Eczanesi",
-    "adres": "Adnan Menderes Mahallesi, Orhan Doğan Caddesi, Doğaşehir 6 Sitesi No:5/b Yenişehir/ergani/diyarbakırsaat Kulesinden Aşağı Migros'a Giderken Bim Karşısı",
+    "adres": "Adnan Menderes Mahallesi, Orhan Doğan Cadddesi, Doğaşehir 6 Sitesi No:5/B Yenişehir / Ergani / Diyarbakır",
     "telefon": "0 (552) 717-96-70",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.247336,39.782943"
   },
