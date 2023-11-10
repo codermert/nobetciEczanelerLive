@@ -1,7 +1,7 @@
 [
   {
     "isim": "Çağdaş Eczanesi",
-    "adres": "Kurtuluş Mahallesi, Özgürlük Bulvarı Koton Giyim Yanı Eski Biten Pasajı Karşısı Bismil / Diyarbakır",
+    "adres": "Kurtuluş Mahallesi, Özgürlük Bulvarı Koton Giyim yanı Eski Biten Pasajı karşısı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-32-61",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.842200,40.673500"
   },
@@ -19,19 +19,19 @@
   },
   {
     "isim": "Dinç Eczanesi",
-    "adres": "15 Temmuz Mahallesi Ergani 5. Sokak No:3C Diyarbakır / Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani 5. Sokak No:3/C Dicle / Diyarbakır",
     "telefon": "0 (507) 553-71-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.360811,40.071777"
   },
   {
     "isim": "Vadi Eczanesi",
-    "adres": "Veni Vidi Hastanesi Acil Karşısı Yenişehir Mahallesi, Aliemiri 1. Sokak, No:4/d Merkez / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Aliemiri 1. Sokak No:4/D Yenişehir / Diyarbakır",
     "telefon": "0 (412) 228-05-05",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916941,40.233634"
   },
   {
     "isim": "Ceylan Eczanesi",
-    "adres": "İstasyon Caddesi, Eski Hal Bitişiği No:47 Urfa Kapı Merkez / Diyarbakır",
+    "adres": "İstasyon Caddesi No:47 Urfa Kapı / Sur / Diyarbakır",
     "telefon": "0 (412) 226-62-18",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.911400,40.224700"
   },
@@ -43,19 +43,19 @@
   },
   {
     "isim": "Şentepe Eczanesi",
-    "adres": "Bağlar Dörtyol Kavşağı Trafo Bitişiği Sarmaşık Lokantası Karşısı Dörtyol Kavşağında Merkez / Diyarbakır",
+    "adres": "Bağlar Dörtyol Kavşağı Trafo bitişiği, Sarmaşık Lokantası karşısı, Özel Bağlar Hastanesinden 200 metre ileride Dörtyol Kavşağında Bağlar / Diyarbakır",
     "telefon": "0 (412) 236-72-49",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917569,40.209179"
   },
   {
     "isim": "Hakan Eczanesi",
-    "adres": "Kadın Doğum Hastanesi Arkası Yenihal 2. Cadde (Eski Avea Caddesi) Best Fırın Yanı Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Yenihal 2.Caddesi (Avea Caddesi) Bağlar / Diyarbakır",
     "telefon": "0 (505) 918-33-92",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.919025,40.161716"
   },
   {
     "isim": "Berf Eczanesi",
-    "adres": "Diclekent Mahallesi Mastfroş Caddesi Nurçay Prestij Sitesi Altı Trendyol Karşısı Merkez / Diyarbakır",
+    "adres": "Diclekent Mahallesi, Mastfroş Caddesi, Nurçay Prestij Sitesi altı Kayapınar / Diyarbakır",
     "telefon": "0 (538) 200-91-99",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.953172,40.158301"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Ceyhun Eczanesi",
-    "adres": "Urfa Yolu Üzeri Zana Düğün Salonu Çaprazı Çarmar Yanı Kayapınar Merkez / Diyarbakır",
+    "adres": "Barış Mahallesi, Urfa Yolu Bulvarı, Farisoğlu Sitesi altı No:182/D Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-43-18",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916062,40.126436"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Habibe Eczanesi",
-    "adres": "Ergani Devlet Hastanesi Karşısı Kıralan Dink Mevkisi Adnan Menderes Mahallesi No 12:b Ergani / Diyarbakır",
+    "adres": "Kıralan Dink Mevkii-Adnan Menderes Mahallesi No:12/B Ergani / Diyarbakır",
     "telefon": "0 (412) 611-11-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.262932,39.782212"
   },
