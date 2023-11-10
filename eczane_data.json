@@ -1,6 +1,6 @@
 [
   {
-    "isim": "Çagdas Eczanesi",
+    "isim": "Çağdaş Eczanesi",
     "adres": "Kurtuluş Mahallesi, Özgürlük Bulvarı Koton Giyim Yanı Eski Biten Pasajı Karşısı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-32-61",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.842200,40.673500"
@@ -42,7 +42,7 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9316978,40.2000427"
   },
   {
-    "isim": "Sentepe Eczanesi",
+    "isim": "Şentepe Eczanesi",
     "adres": "Bağlar Dörtyol Kavşağı Trafo Bitişiği Sarmaşık Lokantası Karşısı Dörtyol Kavşağında Merkez / Diyarbakır",
     "telefon": "0 (412) 236-72-49",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917569,40.209179"
@@ -108,7 +108,7 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.454319,40.642137"
   },
   {
-    "isim": "Elıf Eczanesi",
+    "isim": "Elif Eczanesi",
     "adres": "Silvan / Diyarbakır",
     "telefon": "0 (412) 711-30-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1418100,41.0070431"
