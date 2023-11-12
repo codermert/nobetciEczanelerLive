@@ -1,7 +1,7 @@
 [
   {
     "isim": "Yaşam Eczanesi",
-    "adres": "Bismil / Diyarbakır",
+    "adres": "Altıok Mahallesi, Esnaf Caddesi No:20 Bismil / Diyarbakır",
     "telefon": "0 (412) 415-69-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.849354,40.664032"
   },
@@ -19,7 +19,7 @@
   },
   {
     "isim": "Bayram Eczanesi",
-    "adres": "Dicle / Diyarbakır",
+    "adres": "Hastane Caddesi, Dicle 1 Nolu Aile Sağlığı Merkezi civarı Dicle / Diyarbakır",
     "telefon": "0 (412) 561-27-01",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.371849,40.070283"
   },
@@ -31,7 +31,7 @@
   },
   {
     "isim": "Gülan Eczanesi",
-    "adres": "Dağkapı Meydanı Bower Hastanesi Karşısı Dağkapı Ciğerci Ibo Bitişiği Merkez / Diyarbakır",
+    "adres": "Dağkapı Meydanı Bower Hastanesi karşısı Dağkapı Ciğerci İbo Bitişiği Yenişehir / Diyarbakır",
     "telefon": "0 (412) 228-53-13",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.915987,40.235863"
   },
@@ -49,7 +49,7 @@
   },
   {
     "isim": "Ceren Eczanesi",
-    "adres": "Bağcılar Mahallesi, Zana Düğün Salonu 300 Mt Arkası, Paris Düğün Salonu Yanı (Otogar Çarmar Kavşağından Urfa Istikametine Giderken Ilk Kavşaktan Sola, Sonraki Ilk Kavşaktan Sağa, Bir Sonraki Ilk Kavş Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Azadi Caddesi, Başkent 2 Sitesi B-Blok No:11/BD Bağlar / Diyarbakır",
     "telefon": "0 (412) 503-53-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.909877,40.120725"
   },
@@ -61,13 +61,13 @@
   },
   {
     "isim": "Semt Eczanesi",
-    "adres": "Medya Mahallesi, Yılmaz Güney Caddesi Saray Market Yanı Soçesa Sitesi Altı Merkez / Diyarbakır",
+    "adres": "Medya Mahallesi, Yılmaz Güney Caddesi, Soçesa Sitesi No:6/F Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-62-62",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.951137,40.173224"
   },
   {
     "isim": "Merve Eczanesi",
-    "adres": "75. Metre Yolu Go Petrol Karşısı Starbucks Cafe Arkası Ciğerci Muharrem Usta Arkası Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, 565.Sokak No:12/BA Kayapınar / Diyarbakır",
     "telefon": "0 (412) 999-02-12",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.930191,40.149548"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Güzel Eczanesi",
-    "adres": "Yeni Ergani Devlet Hastanesi Karşisi",
+    "adres": "Adnan Menderes Mahallesi, Kıralan Dink Mevki No:75/A Ergani / Diyarbakır",
     "telefon": "0 (533) 367-24-26",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.263023,39.781944"
   },
