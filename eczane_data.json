@@ -1,13 +1,13 @@
 [
   {
     "isim": "Nokta Eczanesi",
-    "adres": "Dumlupınar Mahallesi, Cami yanı 3 No'lu Sağlık Ocağı karşısı Bismil / Diyarbakır",
+    "adres": "Dumlupınar Mahallesi, Cami Yanı 3 No'lu Sağlık Ocağı Karşısı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-13-17",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.853188,40.652379"
   },
   {
     "isim": "Aydın Eczanesi",
-    "adres": "Kala Mahallesi, Kurtuluş Sokak No:8/B Çermik / Diyarbakır",
+    "adres": "Kala Mahallesi, Kurtuluş Sokak No:8/b Çermik / Diyarbakır",
     "telefon": "0 (541) 330-68-08",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.134529,39.447154"
   },
@@ -73,7 +73,7 @@
   },
   {
     "isim": "Kan Eczanesi",
-    "adres": "Kale Mahallesi, Bey Sokak No:8/B Eğil / Diyarbakır",
+    "adres": "Kale Mahallesi, Bey Sokak No:8/b Eğil / Diyarbakır",
     "telefon": "0 (531) 316-87-26",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.257842,40.085518"
   },
@@ -97,7 +97,7 @@
   },
   {
     "isim": "Melike Eczanesi",
-    "adres": "Turgut Özal Mahallesi, Turgut Özal Bulvarı No:67/E Kulp / Diyarbakır",
+    "adres": "Turgut Özal Mahallesi, Turgut Özal Bulvarı No:67/e Kulp / Diyarbakır",
     "telefon": "0 (412) 831-34-34",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.494464,41.018212"
   },
