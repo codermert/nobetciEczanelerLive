@@ -13,7 +13,7 @@
   },
   {
     "isim": "Yeni Derman Eczanesi",
-    "adres": "Çınar / Diyarbakır",
+    "adres": "Yeni Mardin Yolu, Dostlar 2 Fırını yanı, Çınar / Diyarbakır",
     "telefon": "0 (412) 511-27-95",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.720772,40.417836"
   },
@@ -37,13 +37,13 @@
   },
   {
     "isim": "Eylül Eczanesi",
-    "adres": "Bağlar Cezaevi Alt Köşesi Perşembe Pazarı Sokağı Vali Ünal Erkan I.ö.o Ilerisi Bağlar 3 Nolu Sağlık Ocağı Karşısı Bağlar Merkez / Diyarbakır",
+    "adres": "Şeyhşamil Mahallesi, Barış Caddesi No:21/F Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-19-46",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.925821,40.196940"
   },
   {
     "isim": "Bağlar Eczanesi",
-    "adres": "Bingöllüler Taziye Evi Karşısı , Cuma Pazarı Caddesi Merkez / Diyarbakır",
+    "adres": "5 Nisan Mahallesi, Lezgin Avcı Caddesi No:10/A Bağlar / Diyarbakır",
     "telefon": "0 (412) 235-72-46",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.920041,40.208712"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Dicle Eczanesi",
-    "adres": "75. Yol Go Petrol'ün Karşısındaki Nazım Hikmet Caddesi ( Ciğerci Muharrem Ustanın Yanındaki Caddeden Tema Parka Giderken )Tema Parkı Ve Aslan Market Arası Sol Taraftayız Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi No:19CD Kayapınar / Diyarbakır",
     "telefon": "0 (412) 611-80-56",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.929417,40.147998"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Fırat Eczanesi",
-    "adres": "Silvan Yeni Devlet Hastanesi Karşısı",
+    "adres": "Yenişehir Mahallesi, Esenlik Caddesi No:9/A, Silvan / Diyarbakır",
     "telefon": "0 (412) 711-47-23",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.154786,40.969197"
   }
