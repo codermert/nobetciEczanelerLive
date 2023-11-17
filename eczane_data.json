@@ -1,7 +1,7 @@
 [
   {
     "isim": "Erdem Eczanesi",
-    "adres": "Ziraat Bankası karşısı Hacı Şeyhmus Pastane yanı Bismil / Diyarbakır",
+    "adres": "Ziraat Bankası Karşısı Hacı Şeyhmus Pastane Yanı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-51-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.847397,40.663329"
   },
@@ -73,7 +73,7 @@
   },
   {
     "isim": "Kan Eczanesi",
-    "adres": "Kale Mahallesi, Bey Sokak No:8/B Eğil / Diyarbakır",
+    "adres": "Kale Mahallesi, Bey Sokak No:8/b Eğil / Diyarbakır",
     "telefon": "0 (531) 316-87-26",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.257842,40.085518"
   },
@@ -97,18 +97,18 @@
   },
   {
     "isim": "Aktaş Eczanesi",
-    "adres": "Turgut Özal Mahallesi, Diyarbakır Caddesi No:246/Z1 Kulp / Diyarbakır",
+    "adres": "Turgut Özal Mahallesi, Diyarbakır Caddesi No:246/z1 Kulp / Diyarbakır",
     "telefon": "0 (412) 831-23-01",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.494712,41.011841"
   },
   {
     "isim": "Kılıç Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:142/C-D Lice / Diyarbakır",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:142/c-D Lice / Diyarbakır",
     "telefon": "0 (412) 861-22-57",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.454584,40.642090"
   },
   {
-    "isim": "MemuZin Eczanesi",
+    "isim": "Memuzin Eczanesi",
     "adres": "Silvan / Diyarbakır",
     "telefon": "0 (412) 711-57-57",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1549777,40.9686178"
