@@ -14,8 +14,8 @@
   {
     "isim": "Ademhan Eczanesi",
     "adres": "Gazi Mahallesi, 19 Mayıs Caddesi No:116/C Çınar / Diyarbakır",
-    "telefon": "0 (412) 511-21-21",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.721252,40.418643"
+    "telefon": "0 (412) 511-21-20",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.721416,40.418628"
   },
   {
     "isim": "Şahin Eczanesi",
@@ -43,13 +43,13 @@
   },
   {
     "isim": "Eylül Eczanesi",
-    "adres": "Bağlar Cezaevi Alt Köşesi Perşembe Pazarı Sokağı Vali Ünal Erkan I.ö.o Ilerisi Bağlar 3 Nolu Sağlık Ocağı Karşısı Bağlar Merkez / Diyarbakır",
+    "adres": "Şeyhşamil Mahallesi, Barış Caddesi No:21/F Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-19-46",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.925821,40.196940"
   },
   {
     "isim": "Ceren Eczanesi",
-    "adres": "Bağcılar Mahallesi, Zana Düğün Salonu 300 Mt Arkası, Paris Düğün Salonu Yanı (Otogar Çarmar Kavşağından Urfa Istikametine Giderken Ilk Kavşaktan Sola, Sonraki Ilk Kavşaktan Sağa, Bir Sonraki Ilk Kavş Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Azadi Caddesi, Başkent 2 Sitesi B-Blok No:11/BD Bağlar / Diyarbakır",
     "telefon": "0 (412) 503-53-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.909877,40.120725"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Biçen Eczanesi",
-    "adres": "2 Nolu Sağlık Ocağı Karşısı Diş Hastanesi Yanı Namık Kemal Mahallesi Kurtuluş Caddesi Ergani / Diyarbakır",
+    "adres": "Namık Kemal Mahallesi, Kurtuluş Caddesi Ergani / Diyarbakır",
     "telefon": "0 (412) 611-08-09",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.262935,39.766702"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Nergiz Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Esenlik Caddesi No:10/E, Silvan / Diyarbakır",
     "telefon": "0 (412) 711-55-51",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1525348,40.9686728"
   }
