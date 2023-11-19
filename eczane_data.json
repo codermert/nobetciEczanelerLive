@@ -13,8 +13,8 @@
   },
   {
     "isim": "Gülfem Eczanesi",
-    "adres": "Adres Atatürk Bulvarı Gazi Mahallesi No 12A Çınar Diyarbakır",
-    "telefon": "0 (412) 511-23-02",
+    "adres": "Gazi Mahallesi, Atatürk Bulvarı No:12/A Çınar / Diyarbakır",
+    "telefon": "0 (412) 511-33-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.725652,40.415160"
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "isim": "İskanevleri Eczanesi",
-    "adres": "Bağcılar Mahallesi Sento Caddesi (Kantardan Kuruçeşme'ye Giderken 2.ışıklarda ) Sayın Sitesine Yetişmeden,eski Nisa Hastanesi Yanı Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Karacadağ Bulvarı No:127/F Bağlar / Diyarbakır",
     "telefon": "0 (544) 151-10-13",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.922920,40.194042"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Mevlana Eczanesi",
-    "adres": "Diclekent Medya Kavşağı Paçacı Fazıl Usta Karşı Sokağı Diclekent Camisini Geçince Dominos Pizzanın Olduğu Sokağa Girilecek Yaşar Eğitim Vakfı Ilkokulu Yanı Medya Mahallesi 159.sokak Kayalar 3 Apt. 8/ı Merkez / Diyarbakır",
+    "adres": "Medya Mahallesi, 159.Sokak Kayalar 3 Apt. No:8/I Kayapınar / Diyarbakır",
     "telefon": "0 (412) 237-06-06",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.934906,40.199282"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Ömür Eczanesi",
-    "adres": "Çarşı Merkezi Vakıf Bank Bitişiği Ergani / Diyarbakır",
+    "adres": "Milli Egemenlik Caddesi No:1 Ergani / Diyarbakır",
     "telefon": "0 (412) 611-50-79",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.2679300,39.7615529"
   },
