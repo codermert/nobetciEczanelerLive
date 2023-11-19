@@ -19,25 +19,25 @@
   },
   {
     "isim": "Şahin Eczanesi",
-    "adres": "15 Temmuz Mahallesi Ergani Caddesi No 61 C Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:61/C Dicle / Diyarbakır",
     "telefon": "0 (553) 820-31-91",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.36831,40.07134"
   },
   {
     "isim": "Yenişehir Eczanesi",
-    "adres": "Ali Emiri Caddesi, Fizyopolitan Hastanesi Yanı Tek Kapı Karşısı( Eski Ssk Yanı) Yenişehir Merkez / Diyarbakır",
+    "adres": "Ali Emiri Caddesi, Fizyopolitan Hastanesi yanı Tek Kapı karşısı(Eski SSK Yanı) Yenişehir / Diyarbakır",
     "telefon": "0 (412) 228-00-08",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.915300,40.230500"
   },
   {
     "isim": "Dicle Fırat Eczanesi",
-    "adres": "Melikahmet Caddesi, No:82/b Roj Düğün Salonu Karşısı A101 Ve Bım Market Arası Merkez / Diyarbakır",
+    "adres": "Melikahmet Caddesi, No:82/B Sur / Diyarbakır",
     "telefon": "0 (412) 229-00-81",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.910883,40.231149"
   },
   {
     "isim": "Canan Eczanesi",
-    "adres": "Körhat Mahallesi, Cemiloğlu Bulvarı Körhat Sağlık Ocağı Karşısı Meteroloji Il Müd. Yanı Merkez / Diyarbakır",
+    "adres": "Körhat Mahallesi, Cemiloğlu Caddesi, Özbek 2 Apt. altı No:132/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 223-68-93",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9160230,40.2359770"
   },
@@ -55,13 +55,13 @@
   },
   {
     "isim": "Cemre Eczanesi",
-    "adres": "Musa Anter Caddesi, Enerji Spor Salonu Ilerisi Es Gross Market Karşısı Kayapınar Gaziler Diyarbakır",
+    "adres": "Musa Anter Caddesi, Enerji Spor Salonu İlerisi Es Gross Market karşısı Gaziler Kayapınar / Diyarbakır",
     "telefon": "0 (412) 252-00-79",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9380330,40.1670020"
   },
   {
     "isim": "Yiğit Eczanesi",
-    "adres": "Urfa Yolu 1.km Ninova Avm Karşı Çaprazı Liv Suit Otel Yanı Merkez / Diyarbakır",
+    "adres": "Urfa Yolu 1.Km Ninova AVM Karşı Çaprazı Liv Suit Otel yanı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 237-32-52",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.934500,40.198100"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Narin Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Kale Mahallesi, Gazi Caddesi No:17/A Silvan / Diyarbakır",
     "telefon": "0 (412) 711-20-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.142160,41.003758"
   }
