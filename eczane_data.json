@@ -1,7 +1,7 @@
 [
   {
     "isim": "Fırat Eczanesi",
-    "adres": "Fırat Mahallesi Sağlık Ocağı Karşısı Bismil / Diyarbakır",
+    "adres": "Fırat Mahallesi, 220.Sokak No:38/A Bismil / Diyarbakır",
     "telefon": "0 (412) 415-59-93",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.846772,40.659283"
   },
@@ -37,7 +37,7 @@
   },
   {
     "isim": "Tepe Eczanesi",
-    "adres": "Emek Caddesi, Özlem 2000 Lokantası Karşısı Emek Banyo Sokağı Badıka Yas Evi Yanı Merkez / Diyarbakır",
+    "adres": "Mevlana Halit Mahallesi, 439. Sokak No:3/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 235-67-97",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.925619,40.206601"
   },
@@ -49,7 +49,7 @@
   },
   {
     "isim": "Hamravat Eczanesi",
-    "adres": "Araç Muayene Istasyon Karşısı Hamravat Villarına Giden Saat Kulesi Civarında (Meram 4-5 Sitesi Karşısı Şeyhmus Alto Tatlıcısı Karşısı Ve Hacıbaba Yanı ) Bağcılar Mahallesi, Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Meram 5 Sitesi Caddesi Üzeri Bağlar / Diyarbakır",
     "telefon": "0 (412) 502-60-42",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.912253,40.150119"
   },
@@ -61,13 +61,13 @@
   },
   {
     "isim": "Ali Eczanesi",
-    "adres": "Tesislerdeki Vakıfbank Binası Arkası, Liv Otel Arka Caddesi Şok Market 50M Ilerisi. Huzurevleri Caddesi Cami Köşesinden Girişte Soldan Ilk Sokak Merkez / Diyarbakır",
+    "adres": "Huzurevleri Mahallesi, 12.Sokak No:27/A Kayapınar / Diyarbakır",
     "telefon": "0 (412) 238-03-78",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.935191,40.198183"
   },
   {
     "isim": "Uğurtan Eczanesi",
-    "adres": "Otogardaki Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Jiyan Caddesi, 579. Sokak, Serin Yapı Paradise Evleri A-Blok No:40 Kayapınar / Diyarbakır",
     "telefon": "0 (412) 503-22-88",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.928395,40.129995"
   },
