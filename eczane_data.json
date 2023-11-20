@@ -13,25 +13,25 @@
   },
   {
     "isim": "Damla Eczanesi",
-    "adres": "Çınar / Diyarbakır",
+    "adres": "Gazi Mahallesi, Atatürk Bulvarı, Çınar / Diyarbakır",
     "telefon": "0 (412) 511-22-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.729987,40.406972"
   },
   {
     "isim": "Amed Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi, No 103 Amed Eczanesi Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:103 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-30-48",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.361377,40.072506"
   },
   {
     "isim": "Üçkuyu Eczanesi",
-    "adres": "Üçkuyu Tokiler 4.etap Kadoıl Petrol 100 Mt Geçince 808 Konutları Yanı Üçkuyu Cami Bitişiği Merkez / Diyarbakır",
+    "adres": "Üçkuyular 4. Etap 30. Sokak No:45 Yenişehir / Diyarbakır",
     "telefon": "0 (531) 994-00-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.992048,40.159933"
   },
   {
     "isim": "Tillo Eczanesi",
-    "adres": "Yenişehir Mahallesi Prof.selahattin Yazıcıooğlu Caddesi Plaza Otel - Diyar Galeria Arkası Yenişehir-Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Prof.Selahattin Yazıcıoğlu Caddesi Yenişehir / Diyarbakır",
     "telefon": "0 (412) 224-33-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.919667,40.234117"
   },
@@ -43,7 +43,7 @@
   },
   {
     "isim": "Fırat Eczanesi",
-    "adres": "Nükhet Coşkun Caddesi, Nukhet Coşkun Ilkokulu Yanı Eski Birlik Lisesi Karşısı Bağlar Dörtyol Merkez / Diyarbakır",
+    "adres": "Fatih Mahallesi, Nükhet Coşkun Caddesi No:58/A Bağlar / Diyarbakır",
     "telefon": "0 (412) 236-88-46",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914600,40.208700"
   },
@@ -55,7 +55,7 @@
   },
   {
     "isim": "Nudem Eczanesi",
-    "adres": "Ceylan Avm Den Gazilere Giderken Sağdan 2. Sokak Tatlıcıoğlu Tatlıcısı Sokağında Gaziler Çeşme Durağı Peyas Mahallesi, 474 Sokak, H.eminogullari 3 Apt Altı 4/c Kayapinar Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, 474. Sokak No:4/C Hacı Eminoğulları 3 Apt. altı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 235-87-88",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.930217,40.172613"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Aksu Eczanesi",
-    "adres": "Yeni Ergani Devlet Hastanesi Karşısı",
+    "adres": "Yeni Devlet Hastanesi karşısı Ergani / Diyarbakır",
     "telefon": "0 (412) 611-12-85",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.262891,39.782469"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Meya Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Konak Mahallesi, Dicle Caddesi Silvan / Diyarbakır",
     "telefon": "0 (412) 711-30-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1383230,41.0154110"
   }
