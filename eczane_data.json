@@ -14,12 +14,12 @@
   {
     "isim": "Ademhan Eczanesi",
     "adres": "Gazi Mahallesi, 19 Mayıs Caddesi No:116/C Çınar / Diyarbakır",
-    "telefon": "0 (412) 511-21-21",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.721252,40.418643"
+    "telefon": "0 (412) 511-21-20",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.721416,40.418628"
   },
   {
     "isim": "Barış Eczanesi",
-    "adres": "Dicle / Diyarbakır",
+    "adres": "27 Mayıs Mahallesi, Ergani Caddesi No:190/4 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-26-26",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.360877,40.071321"
   },
@@ -37,8 +37,8 @@
   },
   {
     "isim": "Gökdere Eczanesi",
-    "adres": "Alipınar Mahallesi Alipınar Caddesi Ikizler 9 Apt. Altı No:1A Merkez / Diyarbakır",
-    "telefon": "0 (412) 235-05-65",
+    "adres": "Alipınar Mahallesi, Alipınar Caddesi, İkizler 9 Apt. No:1/A Bağlar / Diyarbakır",
+    "telefon": "0 (506) 632-00-45",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.907094,40.212243"
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "isim": "Çolak Eczanesi",
-    "adres": "Ceylan Karavil Avm Kavşağı Doğan Sofra Salonu Karşısı Tabier Lokantası Yanı Yenihal Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Çevlik Caddesi, 1162.Sokak No:4/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 290-98-29",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926300,40.170900"
   },
