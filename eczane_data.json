@@ -1,7 +1,7 @@
 [
   {
     "isim": "Pınar Eczanesi",
-    "adres": "Şentepe Mahallesi, 1116 Sokak, No:57 Taksim B 2 Nolu Sağlık Ocağı Karşısı Bismil / Diyarbakır",
+    "adres": "Şentepe Mahallesi, 1116 Sokak No:57/B Bismil / Diyarbakır",
     "telefon": "0 (546) 603-84-40",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.858632,40.665635"
   },
@@ -13,7 +13,7 @@
   },
   {
     "isim": "Ademhan Eczanesi",
-    "adres": "Gazi Mahallesi, 19.mayıs Caddesi Kayıkçı 4 Apt. No:116 Çınar / Diyarbakır",
+    "adres": "Gazi Mahallesi, 19 Mayıs Caddesi No:116/C Çınar / Diyarbakır",
     "telefon": "0 (412) 511-21-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.721252,40.418643"
   },
@@ -25,13 +25,13 @@
   },
   {
     "isim": "Ihlamur Eczanesi",
-    "adres": "Elazığ Yolu Üzeri Üçkuyu Kavşağı Işıklarından Üçkuyular Tokiye Girince 200 Metre Ileride Sağda A-101 Ile Gökkuşağı Market Ortası Sevgi Ucuzluk Merkezi Bitişiği",
+    "adres": "Elazığ Yolu Üzeri, Araştırma Hastanesi Işıklardan Üçkuyular Tokiye girince 200 Metre ileride sağda, A101 ile Gökkuşağı Market Ortası, Sevgi Ucuzluk Merkezi bitişiği Yenişehir / Diyarbakır",
     "telefon": "0 (412) 504-87-58",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9902742,40.1458395"
   },
   {
     "isim": "Surkent Eczanesi",
-    "adres": "Dr.yusuf Azizoğlu Caddesi, Bower Hastanesi Altı (Eski Alman Hastanesi Altı) Dağkapı Merkez / Diyarbakır",
+    "adres": "Dr.Yusuf Azizoğlu Caddesi No:1/C Dağkapı / Sur / Diyarbakır",
     "telefon": "0 (412) 228-84-36",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916600,40.237000"
   },
@@ -43,7 +43,7 @@
   },
   {
     "isim": "Yeni Hayat Eczanesi",
-    "adres": "5 Nisan Mahallesi, Emek Caddesi, No:148/a Eski Polis Okulu Ile Kızılay Taksi Durağı Arası Merkez / Diyarbakır",
+    "adres": "5 Nisan Mahallesi, Emek Caddesi No:148/A Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-76-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.925283,40.204587"
   },
@@ -55,13 +55,13 @@
   },
   {
     "isim": "Selamet Eczanesi",
-    "adres": "Seyrantepe Şanlıurfa Yolı 1.km Huzurevleri Mahallesi, 3. Sokak 13/a Genesis Hospital Arkası Acil Karşısı Merkez / Diyarbakır",
+    "adres": "Seyrantepe Şanlıurfa Yolı 1.Km Huzurevleri Mahallesi, 3. Sokak No:13/A Kayapınar / Diyarbakır",
     "telefon": "0 (412) 238-08-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.936285,40.203198"
   },
   {
     "isim": "Elit Eczanesi",
-    "adres": "D.kent Bulvarı Milenyum Apt.altı (Avantaj Mar. Yanı) Kardeşler Kasap Bitişiği Medya Kavşağı Diclekent Merkez / Diyarbakır",
+    "adres": "Diclekent Bulvarı, Milenyum Apt. No:96 Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-64-25",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.948566,40.179143"
   },
@@ -103,7 +103,7 @@
   },
   {
     "isim": "Narin Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Kale Mahallesi, Gazi Caddesi No:17/A Silvan / Diyarbakır",
     "telefon": "0 (412) 711-20-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.142160,41.003758"
   }
