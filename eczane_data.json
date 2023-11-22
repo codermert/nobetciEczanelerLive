@@ -31,13 +31,13 @@
   },
   {
     "isim": "Vefa Eczanesi",
-    "adres": "Dağkapı Bower Hastanesi (Eski Alman Hastanesi) Çaprazı Ali Gaffar Okkan Lisesi Karşısı Cumhuriyet Garajı Yanı Sur Merkez / Diyarbakır",
+    "adres": "Cami Nebi Mahallesi, Karaman Sokak No:8/B Sur / Diyarbakır",
     "telefon": "0 (538) 818-99-89",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916089,40.237366"
   },
   {
     "isim": "Doğru Eczanesi",
-    "adres": "Cezaevi Alt Köşesi Barış Caddesi, Eski Bağlar 3 Nolu Sağlık Ocağı Çaprazı Vali Ünal Erkan Okulu Yanı Perşembe Pazarı Sokağı Şok Market Bitişiği Merkez / Diyarbakır",
+    "adres": "Şeyh Şamil Mahallesi, Barış Caddesi No:22 Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-74-35",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926200,40.197300"
   },
@@ -49,7 +49,7 @@
   },
   {
     "isim": "Günışığı Eczanesi",
-    "adres": "Bağcılar Mahallesi Otogar Karşısı Kent Marketin 100 Metre Ilerisi Cuma Kadınlar Pazarı Bitimi Heskif Caddesi Denizkent Vizyon Sitesi C Blok Altı Burçak Unlu Mamülleri Bitişiği Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Heskif Caddesi, Denizkent Vizyon Sitesi C-Blok altı Bağlar / Diyarbakır",
     "telefon": "0 (412) 504-32-61",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9158971,40.138151"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Esranın Eczanesi",
-    "adres": "Nazım Hikmet Caddesi 75 Go Petrol Yanı Çelebi Eser Cami Karşısı Çeysa Plaza Arkası Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi No:14/D Kayapınar / Diyarbakır",
     "telefon": "0 (412) 502-80-15",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9274198,40.1555580"
   },
@@ -103,7 +103,7 @@
   },
   {
     "isim": "Nergiz Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Esenlik Caddesi No:10/E Silvan / Diyarbakır",
     "telefon": "0 (412) 711-55-51",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1525348,40.9686728"
   }
