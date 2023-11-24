@@ -7,19 +7,19 @@
   },
   {
     "isim": "Bahar Eczanesi",
-    "adres": "İlçe Tarım Karşısı 2 Nolu Sağlık Ocağı Yanı Çermik / Diyarbakır",
+    "adres": "Tepe Mahallesi, Diyarbakır Caddesi, No:232 Çermik / Diyarbakır",
     "telefon": "0 (412) 461-21-22",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.137685,39.467918"
   },
   {
     "isim": "Lotus Eczanesi",
-    "adres": "Çınar / Diyarbakır",
+    "adres": "İlçe Devlet Hastanesi karşısı Çınar / Diyarbakır",
     "telefon": "0 (412) 511-35-69",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.730434,40.406752"
   },
   {
     "isim": "Piran Eczanesi",
-    "adres": "15 Temmuz Mahallesi Ergani Yolu Caddesi, Dicle Devlet Hastanesi Karşısı Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:129 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-23-43",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.361201,40.072386"
   },
@@ -31,13 +31,13 @@
   },
   {
     "isim": "Yaşar Eczanesi",
-    "adres": "Ali Gaffar Okan Lisesi Karşısı (Bower Hastanesi Çaprazı) Cumhuriyet Garajı Yanı Sur Merkez / Diyarbakır",
+    "adres": "Ali Gaffar Okan Lisesi karşısı (Bower Hastanesi çaprazı) Cumhuriyet Garajı yanı Sur / Diyarbakır",
     "telefon": "0 (412) 223-55-15",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9161736,40.2376481"
   },
   {
     "isim": "Vizyon Eczanesi",
-    "adres": "Bağcılar Mahallesi, Molla Gürani Caddesi, Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Molla Gürani Caddesi (Eski Şengal Caddesi) No:5 Bağlar / Diyarbakır",
     "telefon": "0 (412) 502-25-64",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.912980,40.167808"
   },
@@ -49,7 +49,7 @@
   },
   {
     "isim": "Çuhadar Eczanesi",
-    "adres": "Hatboyu Caddesi, Oryıl Petrol Yanı Bektaş 1 Apt. No:5 Merkez / Diyarbakır",
+    "adres": "Hatboyu Caddesi Bektaş 1 Apt. No:5 Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-49-48",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.925627,40.210210"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Dünya Eczanesi",
-    "adres": "Huzurevleri Mahallesi, Ş.urfa Yolu 1.km Özel Genesis Hastanesi Yanı Merkez / Diyarbakır",
+    "adres": "Huzurevleri Mahallesi, Ş.Urfa Yolu 1.Km Özel Genesis Hastanesi yanı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 237-20-67",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.935778,40.203336"
   },
