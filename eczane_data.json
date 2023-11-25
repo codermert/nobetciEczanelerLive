@@ -7,7 +7,7 @@
   },
   {
     "isim": "Hacettepe Eczanesi",
-    "adres": "Çukur Mahallesi Kumludere Sokak No 8A Çermik Devlet Hastanesi Karşısı Çermik / Diyarbakır",
+    "adres": "Çukur Mahallesi, Kumludere Sokak No:8/A Çermik / Diyarbakır",
     "telefon": "0 (412) 461-42-42",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.128297,39.450219"
   },
@@ -43,7 +43,7 @@
   },
   {
     "isim": "Mesut Eczanesi",
-    "adres": "Sento Caddesi, Hacı Süleyman Aydın Sit. Altı C Blok No:83/b Kuruçeşme Ziraat Bankası Bitişiği Bağlar Merkez / Diyarbakır",
+    "adres": "Sento Caddesi, Hacı Süleyman Aydın Sitesi altı C-Blok No:83/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 251-03-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917611,40.202002"
   },
@@ -55,13 +55,13 @@
   },
   {
     "isim": "Mecnun Eczanesi",
-    "adres": "Urfa Yolu Üzeri Memorial Dicle Hastanesi Yanı, Acil Karşısı /kayapınar/merkez Diyarbakır",
+    "adres": "Fırat Mahallesi, 507. Sokak, Ademoğlu Yaşam Sitesi altı, Kayapınar / Diyarbakır",
     "telefon": "0 (412) 999-49-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926401,40.162500"
   },
   {
     "isim": "Öncü Eczanesi",
-    "adres": "Winstown Avm Civarı Mastfroş Caddesi Mevlana Ortaokulu Arkası Zana Lezgin Sitesi Altı Merkez / Diyarbakır",
+    "adres": "Medya Mahallesi, Zana Lezgin Sitesi altı, Kayapınar 37 Nolu Aile Hekimliği bitişiği Kayapınar / Diyarbakır",
     "telefon": "0 (535) 665-23-47",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.968519,40.161793"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Nur Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Kale Mahallesi, Karabehlülbey Caddesi, No:1/9 Silvan / Diyarbakır",
     "telefon": "0 (412) 711-59-85",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.142160,41.004562"
   }
