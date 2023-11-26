@@ -7,7 +7,7 @@
   },
   {
     "isim": "Şeyma Eczanesi",
-    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi, No: 61/a Bim Karşısı / Çarşı Çermik / Diyarbakır",
+    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi No:61/A Çermik / Diyarbakır",
     "telefon": "0 (553) 243-77-42",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.135286,39.455683"
   },
@@ -25,13 +25,13 @@
   },
   {
     "isim": "Zelal Eczanesi",
-    "adres": "Şehitlik Mahallesi, Eski Ticaret Lisesi Yanı Yaradanakul Caddesi, Demir Apt. Altı No:19/a Merkez / Diyarbakır",
+    "adres": "Şehitlik Mahallesi, Yaradanakul Caddesi, Demir Apt. No:19/A Sur / Diyarbakır",
     "telefon": "0 (412) 226-33-33",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9083878,40.2227016"
   },
   {
     "isim": "Agüloğlu Eczanesi",
-    "adres": "Vilayet Civarı Lise Caddesi, 5. Sokak, Yenişehir Ilkokulu Karşısı Tarım Orman Il Müd. Arkası Yenişehir Diyarbakır",
+    "adres": "Aliemiri Caddesi, 5.Sokak No:24/B Yenişehir / Diyarbakır",
     "telefon": "0 (412) 224-48-71",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9169287,40.2269931"
   },
@@ -43,19 +43,19 @@
   },
   {
     "isim": "Ulusoy Eczanesi",
-    "adres": "Bağlar Sento Caddesi, Kuruçeşme No:79 Ziraat Bankasının 50 M Ilerisi Merkez / Diyarbakır",
+    "adres": "Bağlar Sento Caddesi, Kuruçeşme No:79 Bağlar / Diyarbakır",
     "telefon": "0 (412) 233-77-46",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917240,40.202468"
   },
   {
     "isim": "Nur Eczanesi",
-    "adres": "Cezaevinden Migrosa Giden Yol Üzeri Cezaevi Üst Köşe Buhara 1 Apt. Altı Pazar Pazarı Yanı Merkez / Diyarbakır",
+    "adres": "Cezaevinden Migrosa Giden Yol Üzeri Cezaevi Üst Köşe Buhara 1 Apt. Altı Pazar Pazarı yanı Bağlar / Diyarbakır",
     "telefon": "0 (412) 252-07-76",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.929200,40.193100"
   },
   {
     "isim": "Hacettepe Eczanesi",
-    "adres": "Urfa Yolu Kadın Doğum Ve Çocuk Hastanesi Karşısı Diyargaz Akbank Ve Vakıfbank Arası Anadolubank Yanı Altınşehir 2 Plaza 5 No:138/a Kayapınar Merkez / Diyarbakır",
+    "adres": "Urfa Yolu, Altınşehir 2 Plaza 5 No:138/A Kayapınar / Diyarbakır",
     "telefon": "0 (412) 238-08-28",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9241460,40.1566521"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Erol Eczanesi",
-    "adres": "Dicle Caddesi Namık Kemal Mahallesi 14/a Emek Kırtasiye Bitişiği Ergani / Diyarbakır",
+    "adres": "Namık Kemal Mahallesi, Dicle Caddesi No:14/A Ergani / Diyarbakır",
     "telefon": "0 (412) 611-21-22",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.266557,39.763667"
   },
