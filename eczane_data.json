@@ -37,7 +37,7 @@
   },
   {
     "isim": "Zümrüt Eczanesi",
-    "adres": "Mehmed Uzun Caddesi, Havaalanı Kavşağından Yeniköy Mezarlığına Doğru Petrol Ofisi Yanı Zümrütkent Sitesi Karşısı Bağcılar Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Mehmed Uzun Caddesi No:19/C Bağlar / Diyarbakır",
     "telefon": "0 (412) 523-00-57",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.912813,40.179811"
   },
@@ -61,13 +61,13 @@
   },
   {
     "isim": "Özge Eczanesi",
-    "adres": "Kayapinar Caddesi, Mezopotamya Mahallesi, Gül Apt No 33Ab Kayapinar Belediyesinden Seyhmus Pastanesine Giderken Sağda Borsa Istanbul Kız Anadolu Imam Hatip Lisesinin Caprazinda Merkez / Diyarbakır",
+    "adres": "Mezopotamya Mahallesi, Kayapınar Caddesi No:33/AB Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-93-37",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.93719,40.171405"
   },
   {
     "isim": "Vitamin Eczanesi",
-    "adres": "Medya Mahallesi, Diclekent Bulvarı 144/ca Dünya Kavşağı Diclekent Diş Polikliniği Yanı Arçelik Bitişiği Azel Rezidance Altı Kayapınar Merkez / Diyarbakır",
+    "adres": "Medya Mahallesi, Diclekent Bulvarı No:144/CA Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-68-68",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.951200,40.172600"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Nergiz Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Esenlik Caddesi No:10/E Silvan / Diyarbakır",
     "telefon": "0 (412) 711-55-51",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1525348,40.9686728"
   }
