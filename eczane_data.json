@@ -19,7 +19,7 @@
   },
   {
     "isim": "Yeni Dicle Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:125/A Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:125/a Dicle / Diyarbakır",
     "telefon": "0 (412) 561-20-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.361622,40.072236"
   },
@@ -73,7 +73,7 @@
   },
   {
     "isim": "Berçem Eczanesi",
-    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/a Eğil / Diyarbakır",
     "telefon": "0 (412) 233-12-25",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.258486,40.085644"
   },
@@ -91,19 +91,19 @@
   },
   {
     "isim": "Nergis Eczanesi",
-    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:39/B Kocaköy / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:39/b Kocaköy / Diyarbakır",
     "telefon": "0 (412) 811-21-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.285734,40.503252"
   },
   {
     "isim": "Sidar Eczanesi",
-    "adres": "Yeni Mahallesi, Turgut Özal Bulvarı No:5/C Kulp / Diyarbakır",
+    "adres": "Yeni Mahallesi, Turgut Özal Bulvarı No:5/c Kulp / Diyarbakır",
     "telefon": "0 (412) 831-23-24",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.494243,41.007154"
   },
   {
     "isim": "Kadir Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/C Lice / Diyarbakır",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/c Lice / Diyarbakır",
     "telefon": "0 (554) 154-47-10",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.454319,40.642137"
   },
