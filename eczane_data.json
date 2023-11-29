@@ -7,7 +7,7 @@
   },
   {
     "isim": "Yaşam Eczanesi",
-    "adres": "Çukur Mahallesi, Kumludere Sokak No:16 Çermik / Diyarbakır",
+    "adres": "Çermik / Diyarbakır",
     "telefon": "0 (533) 614-33-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1283408,39.450484"
   },
@@ -25,7 +25,7 @@
   },
   {
     "isim": "Şilbe Yolaltı Eczanesi",
-    "adres": "Yolaltı Mahallesi, Şilbe Caddesi, 735.Sokak No:5/A Yenişehir / Diyarbakır",
+    "adres": "Elazığ Caddesi 2. Sanayi Karşısı, Tapu Kadatro Sonrası, Ilk Sağ, Şilbe Caddesi Merkez / Diyarbakır",
     "telefon": "0 (412) 262-12-12",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9527962,40.1952857"
   },
@@ -37,8 +37,8 @@
   },
   {
     "isim": "Bağcılar Eczanesi",
-    "adres": "Kadın Doğum Hastanesi Arkası Bağcılar Mahallesi, Avea Caddesi Best Fırın yanı Bağlar / Diyarbakır",
-    "telefon": "0 (412) 502-24-25",
+    "adres": "Kadın Doğum Hastanesi Arkası Bağcılar Mahallesi, Avea Caddesi Best Fırın Yanı Merkez / Diyarbakır",
+    "telefon": "0 (412) 382-85-33",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.918704,40.161243"
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Evrim Eczanesi",
-    "adres": "Yeni Devlet Hastanesi karşısı Ergani / Diyarbakır",
+    "adres": "Yeni Ergani Devlet Hastanesi Karşısı",
     "telefon": "0 (546) 684-07-27",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.262839,39.782056"
   },
