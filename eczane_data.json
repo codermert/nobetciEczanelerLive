@@ -7,7 +7,7 @@
   },
   {
     "isim": "Hacettepe Eczanesi",
-    "adres": "Çukur Mahallesi Kumludere Sokak No 8A Çermik Devlet Hastanesi Karşısı Çermik / Diyarbakır",
+    "adres": "Çukur Mahallesi, Kumludere Sokak No:8/A Çermik / Diyarbakır",
     "telefon": "0 (412) 461-42-42",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.128297,39.450219"
   },
@@ -37,7 +37,7 @@
   },
   {
     "isim": "Havalimanı Eczanesi",
-    "adres": "Newroz Park Arkası Keyfi Diyar Lokantasından Sağa Dönen Yolun Sonunda Karacadağ Imam Hatip Lisesi Yanı Molla Gürani Caddesi No:13 Cc Bağlar Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Şengal Caddesi, Karacaoğlan Sitesi C-Blok altı No:13/CC Bağlar / Diyarbakır",
     "telefon": "0 (412) 503-32-69",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.907732,40.166698"
   },
@@ -49,7 +49,7 @@
   },
   {
     "isim": "Reşitoğlu Eczanesi",
-    "adres": "Mansur Gross Market Sokağı Mehmet Cansız I.ö.o Arkası Bingöl Yas Evi Karşı Sokağı Bağlar Sakarya Sağlık Ocağı Karşısı Merkez / Diyarbakır",
+    "adres": "5 Nisan Mahallesi, 749. Sokak No:2 Bağlar / Diyarbakır",
     "telefon": "0 (412) 233-40-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.920988,40.207938"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Ümit Eczanesi",
-    "adres": "Silvan Tekel Mahallesi, Tekel Caddesi No :50/a",
+    "adres": "Tekel Mahallesi, Tekel Caddesi No:50/A Silvan / Diyarbakır",
     "telefon": "0 (412) 711-69-99",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.149799,40.991281"
   }
