@@ -19,19 +19,19 @@
   },
   {
     "isim": "Amed Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi, No 103 Amed Eczanesi Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:103 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-30-48",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.361377,40.072506"
   },
   {
     "isim": "Zelal Eczanesi",
-    "adres": "Şehitlik Mahallesi, Eski Ticaret Lisesi Yanı Yaradanakul Caddesi, Demir Apt. Altı No:19/a Merkez / Diyarbakır",
+    "adres": "Şehitlik Mahallesi, Yaradanakul Caddesi, Demir Apt. No:19/A Sur / Diyarbakır",
     "telefon": "0 (412) 226-33-33",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9083878,40.2227016"
   },
   {
     "isim": "Agüloğlu Eczanesi",
-    "adres": "Vilayet Civarı Lise Caddesi, 5. Sokak, Yenişehir Ilkokulu Karşısı Tarım Orman Il Müd. Arkası Yenişehir Diyarbakır",
+    "adres": "Aliemiri Caddesi, 5.Sokak No:24/B Yenişehir / Diyarbakır",
     "telefon": "0 (412) 224-48-71",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9169287,40.2269931"
   },
@@ -43,7 +43,7 @@
   },
   {
     "isim": "Aras Eczanesi",
-    "adres": "Tesisler Kavşağı Fizyocenter Fizik Tedavi Merkezi Yanı Teb Bankası Karşısı",
+    "adres": "Tesisler Kavşağı Fizyocenter Fizik Tedavi Merkezi yanı Teb Bankası karşısı Bağlar / Diyarbakır",
     "telefon": "0 (412) 251-49-09",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.932793,40.196374"
   },
@@ -61,13 +61,13 @@
   },
   {
     "isim": "Ayçiçeği Eczanesi",
-    "adres": "Talaytepe Mahallesi 4007 .sokak Güneydoğu Yapı Koop. Karşısı Kule City Evleri D Blok Altı Winston Avm Arkası Maliye Konutları 1.etap Merkez / Diyarbakır",
+    "adres": "Talaytepe Mahallesi, 4007.Sokak, Kule City Evleri D-Blok altı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 503-72-12",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.978503,40.147926"
   },
   {
     "isim": "Dervişoğlu Eczanesi",
-    "adres": "Medya Mahallesi, Tekel Caddesi, Eyüpoğlu Apt. No:48/c Eski Kayapınar Kaymakamlığının Olduğu Cadde Üzerinde Metropol 3 Sitesi Karşısı Merkez / Diyarbakır",
+    "adres": "Medya Mahallesi, Tekel Caddesi, Eyüpoğlu Apt. No:48/C Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-64-64",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.956638,40.174585"
   },
