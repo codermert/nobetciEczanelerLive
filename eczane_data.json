@@ -1,7 +1,7 @@
 [
   {
     "isim": "Derman Eczanesi",
-    "adres": "Yeni Devlet Hastanesi Yanı Köseli Mahallesi Köseli 1. Sokak No:47/4 E Bismil / Diyarbakır",
+    "adres": "Köseli Mahallesi, Köseli 1. Sokak No:47/4-E Bismil / Diyarbakır",
     "telefon": "0 (412) 446-42-77",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.8375741,40.6119908"
   },
@@ -25,25 +25,25 @@
   },
   {
     "isim": "Sevim Eczanesi",
-    "adres": "Ofis Gevran Caddesi, Eski Askerlik Şub. Civarı Sadık Künefe Karşısı No:35 Ofis Merkez / Diyarbakır",
+    "adres": "Ofis Gevran Caddesi No:35 Ofis / Yenişehir / Diyarbakır",
     "telefon": "0 (412) 228-48-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.922200,40.219500"
   },
   {
     "isim": "Baran Eczanesi",
-    "adres": "Ali Emiri 1 Sokak, No 3B Diyarlife Hastanesi Acil Yanı Merkez / Diyarbakır",
+    "adres": "Ali Emiri 1 Sokak No:3/B Yenişehir / Diyarbakır",
     "telefon": "0 (507) 707-33-17",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916802,40.233497"
   },
   {
     "isim": "Şeyma Eczanesi",
-    "adres": "Gökkuşağı Villaları Arkası A101 Ve Bim Marketler Arasındaki Heskif Caddesi Eski Siverek Yolu Yakını Selahattin Avşar Sitesi Altı 31 Nolu Sağlık Ocağı Yanı Bağcılar Mahallesi, Bağlar / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Heskif Caddesi, Selahattin Avşar Sitesi altı Bağlar / Diyarbakır",
     "telefon": "0 (412) 252-36-13",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9071007,40.1404762"
   },
   {
     "isim": "Ada Eczanesi",
-    "adres": "5 Nisan Mahallesi, Medine Bulvarı No:39 Bağlar Il Müf. 100 M Aşağı Namık Kemal Lisesi 200M Yukarısı Merkez / Diyarbakır",
+    "adres": "5 Nisan Mahallesi, Medine Bulvarı No:39/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 228-69-92",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.923788,40.201803"
   },
@@ -55,19 +55,19 @@
   },
   {
     "isim": "Yalın Eczanesi",
-    "adres": "Peyas Mahallesi Selahattin Eyyubi Bulvarı No:27/cc Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, Selahattin Eyyubi Bulvarı No:27/CC Kayapınar / Diyarbakır",
     "telefon": "0 (533) 284-52-11",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.937518,40.181157"
   },
   {
     "isim": "Lalem Eczanesi",
-    "adres": "75 Caddesi, Üzeri Medya Mahallesi, Tekel Kavşağı Total Petrol Karşısı Künefeci Salih Usta Bitişiği Merkez / Diyarbakır",
+    "adres": "Medya Mahallesi, Tekel Kavşağı, 75.Cadde üzeri Kayapınar / Diyarbakır",
     "telefon": "0 (412) 229-43-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.957221,40.171170"
   },
   {
     "isim": "Erdinç Eczanesi",
-    "adres": "Huzurevleri Mahallesi, Cami Köşesi Ninova Karşısı Liv Suit Otel Bitişiği No:38/a Merkez / Diyarbakır",
+    "adres": "Huzurevleri Mahallesi, Cami Köşesi Ninova karşısı Liv Suit Otel Bitişiği No:38/A Kayapınar / Diyarbakır",
     "telefon": "0 (412) 237-43-44",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.935100,40.200500"
   },
