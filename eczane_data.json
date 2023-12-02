@@ -19,7 +19,7 @@
   },
   {
     "isim": "Piran Eczanesi",
-    "adres": "15 Temmuz Mahallesi Ergani Yolu Caddesi, Dicle Devlet Hastanesi Karşısı Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:129 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-23-43",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.361201,40.072386"
   },
@@ -31,7 +31,7 @@
   },
   {
     "isim": "Doğu Eczanesi",
-    "adres": "Gazi Caddesi, Nebi Camisi Karşısı Kılıççı Pasajı Altı No:13/a Kadayıfçı Saim Usta Bitişiği Dağkapı Merkez / Diyarbakır",
+    "adres": "Gazi Caddesi, Kılıççı Pasajı altı No:13/A Dağkapı Sur / Diyarbakır",
     "telefon": "0 (412) 229-48-78",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914600,40.236900"
   },
@@ -43,7 +43,7 @@
   },
   {
     "isim": "Havin Eczanesi",
-    "adres": "Sultan Hastanesi Karşısı Babil (Ncty) Alışveriş Merkezi Altı",
+    "adres": "Sultan Hastanesi karşısı Babil (Ncty) Alışveriş Merkezi Altı Bağlar / Diyarbakır",
     "telefon": "0 (412) 237-89-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9302270,40.2049386"
   },
@@ -55,7 +55,7 @@
   },
   {
     "isim": "Aşiti Eczanesi",
-    "adres": "Musa Ant. Caddesi, Üzeri (75. Yola Yakın )(Eski 6 Nolu ) 2 Nolu Aile Girişi Merkez / Diyarbakır",
+    "adres": "Musa Anter Caddesi üzeri, 319. Sokak, Özay 7 Mazlum Sitesi B1 Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-98-98",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.938848,40.161396"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Berfin Eczanesi",
-    "adres": "Dr. Sıtkı Göral Caddesi, Huzurevleri Mahallesi, Çiftçioğlu Apt.altı Merkez / Diyarbakır",
+    "adres": "Huzurevleri Mahallesi, Dr.Sıtkı Göral Caddesi, Çiftçioğlu Apt. No:64/E Kayapınar / Diyarbakır",
     "telefon": "0 (412) 237-64-09",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.939000,40.196000"
   },
