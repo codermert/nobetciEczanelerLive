@@ -1,7 +1,7 @@
 [
   {
     "isim": "Akdağ Eczanesi",
-    "adres": "Dumlupınar Mahallesi, Diyar Caddesi, (A101 Market Yanı Eski Perşembe Pazarı Cami Karşısı Dumlupınar Sağlık Ocağı Karşısı Bismil / Diyarbakır",
+    "adres": "Dumlupınar Mahallesi, Diyar Caddesi Bismil / Diyarbakır",
     "telefon": "0 (412) 415-11-22",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.851128,40.657219"
   },
@@ -31,13 +31,13 @@
   },
   {
     "isim": "Flora Eczanesi",
-    "adres": "Elazığ Yolu Üzeri Seyrantepe Kavşağına Yetişmeden Audi Miram Otomotivi Geçtikten Sonraki Petrol Ofisinin Bitişik Duvarından Sağa Doğru Dar Sokağa Girin,yenişehir Cumhuriyet Aile Sağlığı Merkezi Karşıs",
+    "adres": "Cumhuriyet Mahallesi, 397.Sokak No:10 Yenişehir / Diyarbakır",
     "telefon": "0 (412) 262-51-52",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.935333,40.210722"
   },
   {
     "isim": "Mesut Eczanesi",
-    "adres": "Sento Caddesi, Hacı Süleyman Aydın Sit. Altı C Blok No:83/b Kuruçeşme Ziraat Bankası Bitişiği Bağlar Merkez / Diyarbakır",
+    "adres": "Sento Caddesi, Hacı Süleyman Aydın Sitesi altı C-Blok No:83/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 251-03-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917611,40.202002"
   },
@@ -49,13 +49,13 @@
   },
   {
     "isim": "Ceren Eczanesi",
-    "adres": "Bağcılar Mahallesi – Paris Düğün Salonu Yanı – Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Azadi Caddesi, Başkent 2 Sitesi B-Blok No:11/BD Bağlar / Diyarbakır",
     "telefon": "0 (412) 503-53-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.909877,40.120725"
   },
   {
     "isim": "Kübra Eczanesi",
-    "adres": "Fırat Mahallesi 596.sokak Star Plus Sitesi G Blok Altı No:1/gc Ayaz Düğün Salonu Arka Çaprazı Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Mezopotamya Bulvarı, 596.Sokak, Star Plus G-Blok altı No:1GC Kayapınar / Diyarbakır",
     "telefon": "0 (507) 405-56-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.938101,40.132595"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Park Orman Eczanesi",
-    "adres": "Diclekent Ana Caddesi, Üzeri Parkorman Kavşağında Diclekent Çarmar Yanı Eski Ptt Bitişiği Diclekent / Kayapınar Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, Diclekent Bulvarı No:32/B Kayapınar / Diyarbakır",
     "telefon": "0 (412) 237-71-72",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.937941,40.191332"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Yaşam Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Selahattin Mahallesi, Gazi Caddesi, No:66 Silvan / Diyarbakır",
     "telefon": "0 (412) 711-82-82",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1418550,41.0063630"
   }
