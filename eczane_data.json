@@ -7,25 +7,25 @@
   },
   {
     "isim": "Şeyma Eczanesi",
-    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi, No: 61/a Bim Karşısı / Çarşı Çermik / Diyarbakır",
+    "adres": "Tepe Mahallesi, Katip Mehmet Caddesi No:61/A Çermik / Diyarbakır",
     "telefon": "0 (553) 243-77-42",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.135286,39.455683"
   },
   {
     "isim": "Rengin Eczanesi",
-    "adres": "Cumhuriyet Mahallesi, Perverde Sokak. Kayıkçı Ap 7 Kapı No:8C Çınar / Diyarbakır",
+    "adres": "Cumhuriyet Mahallesi, Perverde Sokak No:8/C Çınar / Diyarbakır",
     "telefon": "0 (412) 511-20-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.729331,40.405071"
   },
   {
     "isim": "Dinç Eczanesi",
-    "adres": "15 Temmuz Mahallesi Ergani 5. Sokak No:3C Diyarbakır / Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani 5. Sokak No:3/C Dicle / Diyarbakır",
     "telefon": "0 (507) 553-71-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.360811,40.071777"
   },
   {
     "isim": "Salih Eczanesi",
-    "adres": "Prof.dr Selahattin Yazıcıoğlu Caddesi, Oryıl My Office C Blok Altı Diyar Galeria Avm Arkası Levent Lojmanları Çaprazı Mitannia Hotel Karşısı Yenişehir Diyarbakır",
+    "adres": "Prof. Dr. Selahattin Yazıcıoğlu Caddesi, Oryıl My Office C Blok No:53-54 Yenişehir / Diyarbakır",
     "telefon": "0 (544) 515-24-16",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.919239,40.2339"
   },
@@ -43,7 +43,7 @@
   },
   {
     "isim": "Sağlık Eczanesi",
-    "adres": "Kahveönü Durağı Ofis Tren Rayı Geçidi Bağlar Girişi Bağlar Kaynartepe Mahallesi, Cemiloğlu Cadddesi No:22/a Merkez / Diyarbakır",
+    "adres": "Kaynartepe Mahallesi, Cemiloğlu Caddesi No:22/A Bağlar / Diyarbakır",
     "telefon": "0 (412) 235-70-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9199328,40.2161632"
   },
@@ -61,7 +61,7 @@
   },
   {
     "isim": "Neşe Eczanesi",
-    "adres": "Talaytepe Mahallesi Laleş Bulvarı Memur-Sen Toki Karşısı Çeysa Arium B Blok Altı 15 Temmuz Asm Yanı Balıkçı Hizası Merkez / Diyarbakır",
+    "adres": "Talaytepe Mahallesi, Laleş Bulvarı, Çeysa Arium B-Blok altı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 236-47-37",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.977054,40.139558"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Ünal Eczanesi",
-    "adres": "Yeni Ergani Devlet Hastanesi Karşısı",
+    "adres": "Yeni Devlet Hastanesi karşısı Ergani / Diyarbakır",
     "telefon": "0 (507) 064-63-09",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.262937,39.781502"
   },
