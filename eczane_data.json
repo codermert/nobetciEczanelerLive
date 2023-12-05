@@ -1,7 +1,7 @@
 [
   {
     "isim": "Sanat Eczanesi",
-    "adres": "Sanat Sokağı Kaptan Iş Merkezi Karşısı Merkez Camii Yanı Altıok Mahallesi, 3. Caddesi, No:10/b Bismil / Diyarbakır",
+    "adres": "Altıok Mahallesi, 3. Cadde No:10/B Bismil / Diyarbakır",
     "telefon": "0 (412) 415-08-09",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.8501205,40.6645115"
   },
@@ -13,13 +13,13 @@
   },
   {
     "isim": "Nil Eczanesi",
-    "adres": "Yeşil Mahallesi, 19 Mayıs Caddesi, Bina No:83 Çınar / Diyarbakır",
+    "adres": "Yeşil Mahallesi, 19 Mayıs Caddesi No:83 Çınar / Diyarbakır",
     "telefon": "0 (536) 744-98-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.723428,40.417089"
   },
   {
     "isim": "Şahin Eczanesi",
-    "adres": "15 Temmuz Mahallesi Ergani Caddesi No 61 C Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:61/C Dicle / Diyarbakır",
     "telefon": "0 (553) 820-31-91",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.36831,40.07134"
   },
@@ -31,7 +31,7 @@
   },
   {
     "isim": "Yekbun Eczanesi",
-    "adres": "Yenişehir Mahallesi Lise 3. Sokak Yılmaz 2015 Apt Altı No:4/b Yeni Umut Kırtasiye Karşısı Merkez / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Lise 3.Sokak, Yılmaz 2015 Apt No:4/B Yenişehir / Diyarbakır",
     "telefon": "0 (412) 233-61-45",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917580,40.228678"
   },
@@ -42,8 +42,8 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9133076,40.1491314"
   },
   {
-    "isim": "Ciğerhun Eczanesi",
-    "adres": "Şeyh Şamil Mahallesi Medine Bulvarı No:37/b Namık Kemal Lisesi Ile Yahya Kemal Ilkokulu Arasında Bağlar Merkez / Diyarbakır",
+    "isim": "Cigerhun Eczanesi",
+    "adres": "Şeyh Şamil Mahallesi, Medine Bulvarı No:37/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 415-29-89",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.923579,40.201167"
   },
@@ -55,19 +55,19 @@
   },
   {
     "isim": "Mecnun Eczanesi",
-    "adres": "Urfa Yolu Üzeri Memorial Dicle Hastanesi Yanı, Acil Karşısı /kayapınar/merkez Diyarbakır",
+    "adres": "Fırat Mahallesi, 507. Sokak, Ademoğlu Yaşam Sitesi altı, Kayapınar / Diyarbakır",
     "telefon": "0 (412) 999-49-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926401,40.162500"
   },
   {
     "isim": "Manolya Eczanesi",
-    "adres": "Eski Mezopotamya Koleji Yanı Selahattin Eyyubi Bulvarı Meliksoy Sitesi Altı Kayapınar Diyarbakır",
+    "adres": "Mezopotamya Mahallesi, Selahattin Eyyubi Bulvarı, Meliksoy Sitesi B-Blok No:73/BC Kayapınar / Diyarbakır",
     "telefon": "0 (541) 182-48-85",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.943449,40.171180"
   },
   {
     "isim": "Akademi Dicle Eczanesi",
-    "adres": "H.evleri Mahallesi, 3. Sokak, Genesis Hastanesi Acil Karşısı No:19/b Merkez / Diyarbakır",
+    "adres": "H.Evleri Mahallesi, 3. Sokak No:19/B Kayapınar / Diyarbakır",
     "telefon": "0 (412) 238-07-27",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9365053,40.2044496"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Zafer Eczanesi",
-    "adres": "Bağlar Mahallesi, Eğitim Caddesi 4/d Diş Hekimliği Belediye Karşısı Silvan / Diyarbakır",
+    "adres": "Bağlar Mahallesi, Eğitim Caddesi No:4/D Silvan / Diyarbakır",
     "telefon": "0 (412) 711-60-86",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1486612,41.0059634"
   }
