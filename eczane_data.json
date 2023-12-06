@@ -1,7 +1,7 @@
 [
   {
     "isim": "Yusuf Eczanesi",
-    "adres": "Altıok Mahallesi Aydınlık Caddesi No:32/a Ilçe Tarım Çaprazı Bülent Börek Yanı Bismil / Diyarbakır",
+    "adres": "Altıok Mahallesi, Aydınlık Caddesi No:32/A Bismil / Diyarbakır",
     "telefon": "0 (538) 722-95-91",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.850734,40.667858"
   },
@@ -13,37 +13,37 @@
   },
   {
     "isim": "Lotus Eczanesi",
-    "adres": "Çınar / Diyarbakır",
+    "adres": "İlçe Devlet Hastanesi karşısı Çınar / Diyarbakır",
     "telefon": "0 (412) 511-35-69",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.730434,40.406752"
   },
   {
     "isim": "Piran Eczanesi",
-    "adres": "15 Temmuz Mahallesi Ergani Yolu Caddesi, Dicle Devlet Hastanesi Karşısı Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:129 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-23-43",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.361201,40.072386"
   },
   {
     "isim": "Gökhan Eczanesi",
-    "adres": "Ergani Yolu 1.km Volkswagen Dicle Otomotiv Karşısı Opet Petrolun Yanındaki Caddeden Girip Yol Bitince Sola Dönün Merkez / Diyarbakır",
+    "adres": "Ergani Yolu 1.Km Volkswagen Dicle Otomotiv karşısı Opet Petrol Arkasındaki Sitelerin içi Yenişehir / Diyarbakır",
     "telefon": "0 (412) 502-60-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.976531,40.175958"
   },
   {
     "isim": "Aslan Eczanesi",
-    "adres": "Kıbrıs Caddesi No:17/a Veni Vidi Hastanesi Karşısı Dağkapı Meydanı Aslan Otel Altı Merkez / Diyarbakır",
+    "adres": "Kıbrıs Caddesi No:17/A Yenişehir / Diyarbakır",
     "telefon": "0 (543) 746-21-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.915843,40.235458"
   },
   {
     "isim": "Hevi Eczanesi",
-    "adres": "Bağcılar Mahallesi Nevroz Caddesi Selenium Evleri Nevroz Park Sahne Arkası No 11 De Bağlar Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Nevroz Caddesi, Selenium Evleri No:11DE Bağlar / Diyarbakır",
     "telefon": "0 (530) 786-43-84",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.908932,40.158839"
   },
   {
     "isim": "Kuruçeşme Eczanesi",
-    "adres": "Bağlar Gürsel Caddesi, No:159 Bağlar- Kuruçeşme Dörtyol Arası Merkez / Diyarbakır",
+    "adres": "Gürsel Caddesi No:159 Bağlar / Diyarbakır",
     "telefon": "0 (412) 235-51-97",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916746,40.204613"
   },
@@ -61,7 +61,7 @@
   },
   {
     "isim": "Durgun Eczanesi",
-    "adres": "Diclekent Mahallesi Selahaddin Eyyyubi Bulvarı Üzeri Yeniyol Opet Yukarısı Kent Meydanı Aşağısı Peyas Mahallesi Karşısı Ataşlar Ninova Evleri Sitesi Altı Merkez / Diyarbakır",
+    "adres": "Diclekent Mahallesi, Selahaddin Eyyubi Bulvarı, Ataşlar Ninova Evleri B-Blok No:94BE Kayapınar / Diyarbakır",
     "telefon": "0 (412) 503-23-13",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.941610,40.177090"
   },
