@@ -1,19 +1,19 @@
 [
   {
     "isim": "Yusuf Eczanesi",
-    "adres": "Altıok Mahallesi Aydınlık Caddesi No:32/a Ilçe Tarım Çaprazı Bülent Börek Yanı",
-    "telefon": "(Telefonu bulunamadı)",
+    "adres": "Altıok Mahallesi Aydınlık Caddesi No:32/a Ilçe Tarım Çaprazı Bülent Börek Yanı Bismil / Diyarbakır",
+    "telefon": "0 (538) 722-95-91",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.850734,40.667858"
   },
   {
     "isim": "Sümer Eczanesi",
-    "adres": "Çukur Mahallesi Katip Mehmet Caddesi Halkbank Karşısı No:4/c",
+    "adres": "Çukur Mahallesi Katip Mehmet Caddesi Halkbank Karşısı No:4/c Çermik / Diyarbakır",
     "telefon": "0 (533) 659-83-40",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.135358,39.452723"
   },
   {
     "isim": "Lotus Eczanesi",
-    "adres": "Çınar",
+    "adres": "Çınar / Diyarbakır",
     "telefon": "0 (412) 511-35-69",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.730434,40.406752"
   },
@@ -25,51 +25,57 @@
   },
   {
     "isim": "Gökhan Eczanesi",
-    "adres": "Ergani Yolu 1.km Volkswagen Dicle Otomotiv Karşısı Opet Petrolun Yanındaki Caddeden Girip Yol Bitince Sola Dönün",
+    "adres": "Ergani Yolu 1.km Volkswagen Dicle Otomotiv Karşısı Opet Petrolun Yanındaki Caddeden Girip Yol Bitince Sola Dönün Merkez / Diyarbakır",
     "telefon": "0 (412) 502-60-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.976531,40.175958"
   },
   {
     "isim": "Aslan Eczanesi",
-    "adres": "Kıbrıs Caddesi No:17/a Veni Vidi Hastanesi Karşısı Dağkapı Meydanı Aslan Otel Altı",
-    "telefon": "(Telefonu bulunamadı)",
+    "adres": "Kıbrıs Caddesi No:17/a Veni Vidi Hastanesi Karşısı Dağkapı Meydanı Aslan Otel Altı Merkez / Diyarbakır",
+    "telefon": "0 (543) 746-21-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.915843,40.235458"
   },
   {
     "isim": "Hevi Eczanesi",
     "adres": "Bağcılar Mahallesi Nevroz Caddesi Selenium Evleri Nevroz Park Sahne Arkası No 11 De Bağlar Diyarbakır",
-    "telefon": "(Telefonu bulunamadı)",
+    "telefon": "0 (530) 786-43-84",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.908932,40.158839"
   },
   {
     "isim": "Kuruçeşme Eczanesi",
-    "adres": "Bağlar Gürsel Caddesi, No:159 Bağlar- Kuruçeşme Dörtyol Arası",
+    "adres": "Bağlar Gürsel Caddesi, No:159 Bağlar- Kuruçeşme Dörtyol Arası Merkez / Diyarbakır",
     "telefon": "0 (412) 235-51-97",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916746,40.204613"
   },
   {
     "isim": "Akan Eczanesi",
-    "adres": "Emek Caddesi, Polis Okulu Üst Köşe Sebzeciler Durak No:105",
+    "adres": "Emek Caddesi, Polis Okulu Üst Köşe Sebzeciler Durak No:105 Merkez / Diyarbakır",
     "telefon": "0 (412) 236-46-26",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.924300,40.207300"
   },
   {
     "isim": "Hayatkent Eczanesi",
-    "adres": "3. Sanayi Arkası, Otogar Hacıbabadan 75 E Doğru Köyü Geçtikten Sonra Kavşakta Veya Tema Parktan 3.sanayiye Doğru Yolun Sonundaki Kavşakta Hayatkent 3 Altı Fırat Mahallesi Abdulkadir Aksu Caddesi",
+    "adres": "3. Sanayi Arkası, Otogar Hacıbabadan 75 E Doğru Köyü Geçtikten Sonra Kavşakta Veya Tema Parktan 3.sanayiye Doğru Yolun Sonundaki Kavşakta Hayatkent 3 Altı Fırat Mahallesi Abdulkadir Aksu Caddesi Merkez / Diyarbakır",
     "telefon": "0 (412) 504-44-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.927404,40.140472"
   },
   {
     "isim": "Durgun Eczanesi",
-    "adres": "Diclekent Mahallesi Selahaddin Eyyyubi Bulvarı Üzeri Yeniyol Opet Yukarısı Kent Meydanı Aşağısı Peyas Mahallesi Karşısı Ataşlar Ninova Evleri Sitesi Altı",
+    "adres": "Diclekent Mahallesi Selahaddin Eyyyubi Bulvarı Üzeri Yeniyol Opet Yukarısı Kent Meydanı Aşağısı Peyas Mahallesi Karşısı Ataşlar Ninova Evleri Sitesi Altı Merkez / Diyarbakır",
     "telefon": "0 (412) 503-23-13",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.941610,40.177090"
   },
   {
-    "isim": "Çıgdem Eczanesi",
-    "adres": "Medya Mahallesi, Tekel Caddesi, 637/5 Sokak, Çetinler/diyarland Granada75 Sitesi Altı, Mevlana Ilköğretim Okulu Yanı, Gümrük Müdürlüğü Arkası",
+    "isim": "Çiğdem Eczanesi",
+    "adres": "Medya Mahallesi, Tekel Caddesi, 637/5 Sokak, Çetinler/diyarland Granada75 Sitesi Altı, Mevlana Ilköğretim Okulu Yanı, Gümrük Müdürlüğü Arkası Merkez / Diyarbakır",
     "telefon": "0 (412) 223-53-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.958402,40.167120"
+  },
+  {
+    "isim": "Akarsu Eczanesi",
+    "adres": "Yenişehir Mahallesi, Sağlık Ocağı Sokak No:33 Eğil / Diyarbakır",
+    "telefon": "0 (412) 581-21-23",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.258618,40.085449"
   },
   {
     "isim": "Kevser Eczanesi",
@@ -78,8 +84,32 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.26281001,39.78240616"
   },
   {
+    "isim": "Köksal Eczanesi",
+    "adres": "Merkez Mahallesi, Salih Beg Caddesi No:4/A Hani / Diyarbakır",
+    "telefon": "0 (412) 651-21-58",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.411579,40.394995"
+  },
+  {
+    "isim": "Nergis Eczanesi",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:39/B Kocaköy / Diyarbakır",
+    "telefon": "0 (412) 811-21-21",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.285734,40.503252"
+  },
+  {
+    "isim": "Elif Eczanesi",
+    "adres": "Özal Mahallesi, Diyarbakır Caddesi No:34 Kulp / Diyarbakır",
+    "telefon": "0 (534) 704-50-98",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.496255,41.013429"
+  },
+  {
+    "isim": "Ferhan Eczanesi",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:151 Lice / Diyarbakır",
+    "telefon": "0 (536) 480-30-96",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.454344,40.642122"
+  },
+  {
     "isim": "Amaç Eczanesi",
-    "adres": "Yenişehir Mahallesi, Esenlik Caddesi, Burak 2 Apartmanı No:10/c",
+    "adres": "Yenişehir Mahallesi, Esenlik Caddesi, Burak 2 Apartmanı No:10/C Silvan / Diyarbakır",
     "telefon": "0 (412) 711-80-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.154834,40.968823"
   }
