@@ -13,7 +13,7 @@
   },
   {
     "isim": "Yeni Derman Eczanesi",
-    "adres": "Çınar / Diyarbakır",
+    "adres": "Yeni Mardin Yolu, Dostlar 2 Fırını yanı, Çınar / Diyarbakır",
     "telefon": "0 (412) 511-27-95",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.720772,40.417836"
   },
@@ -25,7 +25,7 @@
   },
   {
     "isim": "Murat Eczanesi",
-    "adres": "Lise Caddesi, Valilik Arkası Nüfus Müd. Yanı Yenişehir Sağlık Ocağı Karşısı Gültekin Peynircilik Yanı No:35 Merkez / Diyarbakır",
+    "adres": "Lise Caddesi No:35 Yenişehir / Diyarbakır",
     "telefon": "0 (412) 223-73-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914300,40.224400"
   },
@@ -55,7 +55,7 @@
   },
   {
     "isim": "Yeni Stadyum Eczanesi",
-    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi, Güneş Düğün Salonu Yanı(Stadyumdan Bir Sonraki Kvşktn 50 M. Lik Yola Inerken Sağ Tarafta. Espresso Lab-Burger King Arka Caddesi, 75 Go Petrolden Stadyuma Dogru Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi, Özay Rezidans C Blok altı Sur / Diyarbakır",
     "telefon": "0 (412) 223-00-55",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.938125,40.132534"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Yağmur Eczanesi",
-    "adres": "Yeni Ergani Devlet Hastanesi Karşısı",
+    "adres": "Adnan Menderes Mahallesi, Kıralan Dink Mevkii No:68 Ergani / Diyarbakır",
     "telefon": "0 (532) 563-30-24",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.262999,39.782377"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Berfin Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Mescit Mahallesi, Gazi Caddesi No:189/9 Silvan / Diyarbakır",
     "telefon": "0 (412) 711-26-23",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1416050,41.0087041"
   }
