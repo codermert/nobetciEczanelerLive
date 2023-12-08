@@ -36,6 +36,12 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916379,40.237169"
   },
   {
+    "isim": "Botanik Eczanesi",
+    "adres": "Bağcılar Mahallesi, Heskif Caddesi, Kent Market aşağısı Ares Coffee karşısı Bağlar / Diyarbakır",
+    "telefon": "0 (412) 505-21-50",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.914569,40.137600"
+  },
+  {
     "isim": "Rojda Eczanesi",
     "adres": "Kaynartepe Mahallesi, Cemiloğlu Caddesi No:6 Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-31-35",
@@ -48,10 +54,10 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.933448,40.202249"
   },
   {
-    "isim": "Botanik Eczanesi",
-    "adres": "Bağcılar Mahallesi, Heskif Caddesi, Kent Market aşağısı Ares Coffee karşısı Bağlar / Diyarbakır",
-    "telefon": "0 (412) 505-21-50",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.914569,40.137600"
+    "isim": "Yeni Stadyum Eczanesi",
+    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi, Güneş Düğün Salonu Yanı(Stadyumdan Bir Sonraki Kvşktn 50 M. Lik Yola Inerken Sağ Tarafta. Espresso Lab-Burger King Arka Caddesi, 75 Go Petrolden Stadyuma Dogru Merkez / Diyarbakır",
+    "telefon": "0 (412) 223-00-55",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.938125,40.132534"
   },
   {
     "isim": "Aşiti Eczanesi",
@@ -64,12 +70,6 @@
     "adres": "Huzurevleri Mahallesi, Dr. Sıtkı Göral Caddesi, Huzurevleri Son Durak Özdeniz Market yanı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 238-21-35",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9445480,40.1872748"
-  },
-  {
-    "isim": "Yeni Stadyum Eczanesi",
-    "adres": "Fırat Mahallesi, Nazım Hikmet Caddesi, Güneş Düğün Salonu Yanı(Stadyumdan Bir Sonraki Kvşktn 50 M. Lik Yola Inerken Sağ Tarafta. Espresso Lab-Burger King Arka Caddesi, 75 Go Petrolden Stadyuma Dogru Merkez / Diyarbakır",
-    "telefon": "0 (412) 223-00-55",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.938125,40.132534"
   },
   {
     "isim": "Kan Eczanesi",
