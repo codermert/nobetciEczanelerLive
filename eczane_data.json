@@ -36,12 +36,6 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917580,40.228678"
   },
   {
-    "isim": "Turkuaz Eczanesi",
-    "adres": "Bağcılar Mahallesi, Zümrütkent Caddesi, Bulutbey Kuzey Plaza Altı No:35/D Bağlar / Diyarbakır",
-    "telefon": "0 (412) 503-89-35",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.913166,40.1715505"
-  },
-  {
     "isim": "Şifa Eczanesi",
     "adres": "Şeyh Şamil Mahallesi, Barış Caddesi No:8/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-47-45",
@@ -54,10 +48,10 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.932793,40.196374"
   },
   {
-    "isim": "Mecnun Eczanesi",
-    "adres": "Urfa Yolu Üzeri Memorial Dicle Hastanesi Yanı, Acil Karşısı /kayapınar/merkez Diyarbakır",
-    "telefon": "0 (412) 999-49-07",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.926401,40.162500"
+    "isim": "Turkuaz Eczanesi",
+    "adres": "Bağcılar Mahallesi, Zümrütkent Caddesi, Bulutbey Kuzey Plaza Altı No:35/D Bağlar / Diyarbakır",
+    "telefon": "0 (412) 503-89-35",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.913166,40.1715505"
   },
   {
     "isim": "Rohat Eczanesi",
@@ -70,6 +64,12 @@
     "adres": "Fırat Mahallesi Star Plus Sitesi Altı Ayaz Elegance Düğün Salonu Arka Kapısı.tarz Koleji Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 505-20-20",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.936551,40.134629"
+  },
+  {
+    "isim": "Mecnun Eczanesi",
+    "adres": "Urfa Yolu Üzeri Memorial Dicle Hastanesi Yanı, Acil Karşısı /kayapınar/merkez Diyarbakır",
+    "telefon": "0 (412) 999-49-07",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.926401,40.162500"
   },
   {
     "isim": "Berçem Eczanesi",
