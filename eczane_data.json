@@ -1,7 +1,7 @@
 [
   {
     "isim": "Erdem Eczanesi",
-    "adres": "Ziraat Bankası karşısı Hacı Şeyhmus Pastane yanı Bismil / Diyarbakır",
+    "adres": "Ziraat Bankası Karşısı Hacı Şeyhmus Pastane Yanı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-51-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.847397,40.663329"
   },
@@ -73,7 +73,7 @@
   },
   {
     "isim": "Berçem Eczanesi",
-    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/a Eğil / Diyarbakır",
     "telefon": "0 (412) 233-12-25",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.258486,40.085644"
   },
@@ -91,25 +91,25 @@
   },
   {
     "isim": "Büşra Eczanesi",
-    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41/A Kocaköy / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41/a Kocaköy / Diyarbakır",
     "telefon": "0 (412) 811-22-33",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.285985,40.502963"
   },
   {
     "isim": "Zehra Eczanesi",
-    "adres": "Merkez Eski Mahalle, Cengiz Topel Caddesi No:53/A Kulp / Diyarbakır",
+    "adres": "Merkez Eski Mahalle, Cengiz Topel Caddesi No:53/a Kulp / Diyarbakır",
     "telefon": "0 (412) 831-22-86",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.499784,41.009656"
   },
   {
     "isim": "Kadir Eczanesi",
-    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/C Lice / Diyarbakır",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:204/c Lice / Diyarbakır",
     "telefon": "0 (554) 154-47-10",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.454319,40.642137"
   },
   {
     "isim": "Silvan Eczanesi",
-    "adres": "Feridun Mahallesi, Diyarbakır Caddesi, Tayfur 3 Apt. No:56/G Silvan / Diyarbakır",
+    "adres": "Feridun Mahallesi, Diyarbakır Caddesi, Tayfur 3 Apt. No:56/g Silvan / Diyarbakır",
     "telefon": "0 (539) 678-71-47",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.144648,41.009794"
   }
