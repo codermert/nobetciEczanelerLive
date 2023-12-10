@@ -7,7 +7,7 @@
   },
   {
     "isim": "Sümer Eczanesi",
-    "adres": "Çukur Mahallesi Katip Mehmet Caddesi Halkbank Karşısı No:4/c Çermik / Diyarbakır",
+    "adres": "Çukur Mahallesi, Katip Mehmet Caddesi No:4/C Çermik / Diyarbakır",
     "telefon": "0 (533) 659-83-40",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.135358,39.452723"
   },
@@ -25,7 +25,7 @@
   },
   {
     "isim": "Janya Eczanesi",
-    "adres": "Şehitlik Dörtyoldan Sola Dönünce, Eski Hal Yolu, Eski Şehitlik Meslek Lisesi Karşısı, Yenişehir Merkez / Diyarbakır",
+    "adres": "Şehitlik Mahallesi, Yaradanakul Caddesi No:21/B Yenişehir / Diyarbakır",
     "telefon": "0 (412) 226-48-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.908375,40.223005"
   },
@@ -62,12 +62,12 @@
   {
     "isim": "Papatya Eczanesi",
     "adres": "Fırat Mahallesi Star Plus Sitesi Altı Ayaz Elegance Düğün Salonu Arka Kapısı.tarz Koleji Karşısı Merkez / Diyarbakır",
-    "telefon": "0 (412) 505-20-20",
+    "telefon": "0 (412) 205-20-20",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.936551,40.134629"
   },
   {
     "isim": "Mecnun Eczanesi",
-    "adres": "Urfa Yolu Üzeri Memorial Dicle Hastanesi Yanı, Acil Karşısı /kayapınar/merkez Diyarbakır",
+    "adres": "Fırat Mahallesi, 507. Sokak, Ademoğlu Yaşam Sitesi altı, Kayapınar / Diyarbakır",
     "telefon": "0 (412) 999-49-07",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926401,40.162500"
   },
