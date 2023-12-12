@@ -1,7 +1,7 @@
 [
   {
     "isim": "Serhat Eczanesi",
-    "adres": "Kurtuluş Mahallesi, Özgürlük Bulvarı No:89 Barış Plaza Şeker Optik Yanı Bismil / Diyarbakır",
+    "adres": "Kurtuluş Mahallesi, Özgürlük Bulvarı No:89 Bismil / Diyarbakır",
     "telefon": "0 (544) 644-93-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.848636,40.663145"
   },
@@ -19,7 +19,7 @@
   },
   {
     "isim": "Amed Eczanesi",
-    "adres": "15 Temmuz Mahallesi, Ergani Caddesi, No 103 Amed Eczanesi Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani Caddesi No:103 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-30-48",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.361377,40.072506"
   },
@@ -43,31 +43,31 @@
   },
   {
     "isim": "Nezahat Eczanesi",
-    "adres": "Nukhet Coşkun Caddesi, Oryıl Petrol Ile Özel Bağlar Hastanesi Arası Eski Sağlık Ocağı Bitişiği Merkez / Diyarbakır",
+    "adres": "Nükhet Coşkun Caddesi, Oryıl Petrol ile Özel Bağlar Hastanesi arası, Eski Sağlık Ocağı bitişiği Bağlar / Diyarbakır",
     "telefon": "0 (412) 236-94-94",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.922446,40.209918"
   },
   {
     "isim": "Sibel Eczanesi",
-    "adres": "Toptancılar Sitesi Arkası Gökkuşağı Düğün Salonu Yanı Vizyon Konutları Altı Merkez / Diyarbakır",
+    "adres": "Toptancılar Sitesi Arkası Gökkuşağı Düğün Salonu yanı Vizyon Konutları Altı Bağlar / Diyarbakır",
     "telefon": "0 (412) 290-26-04",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9233660,40.1806860"
   },
   {
     "isim": "Diyarbakır Eczanesi",
-    "adres": "Lunapark Kavşağı Shell Petrol Karşısı Gaziler Yeni Son Durak, Fırat Mahallesi, Fırat Bulvarı Fidan Sit. A Blok No:103/b Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Fırat Bulvarı Fidan Sitesi A-Blok No:103/B Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-55-25",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9329979,40.1566340"
   },
   {
     "isim": "Masal Eczanesi",
-    "adres": "Huzurevleri Mahallesi 2.sokak 10 C Genesis Hastanesi Yanı Acil Çıkışı Merkez / Diyarbakır",
+    "adres": "Huzurevleri Mahallesi, 2.Sokak No:10/C Kayapınar / Diyarbakır",
     "telefon": "0 (535) 063-16-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.936525,40.204420"
   },
   {
     "isim": "Erdal Eczanesi",
-    "adres": "Diclekent Caddesi, Medya Kavşağı Yukarısı Tatlıcı Hacı Levent Sokağı Metropol 3 Sitesi Arkası Kayapınar Merkez / Diyarbakır",
+    "adres": "Diclekent Caddesi, Medya Kavşağı yukarısı, Tatlıcı Hacı Levent Sokağı-Metropol 3 Sitesi arkası Kayapınar / Diyarbakır",
     "telefon": "0 (412) 257-44-46",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.953444,40.173664"
   },
