@@ -7,13 +7,13 @@
   },
   {
     "isim": "Hastane Eczanesi",
-    "adres": "Devlet Hastanesi Karşısı Çermik / Diyarbakır",
-    "telefon": "0 (416) 461-22-36",
+    "adres": "Çukur Mahallesi, Kumludere Sokak No:12/A Çermik / Diyarbakır",
+    "telefon": "0 (412) 461-22-36",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.128148,39.450236"
   },
   {
     "isim": "Merve Eczanesi",
-    "adres": "Çınar / Diyarbakır",
+    "adres": "Cumhuriyet Mahallesi, Esentepe Sokak No:3 Hanakpınar / Diyarbakır",
     "telefon": "0 (412) 511-22-52",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.729636,40.406892"
   },
@@ -25,19 +25,19 @@
   },
   {
     "isim": "Melih Eczanesi",
-    "adres": "Koopler. Mahallesi, Akkoyunlu Caddesi, Toprak Mahsülleri Ofisi Lojmanları Karşısı Ofis Atmlerin Karşısı 36/b Ofis Balıkçılarbaşı Dolmuş Durağı Karşısı Merkez / Diyarbakır",
+    "adres": "Kooparatifler Mahallesi, Akkoyunlu Caddesi No:36/B Yenişehir / Diyarbakır",
     "telefon": "0 (412) 229-32-88",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9190371,40.218898"
   },
   {
     "isim": "Kasımoğlu Eczanesi",
-    "adres": "Gazi Caddesi, Eski (Bingöl) Cumhuriyet Garajı Yanı Ali Gaffar Okan Lisesi Istikbal Mobilya Karşısı Sur'un Arkası Pak Ekmek Fırını Doğu Mutfağı Karşı Sokağı Dağkapı Merkez / Diyarbakır",
+    "adres": "Cami Nebi Mahallesi, Gazi Caddesi No:15 Dağkapı Sur / Diyarbakır",
     "telefon": "0 (412) 223-41-56",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916000,40.236900"
   },
   {
     "isim": "İskanevleri Eczanesi",
-    "adres": "Bağcılar Mahallesi Sento Caddesi (Kantardan Kuruçeşme'ye Giderken 2.ışıklarda ) Sayın Sitesine Yetişmeden,eski Nisa Hastanesi Yanı Merkez / Diyarbakır",
+    "adres": "Bağcılar Mahallesi, Karacadağ Bulvarı No:127/F Bağlar / Diyarbakır",
     "telefon": "0 (544) 151-10-13",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.922920,40.194042"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Hastane Eczanesi",
-    "adres": "Yeni Ergani Devlet Hastanesi Karşısı",
+    "adres": "Yeni Devlet Hastanesi karşısı Ergani / Diyarbakır",
     "telefon": "0 (535) 761-34-44",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.262827,39.782123"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Deva Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Yenişehir Mahallesi, Esenlik Caddesi No:9/C, Silvan / Diyarbakır",
     "telefon": "0 (412) 711-76-52",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.154643,40.967937"
   }
