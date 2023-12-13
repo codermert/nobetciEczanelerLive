@@ -13,13 +13,13 @@
   },
   {
     "isim": "Mesut Eczanesi",
-    "adres": "Çınar / Diyarbakır",
+    "adres": "Cumhuriyet Mahallesi, Karşıyaka Sokak No:27, Çınar / Diyarbakır",
     "telefon": "0 (412) 511-20-97",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.730282,40.406692"
   },
   {
     "isim": "Barış Eczanesi",
-    "adres": "Dicle / Diyarbakır",
+    "adres": "27 Mayıs Mahallesi, Ergani Caddesi No:190/4 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-26-26",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.360877,40.071321"
   },
@@ -37,14 +37,14 @@
   },
   {
     "isim": "Barış Eczanesi",
-    "adres": "İskanevleri Kavşağı (Vestel'in Karşı Caddesi ) Yeniköy Mezarlığına Giden,cuma Pazarının Kurulduğu Cadde Diyar Düğün Salonu Yakını Yeniköy Asm Karşısı Merkez / Diyarbakır",
+    "adres": "Yeniköy Mahallesi, Mezarlık Caddesi, 1021.Sokak No:49 Bağlar / Diyarbakır",
     "telefon": "0 (412) 235-00-26",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.918500,40.198200"
   },
   {
     "isim": "Mervenur Eczanesi",
-    "adres": "Ncity Alışveriş Merkezi Altı Sultan Hastanesi Karşısı",
-    "telefon": "0 (530) 048-23-32",
+    "adres": "Ncity Alışveriş Merkezi Altı Sultan Hastanesi Karşısı Bağlar / Diyarbakır",
+    "telefon": "0 (412) 238-23-32",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.930837,40.205106"
   },
   {
@@ -55,19 +55,19 @@
   },
   {
     "isim": "Merve Eczanesi",
-    "adres": "75. Metre Yolu Go Petrol Karşısı Starbucks Cafe Arkası Ciğerci Muharrem Usta Arkası Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, 565.Sokak No:12/BA Kayapınar / Diyarbakır",
     "telefon": "0 (412) 999-02-12",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.930191,40.149548"
   },
   {
     "isim": "Menekşe Eczanesi",
-    "adres": "Diclekent Bulvarı Kayapınar Evlendirme Dairesinden Tesislere Doğru Giderken Sağ Tarafta Millet Ilkokulu Karşısı .. Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, Diclekent Bulvarı Çağdaş 1 Sitesi No:41/C Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-64-20",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.941315,40.186962"
   },
   {
     "isim": "Berivan Eczanesi",
-    "adres": "Gaziler Şeyhmus Pastanesi Kavşağından Lunaparka Giderken 5. Binanın Altı. Merkez / Diyarbakır",
+    "adres": "Mezopotamya Mahallesi, Fırat Bulvarı Özlem Koop. B-Blok No:106/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 251-07-97",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.933746,40.169659"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Elif Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Gazi Caddesi, Ziraat Bankası yanı No:72 Silvan / Diyarbakır",
     "telefon": "0 (412) 711-30-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1418100,41.0070431"
   }
