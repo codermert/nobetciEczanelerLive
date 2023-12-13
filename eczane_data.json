@@ -1,13 +1,13 @@
 [
   {
     "isim": "Doruk Eczanesi",
-    "adres": "Merdanoğlu Sokağı- Vahdet Camisi Ilerisi Sağlık Ocağı Karşısı Akpınar Mahallesi, 15. Caddesi, No:73G Bismil / Diyarbakır",
+    "adres": "Akpınar Mahallesi, 15. Cadde No:73/G Bismil / Diyarbakır",
     "telefon": "0 (412) 415-68-65",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.845686,40.670535"
   },
   {
     "isim": "Bahar Eczanesi",
-    "adres": "İlçe Tarım Karşısı 2 Nolu Sağlık Ocağı Yanı Çermik / Diyarbakır",
+    "adres": "Tepe Mahallesi, Diyarbakır Caddesi, No:232 Çermik / Diyarbakır",
     "telefon": "0 (412) 461-21-22",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.137685,39.467918"
   },
@@ -25,13 +25,13 @@
   },
   {
     "isim": "Erbatur Eczanesi",
-    "adres": "Araştırma Hastanesi Çıkışı Tren Yolu Geçidinin Yanı Üçkuyu Mahallesi Elazığ/10 Sokak, No:6/c Merkez / Diyarbakır",
+    "adres": "Üçkuyu Mahallesi, Elazığ/10 Sokak No:6/C Yenişehir / Diyarbakır",
     "telefon": "0 (412) 339-04-39",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.986171,40.140937"
   },
   {
     "isim": "Poyraz Eczanesi",
-    "adres": "Dağkapı Meydanı Dolmuş Durağı Karşısı Şafak Kahvaltı Salonu Yanı Star Otel Altı Merkez / Diyarbakır",
+    "adres": "Dağkapı Meydanı, Dolmuş Durağı karşısı, Şafak Kahvaltı Salonu yanı, Star Otel altı Sur / Diyarbakır",
     "telefon": "0 (412) 223-00-03",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.915472,40.2345765"
   },
@@ -49,7 +49,7 @@
   },
   {
     "isim": "Bozan Eczanesi",
-    "adres": "Körhat Mahallesi, Alipınar Mezarlığı Yanı Meteoroloji Md. Bitişiği Alay Komutanlığı Karşısı Merkez / Diyarbakır",
+    "adres": "Körhat Mahallesi, Alipınar Mezarlığı yanı, Meteoroloji Müdürlüğü bitişiği, Alay Komutanlığı karşısı Bağlar / Diyarbakır",
     "telefon": "0 (412) 415-60-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.909022,40.211400"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Aslan Eczanesi",
-    "adres": "Yeni Ergani Devlet Hastanesi Karşısı",
+    "adres": "Yeni Devlet Hastanesi karşısı Ergani / Diyarbakır",
     "telefon": "0 (507) 731-26-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.262960,39.781618"
   },
