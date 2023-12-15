@@ -14,8 +14,8 @@
   {
     "isim": "Ademhan Eczanesi",
     "adres": "Gazi Mahallesi, 19 Mayıs Caddesi No:116/C Çınar / Diyarbakır",
-    "telefon": "0 (412) 511-21-21",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.721252,40.418643"
+    "telefon": "0 (412) 511-21-20",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.721416,40.418628"
   },
   {
     "isim": "Şahin Eczanesi",
@@ -43,7 +43,7 @@
   },
   {
     "isim": "Reyhan Eczanesi",
-    "adres": "Selahattin Eyyubi Mahallesi, Aydın Arslan Bul. Sultan Hastanesi Yanı Süleyman Demirel Lisesi Karşısı Merkez / Diyarbakır",
+    "adres": "Selahattin Eyyubi Mahallesi, Aydın Arslan Bulvarı No:21/C Bağlar / Diyarbakır",
     "telefon": "0 (533) 373-41-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.932097,40.205178"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Fırat Eczanesi",
-    "adres": "Silvan Yeni Devlet Hastanesi Karşısı",
+    "adres": "Yenişehir Mahallesi, Esenlik Caddesi No:9/A, Silvan / Diyarbakır",
     "telefon": "0 (412) 711-47-23",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.154786,40.969197"
   }
