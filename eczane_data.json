@@ -1,68 +1,116 @@
 [
   {
     "isim": "Pınar Eczanesi",
-    "adres": "Şentepe Mahallesi, 1116 Sokak No:57/B Bismil / Diyarbakır",
+    "adres": "Şentepe Mahallesi, 1116 Sokak, No:57 Taksim B 2 Nolu Sağlık Ocağı Karşısı Bismil / Diyarbakır",
     "telefon": "0 (546) 603-84-40",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.858632,40.665635"
   },
   {
     "isim": "Gül Eczanesi",
-    "adres": "Tepe Mahallesi, Diyarbakır Caddesi No:66/B Çermik / Diyarbakır",
+    "adres": "Tepe Mahallesi, Diyarbakır Caddesi No:66/b Çermik / Diyarbakır",
     "telefon": "0 (537) 735-56-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.137733,39.46863"
   },
   {
     "isim": "Rengin Eczanesi",
-    "adres": "Cumhuriyet Mahallesi, Perverde Sokak No:8/C Çınar / Diyarbakır",
+    "adres": "Cumhuriyet Mahallesi, Perverde Sokak. Kayıkçı Ap 7 Kapı No:8C Çınar / Diyarbakır",
     "telefon": "0 (412) 511-20-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.729331,40.405071"
   },
   {
     "isim": "Barış Eczanesi",
-    "adres": "27 Mayıs Mahallesi, Ergani Caddesi No:190/4 Dicle / Diyarbakır",
+    "adres": "Dicle / Diyarbakır",
     "telefon": "0 (412) 561-26-26",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.360877,40.071321"
   },
   {
-    "isim": "Bodakçi Eczanesi",
-    "adres": "Peyas Mahallesi, Ayşe Nur Zarakolu Caddesi No:24/B Kayapınar / Diyarbakır",
-    "telefon": "0 (536) 663-17-29",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=37.939900,40.171600"
-  },
-  {
     "isim": "Yekbun Eczanesi",
-    "adres": "Yenişehir Mahallesi, Lise 3.Sokak, Yılmaz 2015 Apt No:4/B Yenişehir / Diyarbakır",
+    "adres": "Yenişehir Mahallesi Lise 3. Sokak Yılmaz 2015 Apt Altı No:4/b Yeni Umut Kırtasiye Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 233-61-45",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917580,40.228678"
   },
   {
     "isim": "Melih Eczanesi",
-    "adres": "Kooparatifler Mahallesi, Akkoyunlu Caddesi No:36/B Yenişehir / Diyarbakır",
+    "adres": "Koopler. Mahallesi, Akkoyunlu Caddesi, Toprak Mahsülleri Ofisi Lojmanları Karşısı Ofis Atmlerin Karşısı 36/b Ofis Balıkçılarbaşı Dolmuş Durağı Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 229-32-88",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9190371,40.218898"
   },
   {
+    "isim": "Bulak Eczanesi",
+    "adres": "Bağcılar Mahallesi, Qamişlo Bulvarı Kom. Nevroz Park Sitesi Altı No:45-E Nevroz Parkın 100 M Aşağısı Hacıseyıt Pastanesi Bitişiği Migros Karşısı Merkez / Diyarbakır",
+    "telefon": "0 (533) 816-21-41",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.914293,40.167678"
+  },
+  {
+    "isim": "Çevre Eczanesi",
+    "adres": "Hatboyu Caddesi, Güneydoğu Yapı Koop.1.kısım No:1 Çarşamba Pazarının Başı Hatboyu Hacı Baba Pastanesi Karşısı Bağlar Merkez / Diyarbakır",
+    "telefon": "0 (412) 236-88-07",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.926500,40.209200"
+  },
+  {
     "isim": "İskanevleri Eczanesi",
-    "adres": "Bağcılar Mahallesi, Karacadağ Bulvarı No:127/F Bağlar / Diyarbakır",
+    "adres": "Bağcılar Mahallesi Sento Caddesi (Kantardan Kuruçeşme'ye Giderken 2.ışıklarda ) Sayın Sitesine Yetişmeden,eski Nisa Hastanesi Yanı Merkez / Diyarbakır",
     "telefon": "0 (544) 151-10-13",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.922920,40.194042"
   },
   {
+    "isim": "Bodakçi Eczanesi",
+    "adres": "Gaziler Eski Son Durak Kaplan Cıty Işıklarında Jiber Ile Hacı Seyit Sokağında Şehit Halis Demir Anadolu Lisesi Bitişiği Merkez / Diyarbakır",
+    "telefon": "0 (536) 663-17-29",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=37.939900,40.171600"
+  },
+  {
     "isim": "Diclekent Eczanesi",
-    "adres": "Yılmaz Güney Caddesi, Bediüzzaman Camii yanı, Cizrelioğlu Ortaokulu karşısı Kayapınar / Diyarbakır",
+    "adres": "Yılmaz Güney Caddesi, Bediüzzaman Camii Yanı Cizrelioğlu Ortaokulu Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 257-20-91",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.946854,40.171573"
   },
   {
     "isim": "Gülandem Eczanesi",
-    "adres": "Talaytepe Mahallesi, 4001. Sokak, Sosyal Konutlar Toki İş Merkezi No:4/B Kayapınar / Diyarbakır",
+    "adres": "Sosyal Konutlar Toki Iş Merkezi No:4/b",
     "telefon": "0 (412) 503-83-83",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.961837,40.145005"
+  },
+  {
+    "isim": "Berçem Eczanesi",
+    "adres": "Yenişehir Mahallesi, Sağlık Caddesi No:29/A Eğil / Diyarbakır",
+    "telefon": "0 (412) 233-12-25",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.258486,40.085644"
   },
   {
     "isim": "Yentür Eczanesi",
     "adres": "Eski Hastane üstü, İlçe Tarım bitişiği Ergani / Diyarbakır",
     "telefon": "0 (412) 611-26-27",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.271600,39.757400"
+  },
+  {
+    "isim": "Aslan Eczanesi",
+    "adres": "Merkez Mahallesi, Nergiz 3.Sokak No:24/A Hani / Diyarbakır",
+    "telefon": "0 (412) 651-22-00",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.406619,40.402112"
+  },
+  {
+    "isim": "Büşra Eczanesi",
+    "adres": "Yenişehir Mahallesi, Hastane Caddesi No:41/A Kocaköy / Diyarbakır",
+    "telefon": "0 (412) 811-22-33",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.285985,40.502963"
+  },
+  {
+    "isim": "Zehra Eczanesi",
+    "adres": "Merkez Eski Mahalle, Cengiz Topel Caddesi No:53/A Kulp / Diyarbakır",
+    "telefon": "0 (412) 831-22-86",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.499784,41.009656"
+  },
+  {
+    "isim": "Kılıç Eczanesi",
+    "adres": "Karahasan Mahallesi, Diyarbakır Caddesi No:142/C-D Lice / Diyarbakır",
+    "telefon": "0 (412) 861-22-57",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.454584,40.642090"
+  },
+  {
+    "isim": "Şifa Eczanesi",
+    "adres": "Bağlar Mahallesi Fırat Simpil Caddesi No: 7/a Boyunlu (Boşat) Yolu Üzeri (Migrosun Karşısındaki Sokakta) Silvan/ Diyarbakır",
+    "telefon": "0 (412) 711-56-00",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=38.149229,41.003637"
   }
 ]
