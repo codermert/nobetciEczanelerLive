@@ -43,13 +43,13 @@
   },
   {
     "isim": "Tepe Eczanesi",
-    "adres": "Emek Caddesi, Özlem 2000 Lokantası Karşısı Emek Banyo Sokağı Badıka Yas Evi Yanı Merkez / Diyarbakır",
+    "adres": "Mevlana Halit Mahallesi, 439. Sokak No:3/B Bağlar / Diyarbakır",
     "telefon": "0 (412) 235-67-97",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.925619,40.206601"
   },
   {
     "isim": "Barış Eczanesi",
-    "adres": "İskanevleri Kavşağı (Vestel'in Karşı Caddesi ) Yeniköy Mezarlığına Giden,cuma Pazarının Kurulduğu Cadde Diyar Düğün Salonu Yakını Yeniköy Asm Karşısı Merkez / Diyarbakır",
+    "adres": "Yeniköy Mahallesi, Mezarlık Caddesi, 1021.Sokak No:49 Bağlar / Diyarbakır",
     "telefon": "0 (412) 235-00-26",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.918500,40.198200"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Ece Eczanesi",
-    "adres": "Parkorman Çarmar Iki Arka Sokağı. Huzurevleri Karakolu Arkası. 1 Nolu Aile Hekimliği Yanı Huzurevleri Ilköğretim Okulu Parkın Bitişindeki Sokak. . Dr Sıtkı Göral Caddesi, Kayapınar Merkez / Diyarbakır",
+    "adres": "Huzurevleri Mahallesi, 68. Sokak No:4/A Kayapınar / Diyarbakır",
     "telefon": "0 (412) 237-99-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.940123,40.192103"
   },
@@ -79,7 +79,7 @@
   },
   {
     "isim": "Evrim Eczanesi",
-    "adres": "Yeni Ergani Devlet Hastanesi Karşısı",
+    "adres": "Yeni Devlet Hastanesi karşısı Ergani / Diyarbakır",
     "telefon": "0 (546) 684-07-27",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.262839,39.782056"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Soylu Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Cami Mahallesi, Selahattin Eyyubi Caddesi, Özel Şifa Tıp Merkezi Bitişiği Silvan / Diyarbakır",
     "telefon": "0 (412) 711-32-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1487040,41.0033330"
   }
