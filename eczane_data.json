@@ -1,7 +1,7 @@
 [
   {
     "isim": "Ekin Eczanesi",
-    "adres": "Özgürlük Bulvarı Turkcel Karşısı Biten Pasajı Akpınar Mahallesi, Özgürlük Bulvarı Biten Pasajı No:48/7-8 Bismil/d.bakır",
+    "adres": "Akpınar Mahallesi, Özgürlük Bulvarı, Biten Pasajı No:48/7-8 Bismil / Diyarbakır",
     "telefon": "0 (412) 415-40-45",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.848032,40.663705"
   },
@@ -13,25 +13,25 @@
   },
   {
     "isim": "Yeni Derman Eczanesi",
-    "adres": "Çınar / Diyarbakır",
+    "adres": "Yeni Mardin Yolu, Dostlar 2 Fırını yanı, Çınar / Diyarbakır",
     "telefon": "0 (412) 511-27-95",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.720772,40.417836"
   },
   {
     "isim": "Barış Eczanesi",
-    "adres": "Dicle / Diyarbakır",
+    "adres": "27 Mayıs Mahallesi, Ergani Caddesi No:190/4 Dicle / Diyarbakır",
     "telefon": "0 (412) 561-26-26",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.360877,40.071321"
   },
   {
     "isim": "Ufuk Can Eczanesi",
-    "adres": "Üçkuyu Mahallesi, Hilar Caddesi Öz Fırat Sitesi B/blok No:1Ba Yenişehir Merkez / Diyarbakır",
+    "adres": "Üçkuyu Mahallesi, Hilar Caddesi, Öz Fırat Sitesi B Blok No:1/BA Yenişehir / Diyarbakır",
     "telefon": "0 (412) 502-70-90",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.987036,40.161523"
   },
   {
     "isim": "Taha Eczanesi",
-    "adres": "Cami Nebi Mahallesi Inönü Caddesi No:4B (Nebi Caminin Arkası Business Class Otelin Altı) Sur Merkez / Diyarbakır",
+    "adres": "Cami Nebi Mahallesi, İnönü Caddesi No:4/B Sur / Diyarbakır",
     "telefon": "0 (412) 228-99-44",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9149437,40.2360611"
   },
@@ -55,13 +55,13 @@
   },
   {
     "isim": "Sultan Koç Eczanesi",
-    "adres": "Winstown Avm Talaytepe Mahallesi, 4005. Sokak Winstown Avm No:1/a Merkez / Diyarbakır",
+    "adres": "Talaytepe Mahallesi, 4005.Sokak, Winstown AVM No:1/A Kayapınar / Diyarbakır",
     "telefon": "0 (541) 459-83-84",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9687996,40.1542091"
   },
   {
     "isim": "Anadolu Eczanesi",
-    "adres": "Peyas Mahallesi Kayapınar Belediyesi Yanı Kaplan Çelik Kapı Arkası 429. Sokak Pilda 2005 Apt. Altı 1/c Merkez / Diyarbakır",
+    "adres": "Peyas Mahallesi, 429. Sokak Pilda 2005 Apt. No:1/C Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-64-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9409326,40.1731118"
   },
