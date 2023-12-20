@@ -25,13 +25,13 @@
   },
   {
     "isim": "Ortadoğu Eczanesi",
-    "adres": "Ofis Gevran Caddesi, Harikalar Pazarı Karşısı Merkez / Diyarbakır",
+    "adres": "Ofis Gevran Caddesi, Ziraat Bankası karşısı Yenişehir / Diyarbakır",
     "telefon": "0 (412) 234-36-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.921957,40.219253"
   },
   {
     "isim": "Kardeşler Eczanesi",
-    "adres": "İnönü Caddesi, Büyük P.t.t Yanı Çiftkapı Karşısı No:63 Sur Merkez / Diyarbakır",
+    "adres": "İskenderpaşa Mahallesi, İnönü Caddesi No:63 Sur / Diyarbakır",
     "telefon": "0 (412) 223-98-55",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914076,40.230480"
   },
@@ -55,13 +55,13 @@
   },
   {
     "isim": "Nora Eczanesi",
-    "adres": "Fırat Mahallesi Urfa Yolu Özel Dicle Memorial Hastanesi Yanı Çeysa Serhat Plaza Altı Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Urfa Yolu Özel Dicle Memorial Hastanesi yanı Çeysa Serhat Plaza Altı Kayapınar / Diyarbakır",
     "telefon": "0 (539) 775-33-50",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926256,40.162438"
   },
   {
     "isim": "Emir Eczanesi",
-    "adres": "Fırat Mahallesi, Jiyan Caddesi, Metropol 5 Sitesi Altı Otogar Camiisini Geçtikten Sonra 2. Kavşaktan Kompleksia Sit. Sola Dönünce 300 M Ileri De Solda Merkez / Diyarbakır",
+    "adres": "Fırat Mahallesi, Jiyan Caddesi, Metropol 5 Sitesi Altı, Kayapınar / Diyarbakır",
     "telefon": "0 (412) 502-43-53",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.927238,40.128427"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "MemuZin Eczanesi",
-    "adres": "Silvan / Diyarbakır",
+    "adres": "Devlet Hastanesi yakını, Silvan / Diyarbakır",
     "telefon": "0 (412) 711-57-57",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.1549777,40.9686178"
   }
