@@ -1,7 +1,7 @@
 [
   {
     "isim": "Pınar Eczanesi",
-    "adres": "Şentepe Mahallesi, 1116 Sokak, No:57 Taksim B 2 Nolu Sağlık Ocağı Karşısı Bismil / Diyarbakır",
+    "adres": "Şentepe Mahallesi, 1116 Sokak No:57/B Bismil / Diyarbakır",
     "telefon": "0 (546) 603-84-40",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.858632,40.665635"
   },
@@ -19,7 +19,7 @@
   },
   {
     "isim": "Dinç Eczanesi",
-    "adres": "15 Temmuz Mahallesi Ergani 5. Sokak No:3C Diyarbakır / Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani 5. Sokak No:3/C Dicle / Diyarbakır",
     "telefon": "0 (507) 553-71-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.360811,40.071777"
   },
@@ -31,7 +31,7 @@
   },
   {
     "isim": "Poyraz Eczanesi",
-    "adres": "Dağkapı Meydanı Dolmuş Durağı Karşısı Şafak Kahvaltı Salonu Yanı Star Otel Altı Merkez / Diyarbakır",
+    "adres": "Dağkapı Meydanı, Dolmuş Durağı karşısı, Şafak Kahvaltı Salonu yanı, Star Otel altı Sur / Diyarbakır",
     "telefon": "0 (412) 223-00-03",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.915472,40.2345765"
   },
@@ -43,13 +43,13 @@
   },
   {
     "isim": "Özdeniz Eczanesi",
-    "adres": "Cezaevi Alt Köşesi Vali Ünal Erkan I.ö.o Sokağı 6 Ve 7 Nolu Sağlık Ocağı Karşısı Perşembe Pazarı Caddesi Merkez / Diyarbakır",
+    "adres": "Cezaevi Alt Köşesi Vali Ünal Erkan İ.Ö.O. Sokağı 6 ve 7 Nolu Sağlık Ocağı karşısı Perşembe Pazarı Caddesi Bağlar / Diyarbakır",
     "telefon": "0 (412) 233-76-49",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9256950,40.1975710"
   },
   {
     "isim": "Oryıl Eczanesi",
-    "adres": "Hatboyu Caddesi, ( Doç. Dr. Ahmet Bilgin Caddesi, ) Doğu Yapı Koop. A2 Blok Altı No:141/a Bağlar / Diyarbakır Oryıl Petrol’Den Nergiz Pastanesine Giderken Sağda Merkez / Diyarbakır",
+    "adres": "Hatboyu Caddesi, Doğu Yapı Kooperatifi A2 Blok altı No:141/A Bağlar / Diyarbakır",
     "telefon": "0 (412) 234-86-88",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.926000,40.209600"
   },
@@ -67,7 +67,7 @@
   },
   {
     "isim": "Sarısaltık Eczanesi",
-    "adres": "Diclekent Bulvarı Gönül Kahvesi Karşısı Go Petrol Arkası H.evleri 2 Nolu Sağlık Ocağı Yanı Huzurevleri Merkez / Diyarbakır",
+    "adres": "Diclekent Bulvarı Gönül Kahvesi karşısı Go Petrol Arkası H.Evleri 2 No'lu Sağlık Ocağı yanı Huzurevleri Kayapınar / Diyarbakır",
     "telefon": "0 (412) 238-35-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9447462,40.1860461"
   },
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Şifa Eczanesi",
-    "adres": "Bağlar Mahallesi Fırat Simpil Caddesi No: 7/a Boyunlu (Boşat) Yolu Üzeri (Migrosun Karşısındaki Sokakta) Silvan/ Diyarbakır",
+    "adres": "Bağlar Mahallesi, Fırat Simpil Caddesi No:7/A Silvan / Diyarbakır",
     "telefon": "0 (412) 711-56-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.149229,41.003637"
   }
