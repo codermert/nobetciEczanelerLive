@@ -19,25 +19,25 @@
   },
   {
     "isim": "Dinç Eczanesi",
-    "adres": "15 Temmuz Mahallesi Ergani 5. Sokak No:3C Diyarbakır / Dicle / Diyarbakır",
+    "adres": "15 Temmuz Mahallesi, Ergani 5. Sokak No:3/C Dicle / Diyarbakır",
     "telefon": "0 (507) 553-71-21",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.360811,40.071777"
   },
   {
     "isim": "Güneydoğu Eczanesi",
-    "adres": "Lise Caddesi, Valilik Arkası Nüfus Müd. Yanı Gap Apt Altı No:38/a Merkez / Diyarbakır",
+    "adres": "Lise Caddesi, Gap Apt. Altı No:38/A Yenişehir / Diyarbakır",
     "telefon": "0 (412) 228-28-80",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914962,40.224698"
   },
   {
     "isim": "Doğu Eczanesi",
-    "adres": "Gazi Caddesi, Nebi Camisi Karşısı Kılıççı Pasajı Altı No:13/a Kadayıfçı Saim Usta Bitişiği Dağkapı Merkez / Diyarbakır",
+    "adres": "Gazi Caddesi, Kılıççı Pasajı altı No:13/A Dağkapı Sur / Diyarbakır",
     "telefon": "0 (412) 229-48-78",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.914600,40.236900"
   },
   {
     "isim": "Gökkuşağı Eczanesi",
-    "adres": "Yeni Otogar Kavşağı Çarmar Market Sokağı 50 M Içeride Sağ Tarafta Birtane 3 Sitesi D Blok Altı, Otogar Merkez / Diyarbakır",
+    "adres": "Yeni Otogar Kavşağı Çarmar Market Sokağı 50 Metre içeride Sağ Tarafta Birtane 3 Sitesi D Blok Altı, Otogar Bağlar / Diyarbakır",
     "telefon": "0 (412) 290-13-22",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9173038,40.1376877"
   },
@@ -49,7 +49,7 @@
   },
   {
     "isim": "Nur Eczanesi",
-    "adres": "Cezaevinden Migrosa Giden Yol Üzeri Cezaevi Üst Köşe Buhara 1 Apt. Altı Pazar Pazarı Yanı Merkez / Diyarbakır",
+    "adres": "Cezaevinden Migrosa Giden Yol Üzeri Cezaevi Üst Köşe Buhara 1 Apt. Altı Pazar Pazarı yanı Bağlar / Diyarbakır",
     "telefon": "0 (412) 252-07-76",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.929200,40.193100"
   },
@@ -61,13 +61,13 @@
   },
   {
     "isim": "Zin Eczanesi",
-    "adres": "Medya Mahallesi, Tekel Caddesi, Bedir Ranya Park Yapı Altı, Mevlana Ilköğrem Okulu Yanı,gümrük Müdürlüğü Arkası, No:62/a-D Kayapınar Merkez / Diyarbakır",
+    "adres": "Medya Mahallesi, Tekel Caddesi No:62/A-D Kayapınar / Diyarbakır",
     "telefon": "0 (412) 503-34-94",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.958725,40.166093"
   },
   {
     "isim": "Mavi Eczanesi",
-    "adres": "Park Orman Karşısındaki Çarmar Market Arkası Yeni Yapılan Huzurevleri Karakolu Yanı Huzurevleri Muhtarlık Bitişiği Diclekent Bulvarı Merkez / Diyarbakır",
+    "adres": "Park Orman karşısındaki Çarmar Market arkası, yeni yapılan Huzurevleri Karakolu yanı, Huzurevleri Muhtarlık bitişiği Diclekent Bulvarı Kayapınar / Diyarbakır",
     "telefon": "0 (412) 262-36-29",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.938659,40.192086"
   },
