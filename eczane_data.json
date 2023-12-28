@@ -1,14 +1,14 @@
 [
   {
     "isim": "Özgür Eczanesi",
-    "adres": "Özgürlük Bulvarı 1 Caddesi, Halk Bank Yanı Adliye Karşısı",
+    "adres": "Özgürlük Bulvarı 1 Caddesi, Halk Bank yanı Adliye karşısı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-19-73",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.850776,40.664946"
   },
   {
     "isim": "Burak Eczanesi",
-    "adres": "Devlet Hastanesi Karşısı",
-    "telefon": "(Telefonu bulunamadı)",
+    "adres": "Devlet Hastanesi karşısı Çermik / Diyarbakır",
+    "telefon": "0 (412) 461-52-02",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.128400,39.450900"
   },
   {
@@ -26,48 +26,48 @@
   {
     "isim": "Ihlamur Eczanesi",
     "adres": "Elazığ Yolu Üzeri Üçkuyu Kavşağı Işıklarından Üçkuyular Tokiye Girince 200 Metre Ileride Sağda A-101 Ile Gökkuşağı Market Ortası Sevgi Ucuzluk Merkezi Bitişiği",
-    "telefon": "(Telefonu bulunamadı)",
+    "telefon": "0 (412) 504-87-58",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9902742,40.1458395"
   },
   {
     "isim": "Kurtuluş Eczanesi",
-    "adres": "Aliemiri 1. Sokak, No:6/a Dağkapı Diyar Life (Veni Vidi )Hastanesi Acil Çıkışı Karşısı",
+    "adres": "Aliemiri 1. Sokak, No:6/a Dağkapı Diyar Life (Veni Vidi )Hastanesi Acil Çıkışı Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 229-15-37",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.916578,40.234687"
   },
   {
     "isim": "Hakan Eczanesi",
-    "adres": "Kadın Doğum Hastanesi Arkası Yenihal 2. Cadde (Eski Avea Caddesi) Best Fırın Yanı",
+    "adres": "Kadın Doğum Hastanesi Arkası Yenihal 2. Cadde (Eski Avea Caddesi) Best Fırın Yanı Merkez / Diyarbakır",
     "telefon": "0 (505) 918-33-92",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.919025,40.161716"
   },
   {
     "isim": "Derman Eczanesi",
-    "adres": "Karacadağ Caddesi, 134/a Ziraat Bankası Kuruçeşme Şubesi Çaprazı Bağlar",
+    "adres": "Karacadağ Caddesi, 134/a Ziraat Bankası Kuruçeşme Şubesi Çaprazı Bağlar Merkez / Diyarbakır",
     "telefon": "0 (412) 236-00-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.917516,40.202379"
   },
   {
     "isim": "Canan Eczanesi",
-    "adres": "Körhat Mahallesi, Cemiloğlu Bulvarı Körhat Sağlık Ocağı Karşısı Meteroloji Il Müd. Yanı",
+    "adres": "Körhat Mahallesi, Cemiloğlu Bulvarı Körhat Sağlık Ocağı Karşısı Meteroloji Il Müd. Yanı Merkez / Diyarbakır",
     "telefon": "0 (412) 223-68-93",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9160230,40.2359770"
   },
   {
     "isim": "Ozan Eczanesi",
-    "adres": "Musa Ant. Caddesi, (Enerji Spor Salonu Caddesi) Gross Ve Şok Market Ilerisi Çınar Ekmek Fırını Sokağı Imami Şafi Cami Arkası Kayapınar 6 No'lu Aile Hekimliği Karşısı (75 Metreden Musa Antere Girince 2. Sol",
+    "adres": "Musa Ant. Caddesi, (Enerji Spor Salonu Caddesi) Gross Ve Şok Market Ilerisi Çınar Ekmek Fırını Sokağı Imami Şafi Cami Arkası Kayapınar 6 No'lu Aile Hekimliği Karşısı (75 Metreden Musa Antere Girince 2. Sol Merkez / Diyarbakır",
     "telefon": "0 (412) 251-33-41",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9396153,40.1615126"
   },
   {
     "isim": "Defne Eczanesi",
-    "adres": "Diclekent Memorial Diyarbakır Hastanesi Arkası",
+    "adres": "Diclekent Memorial Diyarbakır Hastanesi Arkası Kayapınar / Diyarbakır",
     "telefon": "0 (412) 251-30-45",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.936700,40.187900"
   },
   {
     "isim": "Metin Eczanesi",
-    "adres": "Diclekent Caddesi Üstü Medya Kavşağını Az Geçince Dicle Fırat Ağız Ve Diş Polikliniği Ve Gültekin Peynircilik Karşısı Ziraat Bankası Ve Nokta Döner Yanı",
+    "adres": "Diclekent Caddesi Üstü Medya Kavşağını Az Geçince Dicle Fırat Ağız Ve Diş Polikliniği Ve Gültekin Peynircilik Karşısı Ziraat Bankası Ve Nokta Döner Yanı Merkez / Diyarbakır",
     "telefon": "0 (412) 257-39-39",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.949447,40.1770618"
   },
@@ -79,8 +79,8 @@
   },
   {
     "isim": "Derman Eczanesi",
-    "adres": "Adnan Menderes Mahallesi Kıralan Dink Mevki No:8/c",
-    "telefon": "(Telefonu bulunamadı)",
+    "adres": "Adnan Menderes Mahallesi Kıralan Dink Mevki No:8/c Ergani / Diyarbakır",
+    "telefon": "0 (507) 044-00-49",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.2630188,39.7817522"
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Silvan Eczanesi",
-    "adres": "Feridun Mahallesi Diyarbakır Caddesi Tayfur 3 Apt No:56G",
+    "adres": "Feridun Mahallesi, Diyarbakır Caddesi, Tayfur 3 Apt. No:56/G Silvan / Diyarbakır",
     "telefon": "0 (539) 678-71-47",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.144648,41.009794"
   }
