@@ -1,1 +1,218 @@
-
+[
+  {
+    "isim": "Yeni Orhan Eczanesi",
+    "adres": "Orhan Mahallesi, Dr. İbrahim Öktem Caddesi, No:35 Büyükorhan / Bursa",
+    "telefon": "0 (506) 226-03-44",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=39.775239,28.882006"
+  },
+  {
+    "isim": "Neşe Eczanesi",
+    "adres": "Eşref Dinçer Mahallesi, Erikli Sokak No:32/D Gemlik / Bursa",
+    "telefon": "0 (224) 514-53-67",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.4323550,29.1616960"
+  },
+  {
+    "isim": "İrem Eczanesi",
+    "adres": "Balıkpazarı Mahallesi, Mektep Sokak No:18/A Gemlik / Bursa",
+    "telefon": "0 (224) 514-22-42",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.4361988,29.1541825"
+  },
+  {
+    "isim": "Ezgi Eczanesi",
+    "adres": "Kurtuluş Mahallesi, Atatürk Caddesi No:112/A Gürsu / Bursa",
+    "telefon": "0 (224) 371-55-88",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.212931,29.192834"
+  },
+  {
+    "isim": "Derman Eczanesi",
+    "adres": "Merkez Mahallesi, Fevzi Paşa Caddesi, No:11/1 Harmancık / Bursa",
+    "telefon": "0 (224) 881-22-95",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=39.679001,29.155421"
+  },
+  {
+    "isim": "Türkay Eczanesi",
+    "adres": "Mahmudiye Mahallesi, Lider Sokak No:3/A İnegöl / Bursa",
+    "telefon": "0 (224) 715-20-99",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.0645859,29.5187906"
+  },
+  {
+    "isim": "Sevim Eczanesi",
+    "adres": "Osmaniye Mahallesi, Altı Eylül Caddesi No:12/A İnegöl / Bursa",
+    "telefon": "0 (552) 829-22-16",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.088761,29.507988"
+  },
+  {
+    "isim": "Selen Eczanesi",
+    "adres": "Orhaniye Mahallesi, Varışlısoy Sokak No:13 İnegöl / Bursa",
+    "telefon": "0 (224) 711-15-24",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.0804310,29.5213560"
+  },
+  {
+    "isim": "Hersekli Eczanesi",
+    "adres": "Yeni Mahallesi, Canbaz Sokak No:9 İznik / Bursa",
+    "telefon": "0 (224) 757-24-44",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.428615,29.722635"
+  },
+  {
+    "isim": "Hayat Eczanesi",
+    "adres": "Sırabademler Mahallesi, Ortaokul Caddesi, No:76 Karacabey / Bursa",
+    "telefon": "0 (224) 660-00-06",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.2109977,28.3610205"
+  },
+  {
+    "isim": "Keles Eczanesi",
+    "adres": "Cuma Mahallesi, Atatürk Caddesi, No:20/A Keles / Bursa",
+    "telefon": "0 (224) 861-23-63",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=39.91297,29.232773"
+  },
+  {
+    "isim": "İlker Eczanesi",
+    "adres": "Vani Mehmet Mahallesi, Hakim Aytekin Baysal Sokak No:9/B Kestel / Bursa",
+    "telefon": "0 (224) 372-44-20",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.1992860,29.2135640"
+  },
+  {
+    "isim": "Yalım Eczanesi",
+    "adres": "Güzelyalı Yalı Mahallesi, 41.Sokak No:13/C Mudanya / Bursa",
+    "telefon": "0 (224) 554-66-77",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.356337,28.921148"
+  },
+  {
+    "isim": "Tuna Eczanesi",
+    "adres": "Yeni Mahallesi, Ünlü Caddesi, No:18/14 Mudanya / Bursa",
+    "telefon": "0 (224) 544-95-90",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.3617941,28.9054194"
+  },
+  {
+    "isim": "Nergis Eczanesi",
+    "adres": "Züferbey Mahallesi, İsmetpaşa Caddesi, No:38/A-B Mustafakemalpaşa / Bursa",
+    "telefon": "0 (224) 613-08-09",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.0361210,28.4145650"
+  },
+  {
+    "isim": "Cander Eczanesi",
+    "adres": "Fethiye Mahallesi, İnceler Sokak No:14-C/A Nilüfer / Bursa",
+    "telefon": "0 (224) 220-81-55",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.231777,28.980506"
+  },
+  {
+    "isim": "Peker Eczanesi",
+    "adres": "Karaman Mahallesi, Biçen Sokak No:9/C Nilüfer / Bursa",
+    "telefon": "0 (224) 249-88-20",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.2152120,28.9960190"
+  },
+  {
+    "isim": "Yüzüncüyıl Eczanesi",
+    "adres": "Yüzüncüyıl Mahallesi, Prof.Dr.Erdal İnönü Caddesi No:25/G7 Nilüfer / Bursa",
+    "telefon": "0 (224) 413-12-22",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.225854,28.906028"
+  },
+  {
+    "isim": "Barışcan Eczanesi",
+    "adres": "Minareliçavuş Mahallesi, Mezra Sokak No:42/A Nilüfer / Bursa",
+    "telefon": "0 (224) 243-00-20",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.2471450,28.9396020"
+  },
+  {
+    "isim": "Sevde Nur Eczanesi",
+    "adres": "Beşevler Mahallesi, Acar Sokak No:11/B Nilüfer / Bursa",
+    "telefon": "0 (224) 452-10-61",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.210316,28.975989"
+  },
+  {
+    "isim": "Akçalar Eczanesi",
+    "adres": "Akçalar Mahallesi, Kanal(660) Caddesi, Derin Sokak No:11 Nilüfer / Bursa",
+    "telefon": "0 (224) 488-50-86",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.176842,28.744897"
+  },
+  {
+    "isim": "Çalı Derman Eczanesi",
+    "adres": "Çalı Mahallesi, Bursa Caddesi No:3 Nilüfer / Bursa",
+    "telefon": "0 (224) 482-32-18",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.168717,28.919450"
+  },
+  {
+    "isim": "Yalçın Eczanesi",
+    "adres": "İsmetpaşa Mahallesi, Cami karşısı Sokak No:3 Orhaneli / Bursa",
+    "telefon": "0 (224) 817-12-86",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=39.9024450,28.9887860"
+  },
+  {
+    "isim": "Başer Eczanesi",
+    "adres": "Hürriyet Mahallesi, Dolmacı 1 Nolu Sokak No:2 Orhangazi / Bursa",
+    "telefon": "0 (224) 573-72-32",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.485429,29.304949"
+  },
+  {
+    "isim": "Okumuş Eczanesi",
+    "adres": "Demirtaş Dumlupınar Mahallesi, 47.Cadde No:76/B Osmangazi / Bursa",
+    "telefon": "0 (224) 262-11-44",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.2702836,29.0799290"
+  },
+  {
+    "isim": "Merkez Sağlık Eczanesi",
+    "adres": "Alaaddin Mahallesi, Ortapazar Caddesi, No:47/2 Osmangazi / Bursa",
+    "telefon": "0 (224) 222-40-68",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.185938,29.053891"
+  },
+  {
+    "isim": "Safir Eczanesi",
+    "adres": "Reyhan Mahallesi, Safranlık Sokak No:4 Osmangazi / Bursa",
+    "telefon": "0 (224) 220-01-50",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.187895,29.063086"
+  },
+  {
+    "isim": "Nurver Eczanesi",
+    "adres": "Soğanlı Mahallesi, Kanalboyu Caddesi, No:37 Soğanlıköy Osmangazi / Bursa",
+    "telefon": "0 (224) 236-57-58",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.204804,29.047379"
+  },
+  {
+    "isim": "Ayşenur Eczanesi",
+    "adres": "Hamitler Mahallesi, 2.Coşkun Sokak No:3/A Osmangazi / Bursa",
+    "telefon": "0 (224) 999-55-76",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.249648,28.983764"
+  },
+  {
+    "isim": "Çiğdem Eczanesi",
+    "adres": "Emek Z.Gümüşdiş Mahallesi, Güler Sokak No:23 Osmangazi / Bursa",
+    "telefon": "0 (224) 243-84-42",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.254507,28.956200"
+  },
+  {
+    "isim": "Yeşilova Eczanesi",
+    "adres": "Yeşilova Mahallesi, Kemerçeşme Caddesi, No:203 Osmangazi / Bursa",
+    "telefon": "0 (224) 256-01-67",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.211014,29.065287"
+  },
+  {
+    "isim": "Türe Eczanesi",
+    "adres": "Yenigün Mahallesi, İznik Caddesi, No:27 Yenişehir / Bursa",
+    "telefon": "0 (224) 773-27-17",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.2686370,29.6522016"
+  },
+  {
+    "isim": "Ekrem Eczanesi",
+    "adres": "Selimzade Mahallesi, (Yeni) Beyazıt Caddesi, No:37/1-B Yıldırım / Bursa",
+    "telefon": "0 (224) 362-22-62",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.185693,29.081700"
+  },
+  {
+    "isim": "Hayat Eczanesi",
+    "adres": "152 Evler Mahallesi, Eğitim Caddesi, 1.Nur Sokak No:12/D Yıldırım / Bursa",
+    "telefon": "0 (224) 361-62-20",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.186750,29.104242"
+  },
+  {
+    "isim": "Yeni Arabayatağı Eczanesi",
+    "adres": "Arabayatağı Mahallesi, Büyük Fırın Caddesi, No:9 Yıldırım / Bursa",
+    "telefon": "0 (224) 367-23-32",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.192512,29.122178"
+  },
+  {
+    "isim": "Teleferik Merkez Eczanesi",
+    "adres": "Piremir Mahallesi, Teleferik Caddesi No:72/A Yıldırım / Bursa",
+    "telefon": "0 (545) 851-08-50",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.172961,29.083352"
+  }
+]
