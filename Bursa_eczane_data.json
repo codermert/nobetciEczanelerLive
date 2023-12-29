@@ -73,7 +73,7 @@
   },
   {
     "isim": "Güzelyalı Eczanesi",
-    "adres": "Güzelyalı Eğitim Mahallesi, Kazım Karabekir Caddesi, No:8/b Mudanya / Bursa",
+    "adres": "Eğitim Mahallesi, Kazım Karabekir Caddesi, No:8/B Güzelyalı Mudanya / Bursa",
     "telefon": "0 (224) 554-85-80",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.35477,28.928694"
   },
@@ -97,7 +97,7 @@
   },
   {
     "isim": "Deva Eczanesi",
-    "adres": "Üçevler Mahallesi, Izmiryolu Caddesi, No:241/a-I Nilüfer / Bursa",
+    "adres": "Üçevler Mahallesi, İzmir Yolu Caddesi No:241 Nilüfer / Bursa",
     "telefon": "0 (224) 413-04-64",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.211606,28.941024"
   },
@@ -121,13 +121,13 @@
   },
   {
     "isim": "Topçuoğlu Eczanesi",
-    "adres": "Akçalar Mahallesi, Çiğdemlik Caddesi, No:1B/a Nilüfer - Akçalar / Bursa",
+    "adres": "Akçalar Mahallesi, Çiğdemlik Caddesi No:1 Nilüfer / Bursa",
     "telefon": "0 (224) 443-24-43",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.180272,28.744881"
   },
   {
     "isim": "Çalı Belgin Eczanesi",
-    "adres": "Çalı Mahallesi, 149. Sokak No:4/a Nilüfer - Çalı / Bursa",
+    "adres": "Çalı Mahallesi, 149 Sokak No:4/A Nilüfer / Bursa",
     "telefon": "0 (224) 482-28-28",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.172238,28.920346"
   },
@@ -169,7 +169,7 @@
   },
   {
     "isim": "Korupark Eczanesi",
-    "adres": "Emek Adnan Menderes Mahallesi, Mudanya Yolu No:62 Osmangazi / Bursa",
+    "adres": "Emek Adnan Menderes Mahallesi, Korupark AVM Zemin Kat No:62 Osmangazi / Bursa",
     "telefon": "0 (224) 241-33-82",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.2513820,28.9573290"
   },
@@ -187,7 +187,7 @@
   },
   {
     "isim": "Leventoğlu Eczanesi",
-    "adres": "Yıldırım Mahallesi, Kurtuluş Caddesi, No:127/a",
+    "adres": "Yıldırım Mahallesi, Kurtuluş Caddesi No:127/A Yıldırım / Bursa",
     "telefon": "0 (224) 364-72-71",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.1894113,29.0810570"
   },
