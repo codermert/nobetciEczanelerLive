@@ -12,12 +12,6 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.4209095,29.1583118"
   },
   {
-    "isim": "Sevinç Saral Eczanesi",
-    "adres": "Cumhuriyet Mahallesi, Gül Caddesi, No:184/B Gemlik / Bursa",
-    "telefon": "0 (224) 513-29-73",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=40.4423593,29.1396350"
-  },
-  {
     "isim": "Eslina Eczanesi",
     "adres": "Kurtuluş Mahallesi, Şehit Cüneyt Yıldız Caddesi No:35/B Gürsu / Bursa",
     "telefon": "0 (224) 371-00-91",
@@ -36,18 +30,6 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.0891830,29.4948210"
   },
   {
-    "isim": "Zümrüt Eczanesi",
-    "adres": "Yeni Mahallesi, Gülfidan Sokak No:3 İnegöl / Bursa",
-    "telefon": "0 (531) 239-44-04",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=40.101582,29.524593"
-  },
-  {
-    "isim": "Deva Eczanesi",
-    "adres": "Süleymaniye Mahallesi, Gönülaçan Sokak No:5/B İnegöl / Bursa",
-    "telefon": "0 (224) 711-91-11",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=40.0852240,29.5058720"
-  },
-  {
     "isim": "Yeni Poyraz Eczanesi",
     "adres": "Mustafakemalpaşa Mahallesi, Orhangazi Caddesi, No:23 İznik / Bursa",
     "telefon": "0 (224) 757-72-72",
@@ -60,22 +42,10 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.2171161,28.3586962"
   },
   {
-    "isim": "Çınar Eczanesi",
-    "adres": "Cuma Mahallesi, Tahir Hoca Caddesi, No:1 Keles / Bursa",
-    "telefon": "0 (224) 861-30-72",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=39.913103,29.232809"
-  },
-  {
     "isim": "Doğan Eczanesi",
     "adres": "Vani Mehmet Mahallesi, Hakim Aytekin Baysal Sokak No:5/B Kestel / Bursa",
     "telefon": "0 (224) 372-33-33",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.1993840,29.2133099"
-  },
-  {
-    "isim": "Güzelyalı Eczanesi",
-    "adres": "Eğitim Mahallesi, Kazım Karabekir Caddesi, No:8/B Güzelyalı Mudanya / Bursa",
-    "telefon": "0 (224) 554-85-80",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=40.35477,28.928694"
   },
   {
     "isim": "Doğu Eczanesi",
