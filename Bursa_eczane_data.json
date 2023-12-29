@@ -6,16 +6,16 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=39.774586,28.882433"
   },
   {
-    "isim": "Sevinç Saral Eczanesi",
-    "adres": "Cumhuriyet Mahallesi, Gül Caddesi, No:184/B Gemlik / Bursa",
-    "telefon": "0 (224) 513-29-73",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=40.4423593,29.1396350"
-  },
-  {
     "isim": "Şems Eczanesi",
     "adres": "Hisar Mahallesi, Kına Sokak I-Blok No:35/Z-2 Gemlik / Bursa",
     "telefon": "0 (224) 513-11-13",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.4209095,29.1583118"
+  },
+  {
+    "isim": "Sevinç Saral Eczanesi",
+    "adres": "Cumhuriyet Mahallesi, Gül Caddesi, No:184/B Gemlik / Bursa",
+    "telefon": "0 (224) 513-29-73",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.4423593,29.1396350"
   },
   {
     "isim": "Eslina Eczanesi",
@@ -30,12 +30,6 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=39.679031,29.154904"
   },
   {
-    "isim": "Deva Eczanesi",
-    "adres": "Süleymaniye Mahallesi, Gönülaçan Sokak No:5/B İnegöl / Bursa",
-    "telefon": "0 (224) 711-91-11",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=40.0852240,29.5058720"
-  },
-  {
     "isim": "Çınaraltı Eczanesi",
     "adres": "Süleymaniye Mahallesi, Furkan Sokak No:5/B İnegöl / Bursa",
     "telefon": "0 (224) 715-10-92",
@@ -46,6 +40,12 @@
     "adres": "Yeni Mahallesi, Gülfidan Sokak No:3 İnegöl / Bursa",
     "telefon": "0 (531) 239-44-04",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.101582,29.524593"
+  },
+  {
+    "isim": "Deva Eczanesi",
+    "adres": "Süleymaniye Mahallesi, Gönülaçan Sokak No:5/B İnegöl / Bursa",
+    "telefon": "0 (224) 711-91-11",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.0852240,29.5058720"
   },
   {
     "isim": "Yeni Poyraz Eczanesi",
@@ -90,16 +90,16 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.0300275,28.3956939"
   },
   {
-    "isim": "Bengisu Eczanesi",
-    "adres": "Altınşehir Mahallesi, A.Bpekçi Caddesi, No:42 Nilüfer / Bursa",
-    "telefon": "0 (224) 249-38-38",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=40.2290474,28.9183467"
-  },
-  {
     "isim": "Deva Eczanesi",
     "adres": "Üçevler Mahallesi, İzmir Yolu Caddesi No:241 Nilüfer / Bursa",
     "telefon": "0 (224) 413-04-64",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.211606,28.941024"
+  },
+  {
+    "isim": "Bengisu Eczanesi",
+    "adres": "Altınşehir Mahallesi, A.Bpekçi Caddesi, No:42 Nilüfer / Bursa",
+    "telefon": "0 (224) 249-38-38",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.2290474,28.9183467"
   },
   {
     "isim": "Sinanoğlu Eczanesi",
