@@ -115,25 +115,25 @@
   },
   {
     "isim": "Gramofon Eczanesi",
-    "adres": "Karaman Mahallesi, Konuk Sokak, No:3/a Nilüfer / Bursa",
+    "adres": "Karaman Mahallesi, Konuk Sokak, Dorukkent Sitesi B-Blok No:3/A Nilüfer / Bursa",
     "telefon": "0 (224) 453-08-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.213251,28.994261"
   },
   {
     "isim": "Ala Balat Eczanesi",
-    "adres": "Balat Mahallesi, Faruk Baykal Caddesi, No:17E/c Nilüfer / Bursa",
+    "adres": "Balat Mahallesi, Faruk Baykal Caddesi, Karya Balat Sitesi No:17/EC Nilüfer / Bursa",
     "telefon": "0 (224) 502-11-99",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.257333,28.940469"
   },
   {
     "isim": "Akçalar Eczanesi",
-    "adres": "Akçalar Mahallesi, Kanal 660 Caddesi, Derin Sokak, No:11 Nilüfer - Akçalar / Bursa",
+    "adres": "Akçalar Mahallesi, Kanal(660) Caddesi, Derin Sokak No:11 Nilüfer / Bursa",
     "telefon": "0 (224) 488-50-86",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.176842,28.744897"
   },
   {
     "isim": "Müge Eczanesi",
-    "adres": "Çalı Mahallesi, Sarıyerler Caddesi, Çağatay Apt. No:3/a Nilüfer - Çalı / Bursa",
+    "adres": "Çalı Mahallesi, Sarıyerler Caddesi, Çağatay Apt. No:3/A Nilüfer / Bursa",
     "telefon": "0 (224) 222-13-33",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.172323,28.920659"
   },
@@ -193,13 +193,13 @@
   },
   {
     "isim": "Esra Eczanesi",
-    "adres": "Yüzüncüyıl Mahallesi, Filiz Sokak, No:12/a Yenişehir / Bursa",
+    "adres": "100. Yıl Mahallesi, Filiz Sokak No:12/A Yenişehir / Bursa",
     "telefon": "0 (224) 772-33-22",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.2673711,29.639773"
   },
   {
     "isim": "Kübra Şifa Eczanesi",
-    "adres": "Mehmet Akif Ersoy Mahallesi, T.mehmet Ali Caddesi, No:63/b Yıldırım / Bursa",
+    "adres": "Mehmet Akif Ersoy Mahallesi, Teyyareci Mehmet Ali Caddesi No:63/B Yıldırım / Bursa",
     "telefon": "0 (224) 361-14-41",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.182890,29.091697"
   },
