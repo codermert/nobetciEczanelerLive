@@ -30,12 +30,6 @@
     "googleMapsUrl": "https://www.google.com/maps?daddr=39.679031,29.154904"
   },
   {
-    "isim": "Ateş Eczanesi",
-    "adres": "Cuma Mahallesi, 1.Lale Sokak No:19 İnegöl / Bursa",
-    "telefon": "0 (224) 715-45-04",
-    "googleMapsUrl": "https://www.google.com/maps?daddr=40.0786450,29.5107510"
-  },
-  {
     "isim": "Ömer Eczanesi",
     "adres": "Mesudiye Mahallesi, Sevgi Sokak No:6 İnegöl / Bursa",
     "telefon": "0 (224) 715-00-16",
@@ -46,6 +40,12 @@
     "adres": "Hamidiye Mahallesi, Park Caddesi, No:59/B İnegöl / Bursa",
     "telefon": "0 (224) 711-11-22",
     "googleMapsUrl": "https://www.google.com/maps?daddr=40.0696942,29.5099792"
+  },
+  {
+    "isim": "Ateş Eczanesi",
+    "adres": "Cuma Mahallesi, 1.Lale Sokak No:19 İnegöl / Bursa",
+    "telefon": "0 (224) 715-45-04",
+    "googleMapsUrl": "https://www.google.com/maps?daddr=40.0786450,29.5107510"
   },
   {
     "isim": "Ceyhan Eczanesi",
