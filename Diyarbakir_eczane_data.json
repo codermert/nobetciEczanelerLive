@@ -1,14 +1,14 @@
 [
   {
     "isim": "Can Sağlık Eczanesi",
-    "adres": "Altıok Mahallesi, Halk Bankası Karşısı",
+    "adres": "Altıok Mahallesi, Halk Bankası karşısı Bismil / Diyarbakır",
     "telefon": "0 (412) 415-14-15",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.850900,40.666100"
   },
   {
     "isim": "Çermik Eczanesi",
-    "adres": "Ziraat Bankası Yanı",
-    "telefon": "(Telefonu bulunamadı)",
+    "adres": "Ziraat Bankası yanı Çermik / Diyarbakır",
+    "telefon": "0 (412) 461-33-66",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.135679,39.451613"
   },
   {
@@ -25,50 +25,50 @@
   },
   {
     "isim": "Forum Beritan Eczanesi",
-    "adres": "Fabrika Mahallesi, Elazığ Bulvarı Forum Avm Zemin Kat 155/23 Caminin Yan Tarafı",
+    "adres": "Fabrika Mahallesi, Elazığ Bulvarı Forum Avm Zemin Kat 155/23 Caminin Yan Tarafı Merkez / Diyarbakır",
     "telefon": "0 (412) 502-23-96",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.958686,40.183289"
   },
   {
     "isim": "Yaşar Eczanesi",
-    "adres": "Ali Gaffar Okan Lisesi Karşısı (Bower Hastanesi Çaprazı) Cumhuriyet Garajı Yanı Sur",
+    "adres": "Ali Gaffar Okan Lisesi Karşısı (Bower Hastanesi Çaprazı) Cumhuriyet Garajı Yanı Sur Merkez / Diyarbakır",
     "telefon": "0 (412) 223-55-15",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9161736,40.2376481"
   },
   {
     "isim": "Limon Eczanesi",
-    "adres": "Zana Düğün Salonu Arkasındaki Paris Düğün Salonu Yanı Başkent 2 Sitesi Altı",
+    "adres": "Zana Düğün Salonu Arkasındaki Paris Düğün Salonu Yanı Başkent 2 Sitesi Altı Merkez / Diyarbakır",
     "telefon": "0 (412) 503-08-09",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9099504,40.1208966"
   },
   {
-    "isim": "Ciğerhun Eczanesi",
-    "adres": "Şeyh Şamil Mahallesi Medine Bulvarı No:37/b Namık Kemal Lisesi Ile Yahya Kemal Ilkokulu Arasında Bağlar",
-    "telefon": "(Telefonu bulunamadı)",
+    "isim": "Cigerhun Eczanesi",
+    "adres": "Şeyh Şamil Mahallesi Medine Bulvarı No:37/b Namık Kemal Lisesi Ile Yahya Kemal Ilkokulu Arasında Bağlar Merkez / Diyarbakır",
+    "telefon": "0 (412) 415-29-89",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.923579,40.201167"
   },
   {
     "isim": "Bozan Eczanesi",
-    "adres": "Körhat Mahallesi, Alipınar Mezarlığı Yanı Meteoroloji Md. Bitişiği Alay Komutanlığı Karşısı",
+    "adres": "Körhat Mahallesi, Alipınar Mezarlığı Yanı Meteoroloji Md. Bitişiği Alay Komutanlığı Karşısı Merkez / Diyarbakır",
     "telefon": "0 (412) 415-60-00",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.909022,40.211400"
   },
   {
     "isim": "Anadolu Eczanesi",
-    "adres": "Peyas Mahallesi Kayapınar Belediyesi Yanı Kaplan Çelik Kapı Arkası 429. Sokak Pilda 2005 Apt. Altı 1/c",
+    "adres": "Peyas Mahallesi Kayapınar Belediyesi Yanı Kaplan Çelik Kapı Arkası 429. Sokak Pilda 2005 Apt. Altı 1/c Merkez / Diyarbakır",
     "telefon": "0 (412) 251-64-30",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.9409326,40.1731118"
   },
   {
     "isim": "Anka Eczanesi",
-    "adres": "Diclekent Bulvarı Dünya Kavşağı Hancı Restorant 200 Mt Ilerisi Nurçay 3 Robin Sitesi Altı Dimaş Market Karşısı Hmt Plaza Civarı Kayapınar",
-    "telefon": "(Telefonu bulunamadı)",
+    "adres": "Diclekent Bulvarı Dünya Kavşağı Hancı Restorant 200 Mt Ilerisi Nurçay 3 Robin Sitesi Altı Dimaş Market Karşısı Hmt Plaza Civarı Kayapınar Merkez / Diyarbakır",
+    "telefon": "0 (530) 811-85-25",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.954165,40.165682"
   },
   {
     "isim": "Huzurevleri Eczanesi",
-    "adres": "Huzurevleri Mahallesi, (Huzurevleri Cami Köşesinden Girişte 200 M Içeride) Dr. Sıtkı Göral Caddesi, Yıldem Apt. Altı No:24/a Kelebek Fırın Karşısı",
-    "telefon": "(Telefonu bulunamadı)",
+    "adres": "Huzurevleri Mahallesi, (Huzurevleri Cami Köşesinden Girişte 200 M Içeride) Dr. Sıtkı Göral Caddesi, Yıldem Apt. Altı No:24/a Kelebek Fırın Karşısı Merkez / Diyarbakır",
+    "telefon": "0 (412) 238-16-58",
     "googleMapsUrl": "https://www.google.com/maps?daddr=37.937076,40.199853"
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "isim": "Yaman Eczanesi",
-    "adres": "Yenişehir Mahallesi Esenlik Caddesi No:10/c",
+    "adres": "Yenişehir Mahallesi Esenlik Caddesi No:10/c Silvan / Diyarbakır",
     "telefon": "0 (412) 711-43-38",
     "googleMapsUrl": "https://www.google.com/maps?daddr=38.155283,40.968797"
   }
