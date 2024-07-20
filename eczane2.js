@@ -1,7 +1,6 @@
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 const fs = require('fs');
-const HttpsProxyAgent = require('https-proxy-agent');
 
 const USER_AGENTS = [
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -19,18 +18,15 @@ async function delay(ms) {
 
 async function scrapePharmacies(url, cityName) {
   try {
-    const proxy = 'http://your-proxy-here'; // Bir proxy sunucusu belirtin
-    const agent = new HttpsProxyAgent(proxy);
-
     await delay(Math.random() * 5000 + 2000); // 2-7 saniye arası rastgele bekleme
 
     const response = await fetch(url, {
-      agent,
       headers: {
         'User-Agent': getRandomUserAgent(),
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
         'Accept-Language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Cache-Control': 'max-age=0',
+        'Cache-Control': 'no-cache',
+        'Pragma': 'no-cache',
         'Sec-Fetch-Dest': 'document',
         'Sec-Fetch-Mode': 'navigate',
         'Sec-Fetch-Site': 'none',
@@ -65,12 +61,12 @@ async function scrapePharmacies(url, cityName) {
       const individualPageUrl = `https://www.eczaneler.gen.tr${pharmacyUrl}`;
 
       const individualPageResponse = await fetch(individualPageUrl, {
-        agent,
         headers: {
           'User-Agent': getRandomUserAgent(),
           'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
           'Accept-Language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
-          'Cache-Control': 'max-age=0',
+          'Cache-Control': 'no-cache',
+          'Pragma': 'no-cache',
           'Sec-Fetch-Dest': 'document',
           'Sec-Fetch-Mode': 'navigate',
           'Sec-Fetch-Site': 'same-origin',
